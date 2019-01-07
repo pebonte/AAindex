@@ -197,7 +197,7 @@ def make_dataframe_from_aaindex_data(web_aaindex_dict, aaindex_names, alignment_
     coding_family_name = {}
     # First index for family name coding table
     idx_family = 1
-    for family in alignment_data:
+    for family in list(sorted(list(alignment_data.keys()))):
         if not family.startswith('number_of_seq'):
             print('{:-^60s}'.format(family))
             index_dict = {}
@@ -311,7 +311,7 @@ def make_aaindex_boxplots_by_family(family_name, list_aaindex, dataframe, coding
         # Making vertical line corresponding to the actual number of sequences in the family concerned
         ax.axvline(n_seq_family, color='red', linestyle='dashed', linewidth=1)
         # Setting title
-        ax.set_title('Histogram : Number of sequences in families', fontsize=13)
+        ax.set_title('Histogram : Number of sequences \nby family', fontsize=13)
         # Adding plot to figure
         fig.add_subplot(ax)
         # Setting last row cell index and column cell index used

@@ -43,7 +43,7 @@ list_aaindex_ids = ['BHAR880101', 'CASG920101', 'CHAM830107',
                     'RADA880108', 'TAKK010101', 'TAKK010101',
                     'VINM940101', 'WARP780101', 'WOLR790101',
                     'ZIMJ680101']
-#list_aaindex_ids = ['CHOP780207']
+list_aaindex_ids = ['CHOP780207']
 aaindex_data = retrieve_values_aaindex(list_aaindex_ids)
 web_aaindex_data_dict, aaindex_names_data = aaindex_data
 df_data = make_dataframe_from_aaindex_data(web_aaindex_data_dict,
@@ -52,7 +52,7 @@ df_data = make_dataframe_from_aaindex_data(web_aaindex_data_dict,
                                         list_aaindex_ids)
 data, dataframe, coding_family_name_dict, list_aaindex_ids = df_data
 
-for family in list(alignment_data_dict['number_of_seq'].keys()):
+for family in list(sorted(list(alignment_data_dict['number_of_seq'].keys()))):
     make_aaindex_boxplots_by_family(family,
                                     list_aaindex_ids,
                                     dataframe,

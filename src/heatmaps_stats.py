@@ -43,7 +43,6 @@ list_aaindex_ids = ['BHAR880101', 'CASG920101', 'CHAM830107',
                     'RADA880108', 'TAKK010101', 'TAKK010101',
                     'VINM940101', 'WARP780101', 'WOLR790101',
                     'ZIMJ680101']
-list_aaindex_ids = ['BHAR880101']
 aaindex_data = retrieve_values_aaindex(list_aaindex_ids)
 web_aaindex_data_dict, aaindex_names_data = aaindex_data
 aaindex_names_data['Sequence_size'] = 'Sequence_size'
@@ -61,7 +60,6 @@ for index in list_aaindex_ids:
     aaindex_df = dataframe.loc[dataframe['AAindex'] == index]
     loop_list = list(set(data['Loop']))
     family_list = list(set(data['Family']))
-    loop_list.remove(3)
     dirName = '../results/AAindex_stats/{}'.format(index)
     if not os.path.exists(dirName):
         os.mkdir(dirName)
@@ -78,6 +76,7 @@ for index in list_aaindex_ids:
             mask = np.zeros_like(pc)
             mask[np.triu_indices_from(mask)] = True
             ax = plt.axes(title = 'P-values loop {} for {}'.format(loop, index))
+            ax.set_title('P-values loop {} for {}'.format(loop, index), fontsize=35)
             heatmap_args = {'cmap': cmap,
                             'mask': mask,
                             'ax': ax,
@@ -90,7 +89,7 @@ for index in list_aaindex_ids:
             DPI = (fig.get_dpi()) * 2
             fig.set_size_inches(float(HEIGHT)/float(DPI),float(WIDTH)/float(DPI))
             # Saving figure
-            fig.savefig('{}/AAindex_stats_aaindex_{}_loop_{}_true'.format(dirName, index, loop))
+            fig.savefig('{}/AAindex_stats_aaindex_{}_loop_{}'.format(dirName, index, loop))
             plt.close(fig)
             print('OK')
             #plt.show()

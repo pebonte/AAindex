@@ -1,0 +1,33 @@
+PileUp
+
+MSF: 107  Type: P  Check: 0  ..
+
+Name: D8SIK0_SELML/1-104           Len:   107  Check: 6727  Weight:  1.00
+Name: D8SIK4_SELML/1-102           Len:   107  Check: 6692  Weight:  1.00
+Name: D8SW90_SELML/1-103           Len:   107  Check: 5303  Weight:  1.00
+Name: D8SW85_SELML/1-104           Len:   107  Check: 6992  Weight:  1.00
+Name: ITR2_OPUST/1-38              Len:   107  Check: 9840  Weight:  1.00
+
+//
+
+                             1                                                   50
+D8SIK0_SELML/1-104           MPMALRFTLF LAVACTMAMF MASARPANIG EEVYDITRQN KEVAGFAEDH
+D8SIK4_SELML/1-102           --MALRFTLF LAVACTMAMF MASARPANIG EEVYDITRQN KEVAGFAEDH
+D8SW90_SELML/1-103           MPMALRFTLF LAVACTMAMF MASARPANIG EEVYDITRQN -EVAGFAEDH
+D8SW85_SELML/1-104           MPMALRFTLF LAVACTMAMF MASARPANIG EEVYDITRQN QEVAGFAEDH
+ITR2_OPUST/1-38              ---------- ---------- ---------- ---------- ----------
+
+                             51                                                 100
+D8SIK0_SELML/1-104           PVNTEDDHGD PALTLKS-CA GKGHSCAPFY IPKGVQCCAG LHCVALIFG-
+D8SIK4_SELML/1-102           PVNTEDDHGD PALTLKS-CA GKGHSCAPFY IPKGVQCCAG LHCVALIFG-
+D8SW90_SELML/1-103           PVNTEDDHGD PALTLKS-CA GKGHSCAPFY VPEGVQCCAG LHCVAVIFG-
+D8SW85_SELML/1-104           PVNTEDDHGD LALTLNENCA GKGKSCAPFY IPRGVQCCSG LHCIAVLG--
+ITR2_OPUST/1-38              ---------- ------QQCA ERGQSCNPYE G---IECCGD ILCIQPRIWP
+
+                             101 
+D8SIK0_SELML/1-104           -VGGVCA
+D8SIK4_SELML/1-102           -VGGVCA
+D8SW90_SELML/1-103           -VGGFCA
+D8SW85_SELML/1-104           -VGGWCA
+ITR2_OPUST/1-38              PVPGRCA
+

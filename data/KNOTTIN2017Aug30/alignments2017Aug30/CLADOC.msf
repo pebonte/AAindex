@@ -1,0 +1,35 @@
+PileUp
+
+MSF: 154  Type: P  Check: 0  ..
+
+Name: E9FSX5_DAPPU/1-70            Len:   154  Check: 6184  Weight:  1.00
+Name: A0A164QGD3_9CRUS/1-70        Len:   154  Check: 5884  Weight:  1.00
+Name: T1KBA3_TETUR/1-131           Len:   154  Check: 1906  Weight:  1.00
+Name: T1KZ04_TETUR/1-116           Len:   154  Check: 8723  Weight:  1.00
+
+//
+
+                             1                                                   50
+E9FSX5_DAPPU/1-70            ---------- ---------- ---------- ---------- ----------
+A0A164QGD3_9CRUS/1-70        ---------- ---------- ---------- ---------- ----------
+T1KBA3_TETUR/1-131           ---------- --MEHLTSMK HCSQLTVDSS KMVVKPFITT LRYRSLLFIL
+T1KZ04_TETUR/1-116           MVKVTALFFS LIMLIGIAFQ NCSMTSYYSL SDSQ------ ----------
+
+                             51                                                 100
+E9FSX5_DAPPU/1-70            ---------- ---------- -MTNEQQSAG LNYFTDNAEP LMENAQKRSC
+A0A164QGD3_9CRUS/1-70        ---------- ---------- -MANEQQSAG LNYFTDNAEP LMDNAQKRSC
+T1KBA3_TETUR/1-131           VTFVIISTLF NVNAQAEGYY STSDRHMASE MLEGVGDNLA KLFLAKKRSC
+T1KZ04_TETUR/1-116           ---------- ---------- -LTAEMLSKY SDSIDKLLSM GHKNSKKQAC
+
+                             101                                                150
+E9FSX5_DAPPU/1-70            IRRGGSCDHR RNDCCFSSSC RCNLWGSNCR CHRAGLFQKW G---------
+A0A164QGD3_9CRUS/1-70        IRRGGSCDHR RNDCCFSSSC RCNLWGSNCR CHRAGLFQKW G---------
+T1KBA3_TETUR/1-131           IKRGAICDLK PDGCCGNSLC KCNLWGTNCR CQRIGLFQRW GRK-------
+T1KZ04_TETUR/1-116           IRKRGICDLR PRDCCSG-LC RCNLWGGNCR CQNRGLFSKL GKRTDSMYYK
+
+                             151 
+E9FSX5_DAPPU/1-70            ----
+A0A164QGD3_9CRUS/1-70        ----
+T1KBA3_TETUR/1-131           ----
+T1KZ04_TETUR/1-116           EEET
+

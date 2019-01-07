@@ -1,0 +1,245 @@
+PileUp
+
+MSF: 83  Type: P  Check: 0  ..
+
+Name: SCX1_HOTTS/1-35              Len:    83  Check:  941  Weight:  1.00
+Name: SCX3_MESEU/1-36              Len:    83  Check: 2915  Weight:  1.00
+Name: F1DI80_MESEU/1-34            Len:    83  Check: 1345  Weight:  1.00
+Name: SCXS_MESEU/1-35              Len:    83  Check: 1782  Weight:  1.00
+Name: A0A146CJF8_MESEU/1-60        Len:    83  Check: 6200  Weight:  1.00
+Name: CTX5A_MESEU/1-35             Len:    83  Check: 1805  Weight:  1.00
+Name: SCX4_MESEU/1-35              Len:    83  Check: 1461  Weight:  1.00
+Name: SCXC_MESEU/1-35              Len:    83  Check: 1533  Weight:  1.00
+Name: R4H5A4_MESEU/1-60            Len:    83  Check: 6454  Weight:  1.00
+Name: E4VP45_MESEU/1-60            Len:    83  Check: 6346  Weight:  1.00
+Name: SCXC1_MESEU/1-35             Len:    83  Check: 2595  Weight:  1.00
+Name: R4H559_MESEU/1-39            Len:    83  Check: 5425  Weight:  1.00
+Name: E4VP46_MESEU/1-67            Len:    83  Check: 1274  Weight:  1.00
+Name: SCX1_MESEU/1-36              Len:    83  Check: 3208  Weight:  1.00
+Name: A0A023UGK1_MESGB/1-60        Len:    83  Check: 7488  Weight:  1.00
+Name: A0A023UH07_MESGB/1-60        Len:    83  Check: 7811  Weight:  1.00
+Name: SCXL_HOTTS/1-36              Len:    83  Check: 1297  Weight:  1.00
+Name: CTXLB_MESMA/1-59             Len:    83  Check: 4513  Weight:  1.00
+Name: F1CIY7_HOTJU/1-61            Len:    83  Check: 6598  Weight:  1.00
+Name: SCKP3_TITSE/1-29             Len:    83  Check: 8925  Weight:  1.00
+Name: KGX47_CENLI/1-43             Len:    83  Check: 5839  Weight:  1.00
+Name: KGX46_CENLI/1-43             Len:    83  Check: 6799  Weight:  1.00
+Name: KGX15_CENLI/1-42             Len:    83  Check: 6319  Weight:  1.00
+Name: KGX19_CENTE/1-42             Len:    83  Check: 5912  Weight:  1.00
+Name: KGX13_CENGR/1-42             Len:    83  Check: 6346  Weight:  1.00
+Name: B8XH23_BUTOS/1-57            Len:    83  Check: 4371  Weight:  1.00
+Name: F1CIY7_BUTJU/1-61            Len:    83  Check: 6598  Weight:  1.00
+Name: E4VP46_BUTEU/1-67            Len:    83  Check: 9870  Weight:  1.00
+Name: E4VP45_BUTEU/1-60            Len:    83  Check: 4942  Weight:  1.00
+Name: B8XH26_BUTOS/1-63            Len:    83  Check: 8442  Weight:  1.00
+Name: B8XH24_BUTOS/1-63            Len:    83  Check: 8466  Weight:  1.00
+Name: SCCT_MESMA/1-59              Len:    83  Check: 3538  Weight:  1.00
+Name: SCCX_MESMA/1-59              Len:    83  Check: 3750  Weight:  1.00
+Name: SCX3_MESTA/1-60              Len:    83  Check: 4695  Weight:  1.00
+Name: B8XH27_BUTOS/1-65            Len:    83  Check: 9679  Weight:  1.00
+Name: B8XH25_BUTOS/1-70            Len:    83  Check:  109  Weight:  1.00
+Name: SCIT_MESTA/1-62              Len:    83  Check: 6481  Weight:  1.00
+Name: F1DI80_BUTEU/1-34            Len:    83  Check: 9941  Weight:  1.00
+Name: SCXL_LEIQU/1-36              Len:    83  Check:  714  Weight:  1.00
+Name: SCXC_BUTEU/1-35              Len:    83  Check:  129  Weight:  1.00
+Name: SCXC1_BUTEU/1-35             Len:    83  Check: 1191  Weight:  1.00
+Name: SCX5_BUTEU/1-35              Len:    83  Check: 1805  Weight:  1.00
+Name: SCXS_BUTEU/1-35              Len:    83  Check: 1782  Weight:  1.00
+Name: SCX4_BUTEU/1-35              Len:    83  Check: 1461  Weight:  1.00
+Name: SCX1_BUTEU/1-36              Len:    83  Check: 3208  Weight:  1.00
+Name: SCX3_BUTEU/1-36              Len:    83  Check: 2915  Weight:  1.00
+Name: SCX1_LEIQH/1-34              Len:    83  Check: 9904  Weight:  1.00
+Name: SCXL_BUTSI/1-36              Len:    83  Check: 1297  Weight:  1.00
+Name: SCXP_ANDMA/1-35              Len:    83  Check: 2736  Weight:  1.00
+Name: SCX1_BUTSI/1-35              Len:    83  Check:  941  Weight:  1.00
+Name: SCX8_LEIQH/1-38              Len:    83  Check: 4063  Weight:  1.00
+Name: CTXL_ANDAU/1-34              Len:    83  Check: 1759  Weight:  1.00
+Name: KGX11_CENNO/1-62             Len:    83  Check: 6457  Weight:  1.00
+Name: KGX42_CENNO/1-43             Len:    83  Check: 6851  Weight:  1.00
+Name: KGX44_CENEX/1-43             Len:    83  Check: 6543  Weight:  1.00
+Name: KGX45_CENEX/1-43             Len:    83  Check: 6765  Weight:  1.00
+Name: KGX46_CENLL/1-43             Len:    83  Check: 6799  Weight:  1.00
+Name: KGX47_CENLL/1-43             Len:    83  Check: 5839  Weight:  1.00
+Name: KGX41_CENLL/1-43             Len:    83  Check: 6477  Weight:  1.00
+Name: KGX48_CENEL/1-43             Len:    83  Check: 6208  Weight:  1.00
+Name: KGX4B_CENNO/1-43             Len:    83  Check: 6449  Weight:  1.00
+Name: KGX49_CENSC/1-43             Len:    83  Check: 6393  Weight:  1.00
+Name: KGX4A_CENSC/1-43             Len:    83  Check: 6444  Weight:  1.00
+Name: KGX4C_CENSC/1-43             Len:    83  Check: 6247  Weight:  1.00
+Name: KGX4D_CENNO/1-43             Len:    83  Check: 6185  Weight:  1.00
+Name: KGX43_CENEX/1-43             Len:    83  Check: 6039  Weight:  1.00
+Name: KGX33_CENSC/1-43             Len:    83  Check: 6797  Weight:  1.00
+Name: KGX31_CENNO/1-43             Len:    83  Check: 7778  Weight:  1.00
+Name: KGX32_CENEL/1-43             Len:    83  Check: 6610  Weight:  1.00
+Name: KGX34_CENGR/1-42             Len:    83  Check: 5806  Weight:  1.00
+Name: KGX52_CENGR/1-47             Len:    83  Check: 8943  Weight:  1.00
+Name: KGX51_CENSC/1-47             Len:    83  Check: 9364  Weight:  1.00
+Name: KGX16_CENEX/1-42             Len:    83  Check: 5622  Weight:  1.00
+Name: KGX14_CENSC/1-42             Len:    83  Check: 5617  Weight:  1.00
+Name: KGX17_CENEL/1-42             Len:    83  Check: 6319  Weight:  1.00
+Name: KGX18_CENEL/1-42             Len:    83  Check: 5890  Weight:  1.00
+Name: KGX15_CENLL/1-42             Len:    83  Check: 6319  Weight:  1.00
+Name: KGX12_CENEL/1-42             Len:    83  Check: 7111  Weight:  1.00
+
+//
+
+                             1                                                   50
+SCX1_HOTTS/1-35              ---------- ---------- ---------- -RCKP---CF TTDPQMSKKC
+SCX3_MESEU/1-36              ---------- ---------- ---------- -MCMP---CF TTDHQTARRC
+F1DI80_MESEU/1-34            ---------- ---------- ---------- -MCMP---CF TTDHNMAKKC
+SCXS_MESEU/1-35              ---------- ---------- ---------- -MCMP---CF TTDPNMANKC
+A0A146CJF8_MESEU/1-60        -------MKF LYGIVFIALF LTVMTATLSD AMCMP---CF TTDPNMARKC
+CTX5A_MESEU/1-35             ---------- ---------- ---------- -MCMP---CF TTDPNMAKKC
+SCX4_MESEU/1-35              ---------- ---------- ---------- -MCMP---CF TTDHNMAKKC
+SCXC_MESEU/1-35              ---------- ---------- ---------- -MCMP---CF TTDHNMAKKC
+R4H5A4_MESEU/1-60            -------MKF LYGIVFIALF LTVMIATLTE AMCMP---CF TTRPDMAQQC
+E4VP45_MESEU/1-60            -------MKF LYGIVFIALF LTVMIATHTE AMCMP---CF TTRPDMAQQC
+SCXC1_MESEU/1-35             ---------- ---------- ---------- -MCMP---CF TTRPDMAQQC
+R4H559_MESEU/1-39            ---------- ---------- --------TE AMCMP---CF TTRPDMAQQC
+E4VP46_MESEU/1-67            -------MKF LYGIVFIALF LTGMIATHTE AMCMP---CF TTRPDMAQQC
+SCX1_MESEU/1-36              ---------- ---------- ---------- -MCMP---CF TTRPDMAQQC
+A0A023UGK1_MESGB/1-60        -------MKF LYGIVFIALF LTVMIATHTE AMCMP---CF TTRPNMAQQC
+A0A023UH07_MESGB/1-60        -------MKF LYGIVFITLF LTVMIATHTE AMCMP---CF TTRPNMAQQC
+SCXL_HOTTS/1-36              ---------- ---------- ---------- --CGP---CF TKDPETEKKC
+CTXLB_MESMA/1-59             -------MKF LYGIVFIALF LTVMFAT-QT DGCGP---CF TTDANMARKC
+F1CIY7_HOTJU/1-61            -------MKF LYGIILIALF LTVMIATHSE ARCPN---CF TTNPNAEADC
+SCKP3_TITSE/1-29             ---------- ---------- ---------T VKCGG---CN R---------
+KGX47_CENLI/1-43             ---------- ---------- --------DR DSCVDKSKCA K--YGYYGQC
+KGX46_CENLI/1-43             ---------- ---------- --------DR DSCVDKSKCS K--YGYYGQC
+KGX15_CENLI/1-42             ---------- ---------- --------DR DSCVDKSRCS K--YGYYQEC
+KGX19_CENTE/1-42             ---------- ---------- --------DR DSCIDKSRCS K--YGYYQEC
+KGX13_CENGR/1-42             ---------- ---------- --------DR DSCVDKSRCA K--YGHYQEC
+B8XH23_BUTOS/1-57            ---------- ---MVFVAVF LTVMIATHTE AACAP---CL PGDFLRDKKC
+F1CIY7_BUTJU/1-61            -------MKF LYGIILIALF LTVMIATHSE ARCPN---CF TTNPNAEADC
+E4VP46_BUTEU/1-67            -------MKF LYGIVFIALF LTGMIATHTE AMCMP---CF TTRPDMAQQC
+E4VP45_BUTEU/1-60            -------MKF LYGIVFIALF LTVMIATHTE AMCMP---CF TTRPDMAQQC
+B8XH26_BUTOS/1-63            -------MKF LYEIVFIALF LTVMIATHTE AGCEDRP-CK P-SPVYDRFC
+B8XH24_BUTOS/1-63            -------MKF LYGIVFIALF LTVMIATHTE AGCEDRP-CK P-SPVYDRFC
+SCCT_MESMA/1-59              ------MKFL YGIVFIALFL TVMFATQT-- DGCGP---CF TTDANMARKC
+SCCX_MESMA/1-59              ------MKFL YGIVFIALFL TVMFATQT-- DGCGP---CF TTDANMARKC
+SCX3_MESTA/1-60              -----MKFLY GTILIAFFLT VMIATHSE-- ARCPP---CF TTNPNMEADC
+B8XH27_BUTOS/1-65            -----MKFLY GIIFVALFLT VMLATHIEGL ISCTT---CF STTPNMDKIC
+B8XH25_BUTOS/1-70            KTLLKLKFLY GTIFVALFLT VMLATHIEGL ISCTT---CF STTPNMDKIC
+SCIT_MESTA/1-62              -----MKFLY GVILIALFLT VMTATLSE-- ARCGP---CF TTDPQTQAKC
+F1DI80_BUTEU/1-34            ---------- ---------- ---------- -MCMP---CF TTDHNMAKKC
+SCXL_LEIQU/1-36              ---------- ---------- ---------- -MCMP---CF TTDHQMARKC
+SCXC_BUTEU/1-35              ---------- ---------- ---------- -MCMP---CF TTDHNMAKKC
+SCXC1_BUTEU/1-35             ---------- ---------- ---------- -MCMP---CF TTRPDMAQQC
+SCX5_BUTEU/1-35              ---------- ---------- ---------- -MCMP---CF TTDPNMAKKC
+SCXS_BUTEU/1-35              ---------- ---------- ---------- -MCMP---CF TTDPNMANKC
+SCX4_BUTEU/1-35              ---------- ---------- ---------- -MCMP---CF TTDHNMAKKC
+SCX1_BUTEU/1-36              ---------- ---------- ---------- -MCMP---CF TTRPDMAQQC
+SCX3_BUTEU/1-36              ---------- ---------- ---------- -MCMP---CF TTDHQTARRC
+SCX1_LEIQH/1-34              ---------- ---------- ---------- --CGP---CF TTDHQMEQKC
+SCXL_BUTSI/1-36              ---------- ---------- ---------- --CGP---CF TKDPETEKKC
+SCXP_ANDMA/1-35              ---------- ---------- ---------- --CGP---CF TTDPYTESKC
+SCX1_BUTSI/1-35              ---------- ---------- ---------- -RCKP---CF TTDPQMSKKC
+SCX8_LEIQH/1-38              ---------- ---------- ---------- -RCSP---CF TTDQQMTKKC
+CTXL_ANDAU/1-34              ---------- ---------- ---------- -MCIP---CF TTNPNMAAKC
+KGX11_CENNO/1-62             --------MK VLILIMIIAS LMIMGVEMDR DSCVDKSRCA K--YGYYQEC
+KGX42_CENNO/1-43             ---------- ---------- --------DR DSCVDKSKCG K--YGYYQEC
+KGX44_CENEX/1-43             ---------- ---------- --------DR DSCVDKSKCA K--YGYYYQC
+KGX45_CENEX/1-43             ---------- ---------- --------DR DSCVDKSQCA K--YGYYYQC
+KGX46_CENLL/1-43             ---------- ---------- --------DR DSCVDKSKCS K--YGYYGQC
+KGX47_CENLL/1-43             ---------- ---------- --------DR DSCVDKSKCA K--YGYYGQC
+KGX41_CENLL/1-43             ---------- ---------- --------DR DSCVDKSKCS K--YGYYGQC
+KGX48_CENEL/1-43             ---------- ---------- --------DR DSCVDKSKCG K--YGYYHQC
+KGX4B_CENNO/1-43             ---------- ---------- --------DR DSCVDKSQCG K--YGYYGQC
+KGX49_CENSC/1-43             ---------- ---------- --------DR DSCVDKSRCG K--YGYYGQC
+KGX4A_CENSC/1-43             ---------- ---------- --------DR DSCVDKSRCG K--YGYYGQC
+KGX4C_CENSC/1-43             ---------- ---------- --------ER DSCVEKSKCG K--YGYYGQC
+KGX4D_CENNO/1-43             ---------- ---------- --------DR DSCVDKSKCG K--YGYYGQC
+KGX43_CENEX/1-43             ---------- ---------- --------DR DSCVDKSKCG K--YGYYGQC
+KGX33_CENSC/1-43             ---------- ---------- --------DR DSCVDKSRCA K--YGYYGQC
+KGX31_CENNO/1-43             ---------- ---------- --------GR DSCVNKSRCA K--YGYYSQC
+KGX32_CENEL/1-43             ---------- ---------- --------DR DSCVDKSRCA K--YGYYQQC
+KGX34_CENGR/1-42             ---------- ---------- --------DR DSCVDKSRCQ K--YGNYAQC
+KGX52_CENGR/1-47             ---------- ---------- --------DR DSCVDKSRCQ K--YGPYGQC
+KGX51_CENSC/1-47             ---------- ---------- --------DR DSCVDKSRCA K--YGYYGQC
+KGX16_CENEX/1-42             ---------- ---------- --------DR DSCVDKSRCA K--YGYYQEC
+KGX14_CENSC/1-42             ---------- ---------- --------DR DSCVDKSRCA K--YGYYQEC
+KGX17_CENEL/1-42             ---------- ---------- --------DR DSCVDKSRCS K--YGYYQEC
+KGX18_CENEL/1-42             ---------- ---------- --------DR DSCIDKSRCS K--YGYYQEC
+KGX15_CENLL/1-42             ---------- ---------- --------DR DSCVDKSRCS K--YGYYQEC
+KGX12_CENEL/1-42             ---------- ---------- --------DR DSCVDKSRCA K--YGYYQEC
+
+                             51                                83
+SCX1_HOTTS/1-35              ADCCGGKGK- -GKCYGP--Q CLC------- ---
+SCX3_MESEU/1-36              RDCCGGRGR- --KCFG---Q CLCGYD---- ---
+F1DI80_MESEU/1-34            NDCCGGYG-- --KCFGP--Q CLCR------ ---
+SCXS_MESEU/1-35              RDCCGGGK-- --KCFGP--Q CLCNR----- ---
+A0A146CJF8_MESEU/1-60        RDCCGGNG-- --KCFGP--Q CLCNRG---- ---
+CTX5A_MESEU/1-35             RDCCGGNG-- --KCFGP--Q CLCNR----- ---
+SCX4_MESEU/1-35              RDCCGGNG-- --KCFGP--Q CLCNR----- ---
+SCXC_MESEU/1-35              RDCCGGNG-- --KCFGY--Q CLCNR----- ---
+R4H5A4_MESEU/1-60            RDCCGGNG-- --KCFGY--Q CLCNRG---- ---
+E4VP45_MESEU/1-60            RDCCGGNG-- --KCFGY--Q CLCNRG---- ---
+SCXC1_MESEU/1-35             RDCCGGNG-- --KCFGY--Q CLCNR----- ---
+R4H559_MESEU/1-39            RDCCGGNG-- --KCFGY--Q CLCNRG---- ---
+E4VP46_MESEU/1-67            RDCCGGNG-- --KCFGY--Q CLCNRGRIVI MYT
+SCX1_MESEU/1-36              RACCKGRG-- --KCFGP--Q CLCGYD---- ---
+A0A023UGK1_MESGB/1-60        RDCCRGRG-- --KCFGP--Q CLCGYD---- ---
+A0A023UH07_MESGB/1-60        RDCCRGRG-- --KCFGP--Q CLCGYD---- ---
+SCXL_HOTTS/1-36              ATCCGGIG-- --RCFGP--Q CLCNRGY--- ---
+CTXLB_MESMA/1-59             RECCGGNG-- --KCFGP--Q CLCNRE---- ---
+F1CIY7_HOTJU/1-61            KKCCGNRWG- --KCAGY--Q CVCPMK---- ---
+SCKP3_TITSE/1-29             -KCCPG-GCR SGKCING--K CQCY------ ---
+KGX47_CENLI/1-43             DECCKKAGDR AGNCVYL--K CKCNQ----- ---
+KGX46_CENLI/1-43             DKCCKKAGDR AGNCVYF--K CKCNQ----- ---
+KGX15_CENLI/1-42             QDCCKKAGHN GGTCMFF--K CKCA------ ---
+KGX19_CENTE/1-42             QDCCKKAGHN RGTCMFF--K CKCA------ ---
+KGX13_CENGR/1-42             TDCCKKYGHN GGTCMFF--K CKCA------ ---
+B8XH23_BUTOS/1-57            KACCGGNG-- --KCMG--IS CRCSGGSKS- ---
+F1CIY7_BUTJU/1-61            KKCCGNRWG- --KCAGY--Q CVCPMK---- ---
+E4VP46_BUTEU/1-67            RDCCGGN--- -GKCFGY--Q CLCNRGRIVI MYT
+E4VP45_BUTEU/1-60            RDCCGGN--- -GKCFGY--Q CLCNRG---- ---
+B8XH26_BUTOS/1-63            WKCCGGKG-- --KCDVFKAH CVCSRG---- ---
+B8XH24_BUTOS/1-63            WKCCGGKG-- --KCDVFKAH CVCSRG---- ---
+SCCT_MESMA/1-59              RECCGGIG-- --KCFGP--Q CLCNRI---- ---
+SCCX_MESMA/1-59              RECCGGNG-- --KCFGP--Q CLCNRE---- ---
+SCX3_MESTA/1-60              RKCCGGRG-- --YCASY--Q CICPGG---- ---
+B8XH27_BUTOS/1-65            SNCCRNKGG- -GTCKGS--Y CVCRIQY--- ---
+B8XH25_BUTOS/1-70            SNCCRNKGG- -GTCKGS--Y CVCRIQY--- ---
+SCIT_MESTA/1-62              SECCGRKGG- --VCKGP--Q CICGIQY--- ---
+F1DI80_BUTEU/1-34            NDCCGGY--- -GKCFGP--Q CLCR------ ---
+SCXL_LEIQU/1-36              DDCCGGKGR- -GKCYGP--Q CLCR------ ---
+SCXC_BUTEU/1-35              RDCCGGN--- -GKCFGY--Q CLCNR----- ---
+SCXC1_BUTEU/1-35             RDCCGGN--- -GKCFGY--Q CLCNR----- ---
+SCX5_BUTEU/1-35              RDCCGGNG-- --KCFGP--Q CLCNR----- ---
+SCXS_BUTEU/1-35              RDCCGGGK-- --KCFGP--Q CLCNR----- ---
+SCX4_BUTEU/1-35              RDCCGGNG-- --KCFGP--Q CLCNR----- ---
+SCX1_BUTEU/1-36              RACCKGRG-- --KCFGP--Q CLCGYD---- ---
+SCX3_BUTEU/1-36              RDCCGGRGR- --KCFG---Q CLCGYD---- ---
+SCX1_LEIQH/1-34              AECCGGIG-- --KCYGP--Q CLCNR----- ---
+SCXL_BUTSI/1-36              ATCCGGIG-- --RCFGP--Q CLCNRGY--- ---
+SCXP_ANDMA/1-35              ATCCGGRG-- --KCVGP--Q CLCNRI---- ---
+SCX1_BUTSI/1-35              ADCCGGKGK- -GKCYGP--Q CLC------- ---
+SCX8_LEIQH/1-38              YDCCGGKGK- -GKCYGP--Q CICAPY---- ---
+CTXL_ANDAU/1-34              NACCGSRRG- --SCRGP--Q CIC------- ---
+KGX11_CENNO/1-62             QDCCKNAGHN GGTCMFF--K CKCA------ ---
+KGX42_CENNO/1-43             QDCCKNAGHN GGTCVYY--K CKCNP----- ---
+KGX44_CENEX/1-43             DECCKKAGDR AGTCEYF--K CKCNP----- ---
+KGX45_CENEX/1-43             DECCKKAGDR AGTCEYF--K CKCNP----- ---
+KGX46_CENLL/1-43             DKCCKKAGDR AGNCVYF--K CKCNQ----- ---
+KGX47_CENLL/1-43             DECCKKAGDR AGNCVYL--K CKCNQ----- ---
+KGX41_CENLL/1-43             DECCKKAGDR AGNCVYF--K CKCNP----- ---
+KGX48_CENEL/1-43             DECCKKAGDR AGNCVYY--K CKCNP----- ---
+KGX4B_CENNO/1-43             DECCKKAGER VGTCVYY--K CKCNP----- ---
+KGX49_CENSC/1-43             DDCCKKAGDR AGTCVYY--K CKCNP----- ---
+KGX4A_CENSC/1-43             DECCKKAGDR AGTCVYY--K CKCNP----- ---
+KGX4C_CENSC/1-43             DECCKKAGDR AGTCVYY--K CKCNP----- ---
+KGX4D_CENNO/1-43             DECCKKAGDR AGTCVYY--K CKCNP----- ---
+KGX43_CENEX/1-43             DECCKKAGDR AGICEYY--K CKCNP----- ---
+KGX33_CENSC/1-43             EVCCKKAGHR GGTCDFF--K CKCKV----- ---
+KGX31_CENNO/1-43             EVCCKKAGHK GGTCDFF--K CKCKV----- ---
+KGX32_CENEL/1-43             EICCKKAGHR GGTCEFF--K CKCKV----- ---
+KGX34_CENGR/1-42             TACCKKAGHN KGTCDFF--K CKCT------ ---
+KGX52_CENGR/1-47             TDCCKKAGHT GGTCIYF--K CKCGAESGR- ---
+KGX51_CENSC/1-47             EVCCKKAGHN GGTCMFF--K CMCVNSKMN- ---
+KGX16_CENEX/1-42             QDCCKKAGHS GGTCMFF--K CKCA------ ---
+KGX14_CENSC/1-42             QDCCKKAGHN GGTCMFF--K CKCA------ ---
+KGX17_CENEL/1-42             QDCCKKAGHN GGTCMFF--K CKCA------ ---
+KGX18_CENEL/1-42             QDCCKKAGHN GGTCMFF--K CKCA------ ---
+KGX15_CENLL/1-42             QDCCKKAGHN GGTCMFF--K CKCA------ ---
+KGX12_CENEL/1-42             TDCCKKYGHN GGTCMFF--K CKCA------ ---
+

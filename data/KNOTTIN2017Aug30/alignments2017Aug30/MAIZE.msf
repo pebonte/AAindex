@@ -1,0 +1,49 @@
+PileUp
+
+MSF: 136  Type: P  Check: 0  ..
+
+Name: B6SME3_MAIZE/1-90            Len:   136  Check: 6900  Weight:  1.00
+Name: B6SRH4_MAIZE/1-90            Len:   136  Check: 6684  Weight:  1.00
+Name: Q4KWL5_MAIZE/1-90            Len:   136  Check: 7370  Weight:  1.00
+Name: B6UAE2_MAIZE/1-90            Len:   136  Check: 7224  Weight:  1.00
+Name: B6TPT0_MAIZE/1-90            Len:   136  Check: 7694  Weight:  1.00
+Name: B6TZ23_MAIZE/1-100           Len:   136  Check: 8386  Weight:  1.00
+Name: B6U6T7_MAIZE/1-83            Len:   136  Check: 8449  Weight:  1.00
+Name: B6SPP3_MAIZE/1-83            Len:   136  Check: 7048  Weight:  1.00
+Name: C5YPK7_SORBI/1-98            Len:   136  Check:  418  Weight:  1.00
+
+//
+
+                             1                                                   50
+B6SME3_MAIZE/1-90            ---------- ---MKGGKKE VAGAVVAILL VLQLMAAPPT AMAARSPHGA
+B6SRH4_MAIZE/1-90            ---------- ---MKGGKKE VAGAMVAILL VLQLMAAPPT AMAARSPHGA
+Q4KWL5_MAIZE/1-90            ---------- ---MKGGKKE VAGAVVAILL VLQLMAAPPT AMAARSPRGA
+B6UAE2_MAIZE/1-90            ---------- ---MKGGKKE VAGAVVAILL VLQLMAAPPT AMAARSPHGA
+B6TPT0_MAIZE/1-90            ---------- ---MKGGKKE VAGAVVAILL VLQLMAAPPT AMAARSPRGA
+B6TZ23_MAIZE/1-100           ---------- ---------- ---------- --MVAPTTAT ARLLQADTSP
+B6U6T7_MAIZE/1-83            ---------- ---MESASKK VAAGVLALLL LQLMVAPTTA RLLQQADTSP
+B6SPP3_MAIZE/1-83            ---------- --MECGSKKA AGGVLALLLL QLVLAPTTAT ARLLQADTST
+C5YPK7_SORBI/1-98            MASGGGKRKP AAPVVAKTML LLLLQVMAAP TAVMAARTLQ GEDVLLYTTP
+
+                             51                                                 100
+B6SME3_MAIZE/1-90            VPDGSLATTP KVTMLSATLC YTGETCKYIG CLT--PACSC NYSDRLCYII
+B6SRH4_MAIZE/1-90            VPDGSLATTP KVTMLSATLC YTGETCKYIG CLT--PACSC NYSDRLCYII
+Q4KWL5_MAIZE/1-90            VPDGSLATTP KVTMLSATLC YTGETCKYIG CLT--PACSC NYSDRLCYII
+B6UAE2_MAIZE/1-90            VPDGSLATTP KVTMLSATLC YTGETCKYTP CFT--PACSC SFSDRLCYVI
+B6TPT0_MAIZE/1-90            VPDGSLATTP KVTMLSATLC YTGETCKYTP CFT--PACSC SFSDRLCYVI
+B6TZ23_MAIZE/1-100           VFGLDIIARE FGHPDGAIYC G--ESCVLIP CISSVIGCRC EN--KVCVHR
+B6U6T7_MAIZE/1-83            VLGLDIMARE FGHPDGAIPC G--ESCVFIP CATSVFGCRC EN--KVCVHD
+B6SPP3_MAIZE/1-83            VVGLDIIARE FGHPVRGILC G--ETCVFLP CYTAAMGCQC IG--QICMM-
+C5YPK7_SORBI/1-98            VLGLNTIARE FGN---PVAC G--ESCVFIP CISSVVGCKC VN--KACYFM
+
+                             101                                 136
+B6SME3_MAIZE/1-90            FTPVA----- ---------- ---------- ------
+B6SRH4_MAIZE/1-90            FTPVA----- ---------- ---------- ------
+Q4KWL5_MAIZE/1-90            FTPVA----- ---------- ---------- ------
+B6UAE2_MAIZE/1-90            FTPVA----- ---------- ---------- ------
+B6TPT0_MAIZE/1-90            FTPVA----- ---------- ---------- ------
+B6TZ23_MAIZE/1-100           LKKPSSSLIS LSRHLRAISC CFHDDPLCVK NQLHLL
+B6U6T7_MAIZE/1-83            ---------- ---------- ---------- ------
+B6SPP3_MAIZE/1-83            ---------- ---------- ---------- ------
+C5YPK7_SORBI/1-98            PSISS----- ---------- ---------- ------
+

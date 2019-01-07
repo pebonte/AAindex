@@ -1,0 +1,105 @@
+PileUp
+
+MSF: 131  Type: P  Check: 0  ..
+
+Name: U7DYR9_POPTR/1-80            Len:   131  Check: 5042  Weight:  1.00
+Name: A0A0D3HJH4_9ORYZ/1-80        Len:   131  Check: 6701  Weight:  1.00
+Name: A0A0E0BGM4_9ORYZ/1-88        Len:   131  Check: 5119  Weight:  1.00
+Name: Q2R8Y4_ORYSJ/1-88            Len:   131  Check: 5444  Weight:  1.00
+Name: A6N1F7_ORYSI/1-91            Len:   131  Check: 5223  Weight:  1.00
+Name: A2ZCK3_ORYSI/1-88            Len:   131  Check: 3770  Weight:  1.00
+Name: I1QYK5_ORYGL/1-88            Len:   131  Check: 3275  Weight:  1.00
+Name: D2KZ18_9ARAE/1-96            Len:   131  Check: 8481  Weight:  1.00
+Name: A0PGP7_PANGI/1-121           Len:   131  Check:  790  Weight:  1.00
+Name: A0PGP6_PANGI/1-121           Len:   131  Check: 1210  Weight:  1.00
+Name: A9QW61_PANQU/1-121           Len:   131  Check: 1181  Weight:  1.00
+Name: A9QMA6_PANQU/1-121           Len:   131  Check:  739  Weight:  1.00
+Name: A0PGP5_PANGI/1-117           Len:   131  Check: 8460  Weight:  1.00
+Name: PAFP_PHYAM/1-65              Len:   131  Check: 8743  Weight:  1.00
+Name: Q54AI2_PHYAM/1-65            Len:   131  Check: 8743  Weight:  1.00
+Name: Q9SDS1_PHYAM/1-37            Len:   131  Check: 9510  Weight:  1.00
+Name: AMP2_MIRJA/1-63              Len:   131  Check: 3812  Weight:  1.00
+Name: AMP1_MIRJA/1-61              Len:   131  Check: 9936  Weight:  1.00
+Name: AMP1_MESCR/1-64              Len:   131  Check: 5155  Weight:  1.00
+Name: B9MYB2_POPTR/1-81            Len:   131  Check: 5269  Weight:  1.00
+Name: B9MYB3_POPTR/1-80            Len:   131  Check: 4670  Weight:  1.00
+Name: B9MYB4_POPTR/1-77            Len:   131  Check: 1172  Weight:  1.00
+Name: B9H5R3_POPTR/1-91            Len:   131  Check: 8858  Weight:  1.00
+
+//
+
+                             1                                                   50
+U7DYR9_POPTR/1-80            ---------- ---------- ---------M DSKKVTLLLM VALVFVATIA
+A0A0D3HJH4_9ORYZ/1-80        ---------- ---------- ---------- -----MAVVA ILAALLLMEP
+A0A0E0BGM4_9ORYZ/1-88        ---------- ---------- -------MAS TKMAVVAILA ALLLMAAVEP
+Q2R8Y4_ORYSJ/1-88            ---------- ---------- -------MAS TKMAVVAILA ALLLMAAVEP
+A6N1F7_ORYSI/1-91            ---------- ---------- ----REAMAS TKMAVVAILA ALLLMAAAEP
+A2ZCK3_ORYSI/1-88            ---------- ---------- -------MAS TKMPVVAILA ALLLMAAAEP
+I1QYK5_ORYGL/1-88            ---------- ---------- -------MAS TKMAVVAILA ALLLMAAAEP
+D2KZ18_9ARAE/1-96            ---------- ---------- -------MGR KTLVIMAVFV MVSLGITKSP
+A0PGP7_PANGI/1-121           MENKKVALVV VAMVVVLIST FAPLALAADE AGRSDGGNGD LIAVESVSRS
+A0PGP6_PANGI/1-121           MENKKVALVV VAMVVVLIST FAPLALAADE AGRSDGGNGD LIAVESVSRS
+A9QW61_PANQU/1-121           MDNKKVALVV VAMVVVLIST FAPLALAADE AGRSDGGNGD LIAVESVSRS
+A9QMA6_PANQU/1-121           MDNKKVALVV VAMVVVLIST FAPLALAADE AGRSDGGNGD LIAVESVSRS
+A0PGP5_PANGI/1-117           MENKKVALVV VAMVVVLIST VAPLAMAVDD AGSSDG---- LIAVESVSRS
+PAFP_PHYAM/1-65              ---------- ---------- ---------- ---------- ----MAKVSS
+Q54AI2_PHYAM/1-65            ---------- ---------- ---------- ---------- ----MAKVSS
+Q9SDS1_PHYAM/1-37            ---------- ---------- ---------- ---------- ----------
+AMP2_MIRJA/1-63              ---------- ---------- ---------- ---------- -----MAKVP
+AMP1_MIRJA/1-61              ---------- ---------- ---------- ---------- --------LP
+AMP1_MESCR/1-64              ---------- ---------- ---------- ---------- -----MAKVS
+B9MYB2_POPTR/1-81            ---------- ---------- ---------M DSKKVTLLLM VALVFVATIA
+B9MYB3_POPTR/1-80            ---------- ---------- ---------M DSKKVTLLLM VALVFVATIA
+B9MYB4_POPTR/1-77            ---------- ---------- ---------M EIISKKISSL MMLIVAFTFM
+B9H5R3_POPTR/1-91            ---------- ---------- ---------M DSKKVSLFLI VSLLFMATIS
+
+                             51                                                 100
+U7DYR9_POPTR/1-80            PSALAMRQFP LLMT------ --------SN ILLQDESNLG CISSGG-WCF
+A0A0D3HJH4_9ORYZ/1-80        ALATAPSLVP ARKL------ ----QMPRLM DVISAESKLA CLPAGG-FCF
+A0A0E0BGM4_9ORYZ/1-88        ALATPPSLLP ARKL------ ----QMPRLM DVISAESKLA CLPAGG-FCM
+Q2R8Y4_ORYSJ/1-88            ALATPPSLLP ARKL------ ----QMPRLM DVVSAESKLA CLPAGG-FCM
+A6N1F7_ORYSI/1-91            ALATAPSLVP ARKL------ ----QMPRFM DVISAESKLA CLPAGG-FCM
+A2ZCK3_ORYSI/1-88            ALATAPSLVP ARKL------ ----QMPRIM DVISAESKLA CLPAGG-FCM
+I1QYK5_ORYGL/1-88            ALATAPSLVP ARKL------ ----QMPRIM DVISAESKLA CLPAGG-FCM
+D2KZ18_9ARAE/1-96            PAVDASRGLS ASILLKSDGL DVPRALVDPN ASQRASDDPY CRRDGD-FCG
+A0PGP7_PANGI/1-121           NGGNGDSVTV DTVSWVSSNR KTLRSSIFLP QGYLPDGGLG CKSGGA-WCG
+A0PGP6_PANGI/1-121           NGGNGDSVTV DTVSWVSSNR KTLRSSIFLP QGYLPDGGLG CKSSGA-WCG
+A9QW61_PANQU/1-121           NGGNGDSVTV DTVSWVSSNR KTLRSSIFLP QGYLPDGGLG CISSGG-WCG
+A9QMA6_PANQU/1-121           NGGNGDSVTV DTVSWVSSNR KTLRSSIFLP QGYLPDGGLG CIFSGG-WCG
+A0PGP5_PANGI/1-117           NGGNGDSVAV DTVSWVSSNR KTLRSKIFLP QGYLPDGGLG CKSAGT-WCG
+PAFP_PHYAM/1-65              AYLKFALVMI LLLS------ ---------- -VISAVMSAG CIKNGG-RCN
+Q54AI2_PHYAM/1-65            AYLKFALVMI LLLS------ ---------- -VISAVMSAG CIKNGG-RCN
+Q9SDS1_PHYAM/1-37            ---------- ---------- ---------- ---------A CIKNGG-RCV
+AMP2_MIRJA/1-63              IAFLKFVIVL ILFI------ ---------- -AMSGMIEA- CIGNGG-RCN
+AMP1_MIRJA/1-61              VAFLKFAIVL ILFI------ ---------- -AMSAMIEAQ CIGNGG-RCN
+AMP1_MESCR/1-64              SSLLKFAIVL ILVL------ ---------- -SMSAIISAK CIKNGK-GCR
+B9MYB2_POPTR/1-81            PSSLAMRQFP LLMT------ -------SNI LLQDESNLGA CLPSGG-FCF
+B9MYB3_POPTR/1-80            PSALAMRQFP LLMT------ -------SNI LLQDESNLG- CISSGG-WCF
+B9MYB4_POPTR/1-77            AAFAHSTLAM RLIP------ -------PLS DIMYAQGEAN CLDKGG-FCM
+B9H5R3_POPTR/1-91            PCAFSMREIP LTSDGVDEIT TSNTKNIPLS NVMMPKSADK CLPPGTSPCL
+
+                             101                            131
+U7DYR9_POPTR/1-80            PN--PKNCCG NCGCLYPIG- ----ICFGSD C
+A0A0D3HJH4_9ORYZ/1-80        AR--PMDCCG NCGCLYPFGI CYGSRCVE-- -
+A0A0E0BGM4_9ORYZ/1-88        FR--PMDCCG NCGCLYPIGV CYGSRCEE-- -
+Q2R8Y4_ORYSJ/1-88            FR--PMDCCG NCGCLYPVGV CYGSRCEE-- -
+A6N1F7_ORYSI/1-91            FR--PMDCCG NCGCLYPVGV CYGSRCEE-- -
+A2ZCK3_ORYSI/1-88            FR--PMDCCG NCGCLYPVGV CYGSRCEE-- -
+I1QYK5_ORYGL/1-88            FR--PMDCCG NCGCLYPVGV CYGSRCEE-- -
+D2KZ18_9ARAE/1-96            PG-AWHDCCS --DCHCTGFA YSHCVCP--- -
+A0PGP7_PANGI/1-121           FD--PHGCCG NCGCLV---- ---GFCYGTG C
+A0PGP6_PANGI/1-121           FD--PHGCCG NCGCLV---- ---GFCYGTG C
+A9QW61_PANQU/1-121           FD--LHGCCG NCGCLV---- ---GFCYGTG C
+A9QMA6_PANQU/1-121           FD--LHGCCG NCGCLV---- ---GFCYGTG C
+A0PGP5_PANGI/1-117           FD--PHGCCG SCGCLV---- ---GFCYGVS C
+PAFP_PHYAM/1-65              ASAGPPYCCS -SYCFQIAGQ -SYGVCKNR- -
+Q54AI2_PHYAM/1-65            ASAGPPYCCS -SYCFQIAGQ -SYGVCKNR- -
+Q9SDS1_PHYAM/1-37            ASGGPPYCCS -NYCLQIAGQ -SYGVCKKH- -
+AMP2_MIRJA/1-63              ENVGPPYCCS -GFCLRQPNQ -GYGVCRNR- -
+AMP1_MIRJA/1-61              ENVGPPYCCS -GFCLRQPGQ -GYGYCKNR- -
+AMP1_MESCR/1-64              EDQGPPFCCS -GFCYRQVGW -ARGYCKNR- -
+B9MYB2_POPTR/1-81            FQ--PKNCCG NCGCLYPIG- ----ICFGSD C
+B9MYB3_POPTR/1-80            PN--PKNCCG NCGCLYPIG- ----ICFGSD C
+B9MYB4_POPTR/1-77            FS--PMDCCG SMGCLYPMG- ----ICF--- -
+B9H5R3_POPTR/1-91            IG--DVGCCS -GICLLIWP- ---PVCG--- -
+

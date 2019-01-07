@@ -1,0 +1,26 @@
+PileUp
+
+MSF: 69  Type: P  Check: 0  ..
+
+Name: TACA2_TACTR/1-67             Len:    69  Check:  642  Weight:  1.00
+Name: TACA1_TACTR/1-44             Len:    69  Check: 3661  Weight:  1.00
+Name: TACB1_TACTR/1-42             Len:    69  Check: 7831  Weight:  1.00
+Name: TACB2_TACTR/1-42             Len:    69  Check: 7544  Weight:  1.00
+Name: TACHC_TACTR/1-41             Len:    69  Check: 7961  Weight:  1.00
+
+//
+
+                             1                                                   50
+TACA2_TACTR/1-67             MKLQNTLILI GCLFLMGAMI GDAYSRCQLQ GFNCVVRSYG LPTIPCCRGL
+TACA1_TACTR/1-44             ---------- ---------- ---YSRCQLQ GFNCVVRSYG LPTIPCCRGL
+TACB1_TACTR/1-42             ---------- ---------- ---YVSCLFR GARCRVYSG- ---RSCCFGY
+TACB2_TACTR/1-42             ---------- ---------- ---YITCLFR GARCRVYSG- ---RSCCFGY
+TACHC_TACTR/1-41             ---------- -----DYDWS LRGPPKCATY GQKCRTWSP- ---PNCCWNL
+
+                             51                69
+TACA2_TACTR/1-67             TCRSYFPGST YGRCQRY--
+TACA1_TACTR/1-44             TCRSYFPGST YGRCQRF--
+TACB1_TACTR/1-42             YCRRDFPGSI FGTCSRRNF
+TACB2_TACTR/1-42             YCRRDFPGSI FGTCSRRNF
+TACHC_TACTR/1-41             RCKAFR---- ---CRPR--
+

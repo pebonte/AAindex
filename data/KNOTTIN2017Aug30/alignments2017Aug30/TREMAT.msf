@@ -1,0 +1,901 @@
+PileUp
+
+MSF: 307  Type: P  Check: 0  ..
+
+Name: C1LUL9_SCHJA/1-98            Len:   307  Check:  651  Weight:  1.00
+Name: C1LUM0_SCHJA/1-98            Len:   307  Check:  765  Weight:  1.00
+Name: C1LUL2_SCHJA/1-98            Len:   307  Check: 2324  Weight:  1.00
+Name: C1LUK9_SCHJA/1-98            Len:   307  Check:  992  Weight:  1.00
+Name: C1LUK8_SCHJA/1-98            Len:   307  Check: 1579  Weight:  1.00
+Name: C1LUL4_SCHJA/1-98            Len:   307  Check: 2118  Weight:  1.00
+Name: C1LUK7_SCHJA/1-98            Len:   307  Check: 2135  Weight:  1.00
+Name: C1LUK1_SCHJA/1-98            Len:   307  Check: 1037  Weight:  1.00
+Name: C1LUL8_SCHJA/1-98            Len:   307  Check:  751  Weight:  1.00
+Name: C1LUJ7_SCHJA/1-98            Len:   307  Check: 2072  Weight:  1.00
+Name: C1LUL6_SCHJA/1-98            Len:   307  Check: 2137  Weight:  1.00
+Name: C1LUL1_SCHJA/1-98            Len:   307  Check: 2044  Weight:  1.00
+Name: C7TR16_SCHJA/1-89            Len:   307  Check: 6828  Weight:  1.00
+Name: C7TR53_SCHJA/1-98            Len:   307  Check: 9058  Weight:  1.00
+Name: C7TR14_SCHJA/1-98            Len:   307  Check: 1132  Weight:  1.00
+Name: C7TR10_SCHJA/1-98            Len:   307  Check: 9530  Weight:  1.00
+Name: C7TR40_SCHJA/1-98            Len:   307  Check:  537  Weight:  1.00
+Name: C7TR09_SCHJA/1-98            Len:   307  Check:  813  Weight:  1.00
+Name: C1LXY2_SCHJA/1-87            Len:   307  Check: 2710  Weight:  1.00
+Name: C1LXZ4_SCHJA/1-87            Len:   307  Check: 2878  Weight:  1.00
+Name: C1LXY6_SCHJA/1-87            Len:   307  Check: 1841  Weight:  1.00
+Name: C1LXZ6_SCHJA/1-87            Len:   307  Check: 2479  Weight:  1.00
+Name: G4LWF3_SCHMA/1-64            Len:   307  Check:   96  Weight:  1.00
+Name: C7TUC1_SCHJA/1-62            Len:   307  Check:  458  Weight:  1.00
+Name: C7TUB8_SCHJA/1-62            Len:   307  Check:  314  Weight:  1.00
+Name: C7TUD5_SCHJA/1-62            Len:   307  Check:  434  Weight:  1.00
+Name: C7TTJ1_SCHJA/1-62            Len:   307  Check:  386  Weight:  1.00
+Name: C7TTI5_SCHJA/1-62            Len:   307  Check:  362  Weight:  1.00
+Name: C7TTI0_SCHJA/1-62            Len:   307  Check:  392  Weight:  1.00
+Name: C7TRS4_SCHJA/1-62            Len:   307  Check:  404  Weight:  1.00
+Name: C7TUJ7_SCHJA/1-72            Len:   307  Check: 8240  Weight:  1.00
+Name: C7TUE1_SCHJA/1-62            Len:   307  Check:  404  Weight:  1.00
+Name: C7TUD1_SCHJA/1-62            Len:   307  Check:  508  Weight:  1.00
+Name: C7TUE5_SCHJA/1-62            Len:   307  Check:   98  Weight:  1.00
+Name: C7TUL1_SCHJA/1-62            Len:   307  Check:  934  Weight:  1.00
+Name: C7TU30_SCHJA/1-62            Len:   307  Check:  328  Weight:  1.00
+Name: C7TRQ4_SCHJA/1-92            Len:   307  Check: 6804  Weight:  1.00
+Name: C7TTG4_SCHJA/1-62            Len:   307  Check:  356  Weight:  1.00
+Name: C7TTU0_SCHJA/1-62            Len:   307  Check:  392  Weight:  1.00
+Name: C7TTG6_SCHJA/1-62            Len:   307  Check:  440  Weight:  1.00
+Name: C7TRT0_SCHJA/1-62            Len:   307  Check:  257  Weight:  1.00
+Name: G7YUW6_CLOSI/1-99            Len:   307  Check: 9059  Weight:  1.00
+Name: G4VBF7_SCHMA/1-95            Len:   307  Check: 7081  Weight:  1.00
+Name: C1L4V0_SCHJA/1-95            Len:   307  Check: 7349  Weight:  1.00
+Name: C1LG92_SCHJA/1-95            Len:   307  Check: 7237  Weight:  1.00
+Name: G7YI46_CLOSI/1-96            Len:   307  Check:  444  Weight:  1.00
+Name: C1LXE9_SCHJA/1-107           Len:   307  Check: 1876  Weight:  1.00
+Name: C1LXB4_SCHJA/1-107           Len:   307  Check: 2615  Weight:  1.00
+Name: C1LXD1_SCHJA/1-107           Len:   307  Check: 2565  Weight:  1.00
+Name: C1LXC7_SCHJA/1-107           Len:   307  Check: 2228  Weight:  1.00
+Name: G4VMF0_SCHMA/1-117           Len:   307  Check: 9945  Weight:  1.00
+Name: G4VMF1_SCHMA/1-121           Len:   307  Check: 1449  Weight:  1.00
+Name: G7YI45_CLOSI/1-86            Len:   307  Check: 5428  Weight:  1.00
+Name: G4M208_SCHMA/1-88            Len:   307  Check: 2760  Weight:  1.00
+Name: C1LFI4_SCHJA/1-84            Len:   307  Check: 1551  Weight:  1.00
+Name: G4VLW4_SCHMA/1-226           Len:   307  Check: 7162  Weight:  1.00
+Name: C1LFE8_SCHJA/1-73            Len:   307  Check: 5099  Weight:  1.00
+Name: G7Y4U0_CLOSI/1-81            Len:   307  Check: 8199  Weight:  1.00
+Name: C1L6B6_SCHJA/1-64            Len:   307  Check: 2794  Weight:  1.00
+Name: C1LJA2_SCHJA/1-64            Len:   307  Check: 2560  Weight:  1.00
+Name: C1L5N3_SCHJA/1-150           Len:   307  Check: 5390  Weight:  1.00
+Name: C1L5N1_SCHJA/1-150           Len:   307  Check: 5953  Weight:  1.00
+Name: G7Y700_CLOSI/1-84            Len:   307  Check: 1973  Weight:  1.00
+Name: H2KPG9_CLOSI/1-87            Len:   307  Check: 4234  Weight:  1.00
+Name: W6U5M4_ECHGR/1-83            Len:   307  Check: 1976  Weight:  1.00
+Name: A0A068X2F7_ECHGR/1-80        Len:   307  Check: 6183  Weight:  1.00
+Name: W6UEF0_ECHGR/1-155           Len:   307  Check: 7742  Weight:  1.00
+Name: G4VLW5_SCHMA/1-96            Len:   307  Check: 3874  Weight:  1.00
+Name: C1LLR5_SCHJA/1-96            Len:   307  Check: 2764  Weight:  1.00
+Name: G7YD78_CLOSI/1-97            Len:   307  Check: 4614  Weight:  1.00
+Name: A0A183LAP8_9TREM/1-81        Len:   307  Check: 3338  Weight:  1.00
+Name: G4VD24_SCHMA/1-86            Len:   307  Check: 7483  Weight:  1.00
+Name: C4Q9S3_SCHMA/1-96            Len:   307  Check: 3874  Weight:  1.00
+Name: C4Q6V5_SCHMA/1-117           Len:   307  Check: 9717  Weight:  1.00
+Name: C4Q6V6_SCHMA/1-121           Len:   307  Check: 1397  Weight:  1.00
+Name: C4Q9S4_SCHMA/1-142           Len:   307  Check: 5687  Weight:  1.00
+Name: SJ055_SCHJA/1-107            Len:   307  Check: 1634  Weight:  1.00
+Name: SJ381_SCHJA/1-150            Len:   307  Check: 6720  Weight:  1.00
+Name: SJ380_SCHJA/1-150            Len:   307  Check: 6975  Weight:  1.00
+Name: SJ047_SCHJA/1-150            Len:   307  Check: 5495  Weight:  1.00
+Name: SJ144_SCHJA/1-150            Len:   307  Check: 6938  Weight:  1.00
+Name: SJ643_SCHJA/1-150            Len:   307  Check: 4964  Weight:  1.00
+Name: SJ965_SCHJA/1-161            Len:   307  Check: 5067  Weight:  1.00
+Name: C4Q9S1_SCHMA/1-226           Len:   307  Check: 7162  Weight:  1.00
+Name: C7TR07_SCHJA/1-98            Len:   307  Check: 1037  Weight:  1.00
+Name: C4QRX9_SCHMA/1-60            Len:   307  Check: 7136  Weight:  1.00
+Name: C7TTY4_SCHJA/1-73            Len:   307  Check: 3580  Weight:  1.00
+Name: C7TY31_SCHJA/1-84            Len:   307  Check: 3655  Weight:  1.00
+Name: C7TUC3_SCHJA/1-92            Len:   307  Check: 7834  Weight:  1.00
+Name: C7TTN4_SCHJA/1-92            Len:   307  Check: 7798  Weight:  1.00
+Name: C7TTM2_SCHJA/1-92            Len:   307  Check: 7661  Weight:  1.00
+Name: C7TTH4_SCHJA/1-92            Len:   307  Check: 7576  Weight:  1.00
+Name: C4N152_SCHJA/1-92            Len:   307  Check: 7846  Weight:  1.00
+Name: C7TTT6_SCHJA/1-92            Len:   307  Check: 8014  Weight:  1.00
+Name: C7TUK9_SCHJA/1-92            Len:   307  Check: 8833  Weight:  1.00
+Name: C7TRQ6_SCHJA/1-92            Len:   307  Check: 8122  Weight:  1.00
+Name: C7TRS9_SCHJA/1-92            Len:   307  Check: 7294  Weight:  1.00
+Name: C7TUB6_SCHJA/1-92            Len:   307  Check: 8136  Weight:  1.00
+Name: C7TRR9_SCHJA/1-92            Len:   307  Check: 7868  Weight:  1.00
+Name: C7TRY9_SCHJA/1-92            Len:   307  Check: 7933  Weight:  1.00
+Name: C7TRS2_SCHJA/1-92            Len:   307  Check: 7549  Weight:  1.00
+Name: CP422_SCHJA/1-133            Len:   307  Check: 4989  Weight:  1.00
+Name: C4QQW4_SCHMA/1-71            Len:   307  Check: 9991  Weight:  1.00
+Name: C4QQQ4_SCHMA/1-63            Len:   307  Check: 8686  Weight:  1.00
+Name: C4Q9S2_SCHMA/1-63            Len:   307  Check:  659  Weight:  1.00
+Name: SJ711_SCHJA/1-87             Len:   307  Check: 2497  Weight:  1.00
+Name: C4Q3M4_SCHMA/1-86            Len:   307  Check: 7483  Weight:  1.00
+Name: SJ800_SCHJA/1-84             Len:   307  Check: 1033  Weight:  1.00
+Name: SJ803_SCHJA/1-88             Len:   307  Check: 8280  Weight:  1.00
+Name: SJ766_SCHJA/1-96             Len:   307  Check: 2654  Weight:  1.00
+
+//
+
+                             1                                                   50
+C1LUL9_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUM0_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL2_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUK9_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUK8_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL4_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUK7_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUK1_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL8_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUJ7_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL6_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL1_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR16_SCHJA/1-89            ---------- ---------- ---------- ---------- ----------
+C7TR53_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR14_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR10_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR40_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR09_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LXY2_SCHJA/1-87            ---------- ---------- ---------- ---------- ----------
+C1LXZ4_SCHJA/1-87            ---------- ---------- ---------- ---------- ----------
+C1LXY6_SCHJA/1-87            ---------- ---------- ---------- ---------- ----------
+C1LXZ6_SCHJA/1-87            ---------- ---------- ---------- ---------- ----------
+G4LWF3_SCHMA/1-64            ---------- ---------- ---------- ---------- ----------
+C7TUC1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUB8_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUD5_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTJ1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTI5_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTI0_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TRS4_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUJ7_SCHJA/1-72            ---------- ---------- ---------- ---------- ----------
+C7TUE1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUD1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUE5_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUL1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TU30_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TRQ4_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTG4_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTU0_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTG6_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TRT0_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+G7YUW6_CLOSI/1-99            ---------- ---------- ---------- ---------- ----------
+G4VBF7_SCHMA/1-95            ---------- ---------- ---------- ---------- ----------
+C1L4V0_SCHJA/1-95            ---------- ---------- ---------- ---------- ----------
+C1LG92_SCHJA/1-95            ---------- ---------- ---------- ---------- ----------
+G7YI46_CLOSI/1-96            ---------- ---------- ---------- ---------- ----------
+C1LXE9_SCHJA/1-107           ---------- ---------- ---------- ---------- ----------
+C1LXB4_SCHJA/1-107           ---------- ---------- ---------- ---------- ----------
+C1LXD1_SCHJA/1-107           ---------- ---------- ---------- ---------- ----------
+C1LXC7_SCHJA/1-107           ---------- ---------- ---------- ---------- ----------
+G4VMF0_SCHMA/1-117           ---------- ---------- ---------- ---------- ----------
+G4VMF1_SCHMA/1-121           ---------- ---------- ---------- ---------- ----------
+G7YI45_CLOSI/1-86            ---------- ---------- ---------- ---------- ----------
+G4M208_SCHMA/1-88            ---------- ---------- ---------- ---------- ----------
+C1LFI4_SCHJA/1-84            ---------- ---------- ---------- ---------- ----------
+G4VLW4_SCHMA/1-226           MPSIGPELRC YQCNSLTQPH CADYFDNRTF PLVACPNDGR NYSRCVKMIQ
+C1LFE8_SCHJA/1-73            ---------- ---------- ---------- ---------- ----------
+G7Y4U0_CLOSI/1-81            ---------- ---------- ---------- ---------- ----------
+C1L6B6_SCHJA/1-64            ---------- ---------- ---------- ---------- ----------
+C1LJA2_SCHJA/1-64            ---------- ---------- ---------- ---------- ----------
+C1L5N3_SCHJA/1-150           ---------- ---------- ---------- ---------- ----------
+C1L5N1_SCHJA/1-150           ---------- ---------- ---------- ---------- ----------
+G7Y700_CLOSI/1-84            ---------- ---------- ---------- ---------- ----------
+H2KPG9_CLOSI/1-87            ---------- ---------- ---------- ---------- ----------
+W6U5M4_ECHGR/1-83            ---------- ---------- ---------- ---------- ----------
+A0A068X2F7_ECHGR/1-80        ---------- ---------- ---------- ---------- ----------
+W6UEF0_ECHGR/1-155           ---------- ---------- ---------- ---------- ----------
+G4VLW5_SCHMA/1-96            ---------- ---------- ---------- ---------- ----------
+C1LLR5_SCHJA/1-96            ---------- ---------- ---------- ---------- ----------
+G7YD78_CLOSI/1-97            ---------- ---------- ---------- ---------- ----------
+A0A183LAP8_9TREM/1-81        ---------- ---------- ---------- ---------- ----------
+G4VD24_SCHMA/1-86            ---------- ---------- ---------- ---------- ----------
+C4Q9S3_SCHMA/1-96            ---------- ---------- ---------- ---------- ----------
+C4Q6V5_SCHMA/1-117           ---------- ---------- ---------- ---------- ----------
+C4Q6V6_SCHMA/1-121           ---------- ---------- ---------- ---------- ----------
+C4Q9S4_SCHMA/1-142           ---------- ---------- ---------- ---------- ----------
+SJ055_SCHJA/1-107            ---------- ---------- ---------- ---------- ----------
+SJ381_SCHJA/1-150            ---------- ---------- ---------- ---------- ----------
+SJ380_SCHJA/1-150            ---------- ---------- ---------- ---------- ----------
+SJ047_SCHJA/1-150            ---------- ---------- ---------- ---------- ----------
+SJ144_SCHJA/1-150            ---------- ---------- ---------- ---------- ----------
+SJ643_SCHJA/1-150            ---------- ---------- ---------- ---------- ----------
+SJ965_SCHJA/1-161            ---------- ---------- ---------- ---------- ----------
+C4Q9S1_SCHMA/1-226           MPSIGPELRC YQCNSLTQPH CADYFDNRTF PLVACPNDGR NYSRCVKMIQ
+C7TR07_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C4QRX9_SCHMA/1-60            ---------- ---------- ---------- ---------- ----------
+C7TTY4_SCHJA/1-73            ---------- ---------- ---------- ---------- ----------
+C7TY31_SCHJA/1-84            ---------- ---------- ---------- ---------- ----------
+C7TUC3_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTN4_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTM2_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTH4_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C4N152_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTT6_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TUK9_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRQ6_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRS9_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TUB6_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRR9_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRY9_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRS2_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+CP422_SCHJA/1-133            ---------- ---------- ---------- ---------- ----------
+C4QQW4_SCHMA/1-71            ---------- ---------- ---------- ---------- ----------
+C4QQQ4_SCHMA/1-63            ---------- ---------- ---------- ---------- ----------
+C4Q9S2_SCHMA/1-63            ---------- ---------- ---------- ---------- ----------
+SJ711_SCHJA/1-87             ---------- ---------- ---------- ---------- ----------
+C4Q3M4_SCHMA/1-86            ---------- ---------- ---------- ---------- ----------
+SJ800_SCHJA/1-84             ---------- ---------- ---------- ---------- ----------
+SJ803_SCHJA/1-88             ---------- ---------- ---------- ---------- ----------
+SJ766_SCHJA/1-96             ---------- ---------- ---------- ---------- ----------
+
+                             51                                                 100
+C1LUL9_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUM0_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL2_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUK9_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUK8_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL4_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUK7_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUK1_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL8_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUJ7_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL6_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LUL1_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR16_SCHJA/1-89            ---------- ---------- ---------- ---------- ----------
+C7TR53_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR14_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR10_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR40_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C7TR09_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C1LXY2_SCHJA/1-87            ---------- ---------- ---------- ---------- ----------
+C1LXZ4_SCHJA/1-87            ---------- ---------- ---------- ---------- ----------
+C1LXY6_SCHJA/1-87            ---------- ---------- ---------- ---------- ----------
+C1LXZ6_SCHJA/1-87            ---------- ---------- ---------- ---------- ----------
+G4LWF3_SCHMA/1-64            ---------- ---------- ---------- ---------- ----------
+C7TUC1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUB8_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUD5_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTJ1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTI5_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTI0_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TRS4_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUJ7_SCHJA/1-72            ---------- ---------- ---------- ---------- ----------
+C7TUE1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUD1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUE5_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TUL1_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TU30_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TRQ4_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTG4_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTU0_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TTG6_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+C7TRT0_SCHJA/1-62            ---------- ---------- ---------- ---------- ----------
+G7YUW6_CLOSI/1-99            ---------- ---------- ---------- ---------- ----------
+G4VBF7_SCHMA/1-95            ---------- ---------- ---------- ---------- ----------
+C1L4V0_SCHJA/1-95            ---------- ---------- ---------- ---------- ----------
+C1LG92_SCHJA/1-95            ---------- ---------- ---------- ---------- ----------
+G7YI46_CLOSI/1-96            ---------- ---------- ---------- ---------- ----------
+C1LXE9_SCHJA/1-107           ---------- ---------- ---------- ---------- ----------
+C1LXB4_SCHJA/1-107           ---------- ---------- ---------- ---------- ----------
+C1LXD1_SCHJA/1-107           ---------- ---------- ---------- ---------- ----------
+C1LXC7_SCHJA/1-107           ---------- ---------- ---------- ---------- ----------
+G4VMF0_SCHMA/1-117           ---------- ---------- ---------- ---------- ----------
+G4VMF1_SCHMA/1-121           ---------- ---------- ---------- ---------- ----------
+G7YI45_CLOSI/1-86            ---------- ---------- ---------- ---------- ----------
+G4M208_SCHMA/1-88            ---------- ---------- ---------- ---------- ----------
+C1LFI4_SCHJA/1-84            ---------- ---------- ---------- ---------- ----------
+G4VLW4_SCHMA/1-226           EMYLDGKWTR RYYRDCAVTG VIGAEDGRWC IDRLGTYRVK VRYCNCNNKN
+C1LFE8_SCHJA/1-73            ---------- ---------- ---------- ---------- ----------
+G7Y4U0_CLOSI/1-81            ---------- ---------- ---------- ---------- ----------
+C1L6B6_SCHJA/1-64            ---------- ---------- ---------- ---------- ----------
+C1LJA2_SCHJA/1-64            ---------- ---------- ---------- ---------- ----------
+C1L5N3_SCHJA/1-150           ---------- ----MNTCIQ LLILCLVTVI NSENLTDIST ENTIE-----
+C1L5N1_SCHJA/1-150           ---------- ----MNTCIQ LLILCLVTLT NSENLTDIST ETTIE-----
+G7Y700_CLOSI/1-84            ---------- ---------- ---------- ---------- ----------
+H2KPG9_CLOSI/1-87            ---------- ---------- ---------- ---------- ----------
+W6U5M4_ECHGR/1-83            ---------- ---------- ---------- ---------- ----------
+A0A068X2F7_ECHGR/1-80        ---------- ---------- ---------- ---------- ----------
+W6UEF0_ECHGR/1-155           ---------- ------MRIG LPGVTDDVDD KRWLPGAQPR RRMSPRLGVG
+G4VLW5_SCHMA/1-96            ---------- ---------- ---------- ---------- ----------
+C1LLR5_SCHJA/1-96            ---------- ---------- ---------- ---------- ----------
+G7YD78_CLOSI/1-97            ---------- ---------- ---------- ---------- ----------
+A0A183LAP8_9TREM/1-81        ---------- ---------- ---------- ---------- ----------
+G4VD24_SCHMA/1-86            ---------- ---------- ---------- ---------- ----------
+C4Q9S3_SCHMA/1-96            ---------- ---------- ---------- ---------- ----------
+C4Q6V5_SCHMA/1-117           ---------- ---------- ---------- ---------- ----------
+C4Q6V6_SCHMA/1-121           ---------- ---------- ---------- ---------- ----------
+C4Q9S4_SCHMA/1-142           ---------- ---------- ---------- ---------- --LFQCRQLG
+SJ055_SCHJA/1-107            ---------- ---------- ---------- ---------- ----------
+SJ381_SCHJA/1-150            ---------- ----MNTCIQ LLILCLVTVI NSENSTDNST ENTIK-----
+SJ380_SCHJA/1-150            ---------- ----MNTCIQ LLILCLVTVI NSENSTDNST ENTIE-----
+SJ047_SCHJA/1-150            ---------- ----MNTCIQ LLILCLVTLT NSENLTDIST ETTIE-----
+SJ144_SCHJA/1-150            ---------- ----MNTCIQ LLILCLVTVI NSENLTDIST ETTIE-----
+SJ643_SCHJA/1-150            ---------- ----MNTCIQ LLILCLVTVI NSENSTDHST ENTIEN----
+SJ965_SCHJA/1-161            ---------- ---------Q LLILCLVTVI NSENSTDNST ENTIENEIEN
+C4Q9S1_SCHMA/1-226           EMYLDGKWTR RYYRDCAVTG VIGAEDGRWC IDRLGTYRVK VRYCNCNNKN
+C7TR07_SCHJA/1-98            ---------- ---------- ---------- ---------- ----------
+C4QRX9_SCHMA/1-60            ---------- ---------- ---------- ---------- ----------
+C7TTY4_SCHJA/1-73            ---------- ---------- ---------- ---------- ----------
+C7TY31_SCHJA/1-84            ---------- ---------- ---------- ---------- ----------
+C7TUC3_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTN4_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTM2_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTH4_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C4N152_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TTT6_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TUK9_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRQ6_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRS9_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TUB6_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRR9_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRY9_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+C7TRS2_SCHJA/1-92            ---------- ---------- ---------- ---------- ----------
+CP422_SCHJA/1-133            ---------- ---------- ---------- ---------- ----------
+C4QQW4_SCHMA/1-71            ---------- ---------- ---------- ---------- ----------
+C4QQQ4_SCHMA/1-63            ---------- ---------- ---------- ---------- ----------
+C4Q9S2_SCHMA/1-63            ---------- ---------- ---------- ---------- ----------
+SJ711_SCHJA/1-87             ---------- ---------- ---------- ---------- ----------
+C4Q3M4_SCHMA/1-86            ---------- ---------- ---------- ---------- ----------
+SJ800_SCHJA/1-84             ---------- ---------- ---------- ---------- ----------
+SJ803_SCHJA/1-88             ---------- ---------- ---------- ---------- ----------
+SJ766_SCHJA/1-96             ---------- ---------- ---------- ---------- ----------
+
+                             101                                                150
+C1LUL9_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C1LUM0_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLIL LPIDSLRQFY
+C1LUL2_SCHJA/1-98            ---------- ---------- ------MNKW FTYLIILLVL LPIDSLRQFY
+C1LUK9_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C1LUK8_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C1LUL4_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C1LUK7_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C1LUK1_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C1LUL8_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLIL LPIDSLRQFY
+C1LUJ7_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C1LUL6_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C1LUL1_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRQFY
+C7TR16_SCHJA/1-89            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRKVH
+C7TR53_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRNVH
+C7TR14_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRKVH
+C7TR10_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDPLRNVH
+C7TR40_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDPLRNVH
+C7TR09_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDPLRNVH
+C1LXY2_SCHJA/1-87            ---------- ---------- ---------- -----MMSTQ HFILSLTIFI
+C1LXZ4_SCHJA/1-87            ---------- ---------- ---------- -----MMSTQ HFILSLTIFI
+C1LXY6_SCHJA/1-87            ---------- ---------- ---------- -----MMSTQ HFILSLTIFI
+C1LXZ6_SCHJA/1-87            ---------- ---------- ---------- -----MMSTQ HFILSLTILI
+G4LWF3_SCHMA/1-64            ---------- ---------- ---------- ---------- ----------
+C7TUC1_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUB8_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUD5_SCHJA/1-62            ---------- ---------- ---------- -------MHE FMIVFFIFAV
+C7TTJ1_SCHJA/1-62            ---------- ---------- ---------- -------MHE FMIVFFIFAV
+C7TTI5_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TTI0_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TRS4_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUJ7_SCHJA/1-72            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUE1_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUD1_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMMVFFIFAV
+C7TUE5_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUL1_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TU30_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TRQ4_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TTG4_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TTU0_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TTG6_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TRT0_SCHJA/1-62            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+G7YUW6_CLOSI/1-99            ---------- ---------- -------MIF KYYRQLYVLQ LTACLVNLGI
+G4VBF7_SCHMA/1-95            ---------- ---------- -------MTV MRRIKLIWNN IFIIIVVFIC
+C1L4V0_SCHJA/1-95            ---------- ---------- -------MIV TKRIEFIWNS IFIIIVVFTF
+C1LG92_SCHJA/1-95            ---------- ---------- -------MIV LKRIEFIWNS IFIIIVVFTF
+G7YI46_CLOSI/1-96            ---------- ---------- ---------- --MHPWILPL VSLTITFSSL
+C1LXE9_SCHJA/1-107           ---------- ---------- ---------- ------MWKL LFIGILFTSI
+C1LXB4_SCHJA/1-107           ---------- ---------- ---------- ------MWKL LFIGILFTSI
+C1LXD1_SCHJA/1-107           ---------- ---------- ---------- ------MWKL LFIGILFTSI
+C1LXC7_SCHJA/1-107           ---------- ---------- ---------- ------MWKL LFIGILFTSI
+G4VMF0_SCHMA/1-117           ---------- ---------- ---------- MNRYIQYIIL WLVCITLTSV
+G4VMF1_SCHMA/1-121           ---------- ---------- ------MYII MNRYIQYIIL WLVCITLTSV
+G7YI45_CLOSI/1-86            ---------- ---------- ---------- -------MKA LLILTAVFTL
+G4M208_SCHMA/1-88            ---------- ---------- ---------- ---MSVMCKS FLFSLFILSI
+C1LFI4_SCHJA/1-84            ---------- ---------- ---------- -------MKY INLMLTIILV
+G4VLW4_SCHMA/1-226           GCACKEYGES CMKTVFNKCC GSNVCQLIGP FNGKCVRCIQ TGYSCLHNGE
+C1LFE8_SCHJA/1-73            ---------- ---------- ---------- ---------- ----------
+G7Y4U0_CLOSI/1-81            ---------- ---------- ---------- --------MS PYVWILLLGL
+C1L6B6_SCHJA/1-64            ---------- ---------- ---------- ---------- MSGLLLILQL
+C1LJA2_SCHJA/1-64            ---------- ---------- ---------- ---------- MSGLLLILQL
+C1L5N3_SCHJA/1-150           ---------- -NETEDVTET ELLETIENET ENVTETELPE IIENETKIEA
+C1L5N1_SCHJA/1-150           ---------- -NEKEDVTET ELLGTIENES ETVTETELPE TIGTEIPAEA
+G7Y700_CLOSI/1-84            ---------- ---------- ---------- --------MQ IYVALCYLVA
+H2KPG9_CLOSI/1-87            ---------- ---------- ---------- --------MQ RYLVLFSLAA
+W6U5M4_ECHGR/1-83            ---------- ---------- ---------- ---------- MQVTILVLVV
+A0A068X2F7_ECHGR/1-80        ---------- ---------- ---------- ---------- -MRCLFILLI
+W6UEF0_ECHGR/1-155           SGTALRTSES AIATITRNAE GVLDMAPGNR EMTAKLNPFV TMRCLFILLI
+G4VLW5_SCHMA/1-96            ---------- ---------- ---------- ------MNQF YYAILMVMIV
+C1LLR5_SCHJA/1-96            ---------- ---------- ---------- ------MKQF YSVVLTIIIY
+G7YD78_CLOSI/1-97            ---------- ---------- --------MG KLRFSSVSET FVLTILCILF
+A0A183LAP8_9TREM/1-81        ---------- ---------- ---------- ---------- ------MALF
+G4VD24_SCHMA/1-86            ---------- ---------- ---------- ---------- -MARFVYTIT
+C4Q9S3_SCHMA/1-96            ---------- ---------- ---------- ------MNQF YYAILMVMIV
+C4Q6V5_SCHMA/1-117           ---------- ---------- ---------- MNGYIQYIIL WLVCITLTSV
+C4Q6V6_SCHMA/1-121           ---------- ---------- ------MYII MNRYIQYIIL WLVCITLTSV
+C4Q9S4_SCHMA/1-142           ETCHKTLFDR CCGRNVCQLK GWTGRCVKCL NTGDKCLKSK ECCNGRCVLF
+SJ055_SCHJA/1-107            ---------- ---------- ---------- ------MWKL LFIGILFTSI
+SJ381_SCHJA/1-150            ---------- -NETENATET ELPETFENET ENVSETELPE IIENETKIEA
+SJ380_SCHJA/1-150            ---------- -NEIENATET ELSEAIENET ENVTETELPE TVETEIQTEA
+SJ047_SCHJA/1-150            ---------- -NEKEDVTET ELLETIENET ETVTETELPE TIGTEIPAEA
+SJ144_SCHJA/1-150            ---------- -NEIENATET ELSEAIEKET ENVTETELPD TVKTEIQFET
+SJ643_SCHJA/1-150            ---------- --ETEDVTKT ELLKTIENET ENVIETELPE TVETEIQTEA
+SJ965_SCHJA/1-161            ATETELSEAI ENETENVTET ELSEAIENET ENVTETELPE IIENETKIEA
+C4Q9S1_SCHMA/1-226           GCACKEYGES CMKTVFNKCC GSNVCQLIGP FNGKCVRCIQ TGYSCLHNGE
+C7TR07_SCHJA/1-98            ---------- ---------- ------MNKW FTYSIILLVL LPIDSLRKVH
+C4QRX9_SCHMA/1-60            ---------- ---------- ---------- MVQ---CVLL CLFALLSIYG
+C7TTY4_SCHJA/1-73            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TY31_SCHJA/1-84            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUC3_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TTN4_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TTM2_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TTH4_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C4N152_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TTT6_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUK9_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TRQ6_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TRS9_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TUB6_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TRR9_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C7TRY9_SCHJA/1-92            ---------- ---------- ---------- -------MHE SMIVFFIFAV
+C7TRS2_SCHJA/1-92            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+CP422_SCHJA/1-133            ---------- ---------- ---------- -------MHE CMIVFFIFAV
+C4QQW4_SCHMA/1-71            ---------- ---------- ---------- ---------- ----------
+C4QQQ4_SCHMA/1-63            ---------- ---------- ---------- ---------- ----------
+C4Q9S2_SCHMA/1-63            ---------- ---------- ---------- ---------- ----------
+SJ711_SCHJA/1-87             ---------- ---------- ---------- -----MMSTQ HFILSLTILI
+C4Q3M4_SCHMA/1-86            ---------- ---------- ---------- ---------- -MARFVYTIT
+SJ800_SCHJA/1-84             ---------- ---------- ---------- -------MKY INLMLTIILA
+SJ803_SCHJA/1-88             ---------- ---------- ---------- -------MLK ASILFITISL
+SJ766_SCHJA/1-96             ---------- ---------- ---------- ------MKQF YSVVLTIIIY
+
+                             151                                                200
+C1LUL9_SCHJA/1-98            G----HRKI- PEWLLRCRPK CHYCGKTV-- -GCC-EGLIC T-----DGQC
+C1LUM0_SCHJA/1-98            G----HRKI- PEWLLRCRPK CHYCGKTV-- -GCC-EGLIC T-----DGQC
+C1LUL2_SCHJA/1-98            G----HRKI- PDVLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUK9_SCHJA/1-98            G----HRKI- PDVLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUK8_SCHJA/1-98            G----HRKI- PDVLLGCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUL4_SCHJA/1-98            G----HRKI- PDVLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUK7_SCHJA/1-98            G----HRKI- PEWLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUK1_SCHJA/1-98            G----HRKI- PDVLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUL8_SCHJA/1-98            G----HRKI- PDVLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUJ7_SCHJA/1-98            G----HRKI- PDVLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUL6_SCHJA/1-98            G----HRKI- PDVLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C1LUL1_SCHJA/1-98            G----HRKI- PDVLLRCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C7TR16_SCHJA/1-89            G----LRLP- PEELLGCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C7TR53_SCHJA/1-98            G----LRLP- PEELLGCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C7TR14_SCHJA/1-98            G----LRLP- PEELLGCRPK CHYCGKTA-- -DCC-EGLIC T-----NGQC
+C7TR10_SCHJA/1-98            G----LRLP- PEELLGCRPK CHYCGKTA-- -DCC-EGLIC T-----DGQC
+C7TR40_SCHJA/1-98            G----LRLP- PEELLGCRPK CHYCGKTA-- -DCC-EGLIC T-----DGQC
+C7TR09_SCHJA/1-98            G----LRLP- PEELLGCRPK CHYCGKTA-- -DCC-EGLIC T-----DGQC
+C1LXY2_SCHJA/1-87            I----ISNL- HDEVNACREL GEECVTRGPK -SCC-EPLIC GLKSHGTGVC
+C1LXZ4_SCHJA/1-87            I----ISNP- HDEVNACREL GEECVTRGPK -SCC-EPLIC GLKSHGTGVC
+C1LXY6_SCHJA/1-87            I----ISNL- HDEVNACREL GEECVTRGPK -SCC-EPLIC GLKSHGTGVC
+C1LXZ6_SCHJA/1-87            I----ISNL- HDEVNACREL GEECVTIGPK -SCC-EPLIC GLKSHGTGVC
+G4LWF3_SCHMA/1-64            ---------- -----MCFGV GKYCDGAGHR -KCC-PPHSC KLINPREGVC
+C7TUC1_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCNALATK -ECC-PPFTC KFVNQREGIC
+C7TUB8_SCHJA/1-62            V----SIYY- -ADADSCLYL GQHCNALATK -ECC-PPFTC KFVNQREGIC
+C7TUD5_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCNALATK -ECC-PPFTC KFVNQREGIC
+C7TTJ1_SCHJA/1-62            V----SIYY- -ADADSCLYL GQHCNALATK -ECC-PPFTC KFVNQREGIC
+C7TTI5_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCNALATK -ECC-PPFTC KFVNQREGIC
+C7TTI0_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCNAFATK -KCC-PPFTC KFVNQREGIC
+C7TRS4_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TUJ7_SCHJA/1-72            V----SIYY- -ADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TUE1_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCDALATK -KCC-PPFTC KFVNQREGIC
+C7TUD1_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TUE5_SCHJA/1-62            V----SIYY- -ADAESCFYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TUL1_SCHJA/1-62            V----SIYY- -ADAESCLYV GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TU30_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCNALAAK -KCC-PPFTC KFVNQREGIC
+C7TRQ4_SCHJA/1-92            V----SIYY- -ADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TTG4_SCHJA/1-62            V----SIYY- -ADADSCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TTU0_SCHJA/1-62            V----SIYY- -ADADSCLYL GQHCNALATK -KCC-PSFTC KFVNQREGIC
+C7TTG6_SCHJA/1-62            V----SIYY- -ADAESCLYL GQHCNALATK -KCC-PSFTC KFVNQREGIC
+C7TRT0_SCHJA/1-62            V----SIYY- -ADAEPCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+G7YUW6_CLOSI/1-99            FGPLGCSAFW KENNMPCKNL GDFCRKLPFG QRCC-GDTVC DLYAPFKGKC
+G4VBF7_SCHMA/1-95            T----SSEFW RENNLPCKNL GTFCRKLPFS QRCC-DTTVC DLKAPFSGTC
+C1L4V0_SCHJA/1-95            K----SSEFW RENNLPCKNL GSFCRKLPFS QRCC-DTTVC DLNAPFSGTC
+C1LG92_SCHJA/1-95            K----SSEFW RENNLPCKNL GSFCRKLPFS QRCC-DTTVC DLNAPFSGTC
+G7YI46_CLOSI/1-96            T----VASS- PDRLTPCSEL GEECNKTLFK -RCC-RNYVC DLVSPFRGTC
+C1LXE9_SCHJA/1-107           C----HINF- SEGLFKCKEL GQSCRRTVFD -RCC-GNATC QLQG-LKGKC
+C1LXB4_SCHJA/1-107           C----HINF- SEGLFKCKEL GQSCRRTVFN -RCC-GNATC QLQG-LKGKC
+C1LXD1_SCHJA/1-107           C----HINF- SEGLFKCKEL GQSCRRTVFD -RCC-GNATC QLQG-LKGKC
+C1LXC7_SCHJA/1-107           C----HINF- SEGLFKCKEL GQSCRRTVFD -RCC-GNATC QLQG-LKGKC
+G4VMF0_SCHMA/1-117           L----SNEE- VDQQKVCSNL NESCSRILFR -RCC-DKLVC Q--GFFTGTC
+G4VMF1_SCHMA/1-121           L----SNEE- VDQQKVCSNL NESCSRILFR -RCC-DKLVC Q--GFFTGTC
+G7YI45_CLOSI/1-86            L----TTVL- SVVQENCVPL GGNCTKTVFS -RCC-GDAVC DLRGPFNGIC
+G4M208_SCHMA/1-88            F----ITKM- EFSGSGCKQK GESCAKTIFD -RCC-GELVC ELDAPFSGKC
+C1LFI4_SCHJA/1-84            L----SLET- FHIIDACREI GEVCSKTVFD -KCC-GNTVC KLRGPFYGEC
+G4VLW4_SCHMA/1-226           C----CSRN- CWLFRCCRAL GEKCSKTVFD -RCC-GDTVC HLSSPFHGKC
+C1LFE8_SCHJA/1-73            ------MLE- NSYGKSCRSI GEKCSKTVFD -RCC-GDSVC HLTSPFHGKC
+G7Y4U0_CLOSI/1-81            I----TGNI- FVFSLSCMEE GMKCSKTLKT -HCC-GELIC HLTSAFTGTC
+C1L6B6_SCHJA/1-64            L----LILS- SNIEGKCNEE GAACSKTIGT -RCC-GELVC KLFKPFHGRC
+C1LJA2_SCHJA/1-64            L----LILS- SNIEGKCNEE GAACSKTIGT -RCC-GELVC KLFKPFHGRC
+C1L5N3_SCHJA/1-150           L----NLPQ- NPKQKYCKSE GQYCSRTIFH -RCC-GNLVC QLHGFFNGTC
+C1L5N1_SCHJA/1-150           L----NLPQ- SPKQKYCRTE GQYCSRTYFH -RCC-GNLVC QLHGFFNGTC
+G7Y700_CLOSI/1-84            I----LLTR- GSALFECKQL GEWCDGTIFN -SCC-GDLKC QLSNFAVGTC
+H2KPG9_CLOSI/1-87            L----FIVQ- GATVFECKGL GEWCDGTVFN -RCC-GDLRC QLSGFGQGIC
+W6U5M4_ECHGR/1-83            F----FLAF- VNGDSHCRRE GEDCSRTIFS -RCC-DPLYC QLQSFAKGKC
+A0A068X2F7_ECHGR/1-80        G----LMVT- ALADDTCRKM GEPCSRTVFS -RCC-EGLYC VLKGFADGTC
+W6UEF0_ECHGR/1-155           G----LMVT- ALADDTCRKM GEPCSRTVFS -RCC-EGLYC VLKGFADGTC
+G4VLW5_SCHMA/1-96            T----FSYF- NVVSGECRTV GQECSKTVFS -PCC-ENFYC GLNTLFSGQC
+C1LLR5_SCHJA/1-96            I----SSQS- NVVSLDCRKL NEDCSKTVFS -PCC-DPLSC ALSTAFSGKC
+G7YD78_CLOSI/1-97            V----SIYS- VDSKNLCATP DEECG--TFK -PCCGRHLIC KRLGSAEGQC
+A0A183LAP8_9TREM/1-81        F----SHLT- GGILSFCSEP ETVC--TVFR -PCCGRDWVC NRKSSATGKC
+G4VD24_SCHMA/1-86            F----LHFT- GGIASFCSEP ETVC--TVFR -PCCGRDWVC NRKSSATGKC
+C4Q9S3_SCHMA/1-96            T----FSYF- NVVSGECRTV GQECSKTVFS -PCC-ENFYC GLNTLFSGQC
+C4Q6V5_SCHMA/1-117           L----SNEE- VDQQKVCSNL NESCSRILFR -RCC-DKLVC QG--FFTGTC
+C4Q6V6_SCHMA/1-121           L----SNEE- VDQQKVCSNL NESCSRILFR -RCC-DKLVC QG--FFTGTC
+C4Q9S4_SCHMA/1-142           K----CKDK- GIGSFKCKRL GESCRRTIFH -HCC-GDATC ELNG-HKGIC
+SJ055_SCHJA/1-107            C----HINF- SEGLFKCKEL GQSCRRTVFD -RCC-GNATC QLQG-LKGKC
+SJ381_SCHJA/1-150            L----NLPQ- IPKQKYCRTE GQYCSRTYFH -RCC-GNLVC QLHGFFNGTC
+SJ380_SCHJA/1-150            Q----NQPQ- IPKQKYCKSE GQYCSRTYFH -RCC-GNLVC QLHGFFNGTC
+SJ047_SCHJA/1-150            L----NLPQ- SPKQKYCKSE GQYCSRTIFH -RCC-GNLVC QLHGFFNGTC
+SJ144_SCHJA/1-150            Q----NLPH- NPKQKYCRTE GQYCSRTYFH -RCC-GNLVC QLHGFFNGTC
+SJ643_SCHJA/1-150            L----NLPQ- SPEQRYCRSK GQYCSRTYFH -RCC-GNLVC QLHGFFNGTC
+SJ965_SCHJA/1-161            L----NLPQ- NPKQKYCKSE GQYCSRTIFH -RCC-GNLVC QLHGFFNGTC
+C4Q9S1_SCHMA/1-226           C----CSRN- CWLFRCCRAL GEKCSKTVFD -RCC-GDTVC HLSSPFHGKC
+C7TR07_SCHJA/1-98            G----LRLP- PEELLGCRPK CHYCG--KTA -DCC-EGLIC TN-----GQC
+C4QRX9_SCHMA/1-60            V----HGEV- SAENGMCFGV GKYCDGAGHR -KCC-PPHSC KLINPREGVC
+C7TTY4_SCHJA/1-73            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TY31_SCHJA/1-84            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TUC3_SCHJA/1-92            V----S-IY- YADADSCLYL GQHCNALATK -KCC-PSFTC KFVNQREGIC
+C7TTN4_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PLFTC KFVNQREGIC
+C7TTM2_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TTH4_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C4N152_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TTT6_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TUK9_SCHJA/1-92            V----S-IY- YADVESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TRQ6_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQRESIC
+C7TRS9_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TUB6_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TRR9_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TRY9_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C7TRS2_SCHJA/1-92            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+CP422_SCHJA/1-133            V----S-IY- YADAESCLYL GQHCNALATK -KCC-PPFTC KFVNQREGIC
+C4QQW4_SCHMA/1-71            -------EV- SAENGMCFGV GKYCDGAGHR -KCC-PPHSC KLINPREGVC
+C4QQQ4_SCHMA/1-63            ---------- -----MCFGV GKYCDGAGHR -KCC-PPHSC KLINPREGVC
+C4Q9S2_SCHMA/1-63            ---------- -----RCKSE GEKCSKTIFS -PCC-ANSTC QLHGIFKGVC
+SJ711_SCHJA/1-87             I----ISNL- HDEVNACREL GEECVTRGPK -SCC-EPLIC GLKSHGTGVC
+C4Q3M4_SCHMA/1-86            F----LHFT- GGIASFCSEP ETVC--TVFR -PCCGRDWVC NRKSSATGKC
+SJ800_SCHJA/1-84             L----SLET- FHIIDACREI GEVCSKTVFD -KCC-GNTVC KLRGPFYGEC
+SJ803_SCHJA/1-88             T----LMLE- NSYGKSCRSI GEKCSKTVFD -RCC-GDSIC HLTSPFHGKC
+SJ766_SCHJA/1-96             I----SSQS- NVVSLDCRKL NEDCSKTVFS -PCC-DPLSC ALSTAFNGKC
+
+                             201                                                250
+C1LUL9_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUM0_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUL2_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUK9_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUK8_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUL4_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUK7_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUK1_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUL8_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUJ7_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUL6_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LUL1_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C7TR16_SCHJA/1-89            HG-------- ---------- ---------- ---------- ----------
+C7TR53_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C7TR14_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C7TR10_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C7TR40_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C7TR09_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C1LXY2_SCHJA/1-87            VK-------- ---------- ---------- ---------- ----------
+C1LXZ4_SCHJA/1-87            VK-------- ---------- ---------- ---------- ----------
+C1LXY6_SCHJA/1-87            VK-------- ---------- ---------- ---------- ----------
+C1LXZ6_SCHJA/1-87            VK-------- ---------- ---------- ---------- ----------
+G4LWF3_SCHMA/1-64            VR-------- ---------- ---------- ---------- ---------G
+C7TUC1_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TUB8_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TUD5_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TTJ1_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TTI5_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TTI0_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TRS4_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TUJ7_SCHJA/1-72            VR-------- ---------- ---------- ---------- ----------
+C7TUE1_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TUD1_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TUE5_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TUL1_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TU30_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TRQ4_SCHJA/1-92            VR-------- ---------- ---------- ---------- ---EDPGVGG
+C7TTG4_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TTU0_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TTG6_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+C7TRT0_SCHJA/1-62            VR-------- ---------- ---------- ---------- ----------
+G7YUW6_CLOSI/1-99            VR-------- ---------- ---------- ---------- ----------
+G4VBF7_SCHMA/1-95            VR-------- ---------- ---------- ---------- ----------
+C1L4V0_SCHJA/1-95            VR-------- ---------- ---------- ---------- ----------
+C1LG92_SCHJA/1-95            VR-------- ---------- ---------- ---------- ----------
+G7YI46_CLOSI/1-96            ID-------- ---------- ---------- ---------- ----------
+C1LXE9_SCHJA/1-107           VS-------- ---------- ---------- ---------- ----------
+C1LXB4_SCHJA/1-107           VS-------- ---------- ---------- ---------- ----------
+C1LXD1_SCHJA/1-107           VS-------- ---------- ---------- ---------- ----------
+C1LXC7_SCHJA/1-107           VS-------- ---------- ---------- ---------- ----------
+G4VMF0_SCHMA/1-117           VE-------- ---------- ---------- ---------- ----------
+G4VMF1_SCHMA/1-121           VE-------- ---------- ---------- ---------- ----------
+G7YI45_CLOSI/1-86            VA-------- ---------- ---------- ---------- ----------
+G4M208_SCHMA/1-88            VE-------- ---------- ---------- ---------- ----------
+C1LFI4_SCHJA/1-84            VE-------- ---------- ---------- ---------- ----------
+G4VLW4_SCHMA/1-226           VK-------- ---------- ---------- ---------- ----------
+C1LFE8_SCHJA/1-73            VK-------- ---------- ---------- ---------- ----------
+G7Y4U0_CLOSI/1-81            KR-------- ---------- ---------- ---------- ----------
+C1L6B6_SCHJA/1-64            TN-------- ---------- ---------- ---------- ----------
+C1LJA2_SCHJA/1-64            TN-------- ---------- ---------- ---------- ----------
+C1L5N3_SCHJA/1-150           VQ-------- ---------- ---------- ---------- ----------
+C1L5N1_SCHJA/1-150           VQ-------- ---------- ---------- ---------- ----------
+G7Y700_CLOSI/1-84            KK-------- ---------- ---------- ---------- ----------
+H2KPG9_CLOSI/1-87            KT-------- ---------- ---------- ---------- ----------
+W6U5M4_ECHGR/1-83            VK-------- ---------- ---------- ---------- ----------
+A0A068X2F7_ECHGR/1-80        EK-------- ---------- ---------- ---------- ----------
+W6UEF0_ECHGR/1-155           EK-------- ---------- ---------- ---------- ----------
+G4VLW5_SCHMA/1-96            QP-------- ---------- ---------- ---------- ----------
+C1LLR5_SCHJA/1-96            KA-------- ---------- ---------- ---------- ----------
+G7YD78_CLOSI/1-97            VR-------- ---------- ---------- ---------- ----------
+A0A183LAP8_9TREM/1-81        VQ-------- ---------- ---------- ---------- ----------
+G4VD24_SCHMA/1-86            VQ-------- ---------- ---------- ---------- ----------
+C4Q9S3_SCHMA/1-96            QP-------- ---------- ---------- ---------- ----------
+C4Q6V5_SCHMA/1-117           VE-------- ---------- ---------- ---------- ----------
+C4Q6V6_SCHMA/1-121           VE-------- ---------- ---------- ---------- ----------
+C4Q9S4_SCHMA/1-142           VP-------- ---------- ---------- ---------- ----------
+SJ055_SCHJA/1-107            VS-------- ---------- ---------- ---------- ----------
+SJ381_SCHJA/1-150            VQ-------- ---------- ---------- ---------- ----------
+SJ380_SCHJA/1-150            VQ-------- ---------- ---------- ---------- ----------
+SJ047_SCHJA/1-150            VQ-------- ---------- ---------- ---------- ----------
+SJ144_SCHJA/1-150            VQ-------- ---------- ---------- ---------- ----------
+SJ643_SCHJA/1-150            VD-------- ---------- ---------- ---------- ----------
+SJ965_SCHJA/1-161            VQ-------- ---------- ---------- ---------- ----------
+C4Q9S1_SCHMA/1-226           VK-------- ---------- ---------- ---------- ----------
+C7TR07_SCHJA/1-98            HG-------- ---------- ---------- ---------- ----------
+C4QRX9_SCHMA/1-60            ---------- ---------- ---------- ---------- ----------
+C7TTY4_SCHJA/1-73            VREDPGVG-G GLSAGQTTM- ---------- ---------- ----------
+C7TY31_SCHJA/1-84            VDFYLLRP-W RLILSAVRVT NILSWQRFPF ---------- ----------
+C7TUC3_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C7TTN4_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C7TTM2_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C7TTH4_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C4N152_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C7TTT6_SCHJA/1-92            VRKDP----- ---------- ---------- ---------- ------GVGG
+C7TUK9_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C7TRQ6_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C7TRS9_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C7TUB6_SCHJA/1-92            VRENP----- ---------- ---------- ---------- ------GVGG
+C7TRR9_SCHJA/1-92            VREDP----- ---------- ---------- ---------- ------GVGG
+C7TRY9_SCHJA/1-92            VGEDP----- ---------- ---------- ---------- ------GVGG
+C7TRS2_SCHJA/1-92            VGEDP----- ---------- ---------- ---------- ------GVGG
+CP422_SCHJA/1-133            VREDPGAESC LYLGQHCNAL ATKKCCPPFT CKFVNQREGI CVREDPGVGG
+C4QQW4_SCHMA/1-71            VR-------- ---------- ---------- ---------- ---------G
+C4QQQ4_SCHMA/1-63            VR-------- ---------- ---------- ---------- ---------G
+C4Q9S2_SCHMA/1-63            VK-------- ---------- ---------- ---------- ----------
+SJ711_SCHJA/1-87             VK-------- ---------- ---------- ---------- ----------
+C4Q3M4_SCHMA/1-86            VQ-------- ---------- ---------- ---------- ----------
+SJ800_SCHJA/1-84             VE-------- ---------- ---------- ---------- ----------
+SJ803_SCHJA/1-88             VK-------- ---------- ---------- ---------- ----------
+SJ766_SCHJA/1-96             KA-------- ---------- ---------- ---------- ----------
+
+                             251                                                300
+C1LUL9_SCHJA/1-98            --AHYGESCG EKRQCCSGLK CVDGK-CNYS YEGPIFNFC- ----------
+C1LUM0_SCHJA/1-98            --AHYGESCG EKRQCCSGLK CVNGK-CNYS YEGPIFNFC- ----------
+C1LUL2_SCHJA/1-98            --AHYGESCR EKRPCCSGLM CVNGK-CNYS YEGPIYNFC- ----------
+C1LUK9_SCHJA/1-98            --AHYGESCG DKRPCCSGLM CVNGK-CNLS NEGPIYNFC- ----------
+C1LUK8_SCHJA/1-98            --AHYGESCG DKRPCCSGLM CVNGK-CNYS YEGPIYNFC- ----------
+C1LUL4_SCHJA/1-98            --AHYGESCG DKRPCCSGLM CVNGK-CNYS YEGPIYNFC- ----------
+C1LUK7_SCHJA/1-98            --AHYGESCG DKRPCCSGLK CVNGK-CNYS YEGPIYNFC- ----------
+C1LUK1_SCHJA/1-98            --AHYGESCG DKRPCCSGLK CVNGK-CNYS YEGPIFNFC- ----------
+C1LUL8_SCHJA/1-98            --AHYGESCG DKRPCCSGLK CVNGK-CNYS YEGPIFNFC- ----------
+C1LUJ7_SCHJA/1-98            --AHYGESCG EKRPCCSGLK CVNGK-CNYS YEGPIYNFC- ----------
+C1LUL6_SCHJA/1-98            --AHYGESCG DKRSCCSGLK CVNGK-CNYS YEGPIYNFC- ----------
+C1LUL1_SCHJA/1-98            --AHYGESCG DKRPCCSGLK CVNGK-CNYS YEGPIYNFC- ----------
+C7TR16_SCHJA/1-89            --AHYGESCG DKRPCCSGLK CQWQMQLQL- ---------- ----------
+C7TR53_SCHJA/1-98            --AHYGESCG DKRPCCSGLM CVNGK-CNLS NEGPIFNFC- ----------
+C7TR14_SCHJA/1-98            --AHYGESCK DKRPCCSGLK CVNGK-CNYS YEGPIYNFC- ----------
+C7TR10_SCHJA/1-98            --AHYGESCG DKRPCCSGLK CVNGK-CNSS YEGPIFNFC- ----------
+C7TR40_SCHJA/1-98            --AHYGESCG DKRPCCSGLK CVNGK-CNSS YEGPIYNFC- ----------
+C7TR09_SCHJA/1-98            --AHYGESCG DKRPCCSGLK CVNGK-CNYS YEGPIYNFC- ----------
+C1LXY2_SCHJA/1-87            -CIPGGSECK KSEDCCS-KR CKSGY-CTFK ---------- ----------
+C1LXZ4_SCHJA/1-87            -CIPGGSECK KSEDCCS-KR CKSGY-CTFK ---------- ----------
+C1LXY6_SCHJA/1-87            -CIPGGSECK KCEDCCS-KR CKSGY-CKFK ---------- ----------
+C1LXZ6_SCHJA/1-87            -CIPGGSECK KSEDCCS-KR CKSGY-CKFK ---------- ----------
+G4LWF3_SCHMA/1-64            QCLQSKEQCV DNVDCCS-GH CLNGH-CRDK ---------- ----------
+C7TUC1_SCHJA/1-62            ---------- --EDSGV--- ---------- ---------- ----------
+C7TUB8_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TUD5_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TTJ1_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TTI5_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TTI0_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TRS4_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TUJ7_SCHJA/1-72            --EDPGVGGL SAGQTTM--- ---------- ---------- ----------
+C7TUE1_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TUD1_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TUE5_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TUL1_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TU30_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TRQ4_SCHJA/1-92            GCLPDKQQCR RNKDSCS-KS CYRGN-CRSK ---------- ----------
+C7TTG4_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TTU0_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TTG6_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+C7TRT0_SCHJA/1-62            ---------- --EDPGV--- ---------- ---------- ----------
+G7YUW6_CLOSI/1-99            -CLPPGKFCL RTKDCCQ-GK CLFFF-CR-- ---------- ----------
+G4VBF7_SCHMA/1-95            -CLDKGRFCL RSRECCD-KY CFFFK-CR-- ---------- ----------
+C1L4V0_SCHJA/1-95            -CLDKGRFCL RSSECCN-KY CFFFK-CR-- ---------- ----------
+C1LG92_SCHJA/1-95            -CLDKGRFCL RSSECCN-KY CFFFK-CR-- ---------- ----------
+G7YI46_CLOSI/1-96            -CYPVNHTCV KDSECCS-SY CHLLR-CGWR RMQMVS---- ----------
+C1LXE9_SCHJA/1-107           -CLNTGHLCW RNEQCCS-QR CHRLR-CRDK KVPTKIINVI QSNFSTIILK
+C1LXB4_SCHJA/1-107           -CLNTGHLCW RNEQCCS-QR CHRLR-CRDK KVPTKVINVI QSNFSTIILK
+C1LXD1_SCHJA/1-107           -CLNTGHLCW RNEQCCS-QR CHRLR-CRDK KVPTKVINVI QSNFSTIILK
+C1LXC7_SCHJA/1-107           -CLNIGHLCW RNEQCCS-QR CHRLR-CRDK KVPTKITNVI QSNFSTIILK
+G4VMF0_SCHMA/1-117           -CLGINKLCF RSSDCCS-GR CWFFH-CKEQ NSNITTSIEN DTETQQNMTN
+G4VMF1_SCHMA/1-121           -CLGINKLCF RSSDCCS-GR CWFFH-CKEQ NSNITTSIEN DTETQQNMTN
+G7YI45_CLOSI/1-86            -CYELEHGCL SDDECCS-KR CHWFQ-CKPK E--------- ----------
+G4M208_SCHMA/1-88            -CLSFKSFCM SNKECCS-KK CHLST-CKL- ---------- ----------
+C1LFI4_SCHJA/1-84            -CLNSGEKCW RNSECCS-GY CRWFT-CQD- ---------- ----------
+G4VLW4_SCHMA/1-226           -CLKEGTLCV SDKNCCS-HK CNIGK-CTKE KHHY------ ----------
+C1LFE8_SCHJA/1-73            -CLKEGQLCT SDKNCCS-DK CNWGK-CTKE KHY------- ----------
+G7Y4U0_CLOSI/1-81            -CLPVGAFCL NSSECCS-RK CILK--CK-- ---------- ----------
+C1L6B6_SCHJA/1-64            ---PNRR--- --------HS TTW------- ---------- ----------
+C1LJA2_SCHJA/1-64            ---PNRR--- --------HS TNW------- ---------- ----------
+C1L5N3_SCHJA/1-150           -CLAERKFCI WSSECCS-KR CRLFR-CRKN PYVQVIPY-- ----------
+C1L5N1_SCHJA/1-150           -CLAERKFCI WSSECCS-KR CRLFR-CRKN PYVQVIPY-- ----------
+G7Y700_CLOSI/1-84            -CIEVSYPCA RNAHCCS-GK CEWFQ-CQSD ---------- ----------
+H2KPG9_CLOSI/1-87            -CIEDGHACA HDSHCCS-GN CRWLR-CRPD DDD------- ----------
+W6U5M4_ECHGR/1-83            -CLEGRQFCM SDRECCS-GK CHWYRICSDL ---------- ----------
+A0A068X2F7_ECHGR/1-80        -CLPQGHFCF SDGECCS-ND CAWYRFCR-- ---------- ----------
+W6UEF0_ECHGR/1-155           -CLPQGHFCF SDGECCS-ND CAWYRFCR-- ---------- ----------
+G4VLW5_SCHMA/1-96            -CLAGGYFCW TDKECCS-GK CSWLK-CTDP IKDVVERLTG ----------
+C1LLR5_SCHJA/1-96            -CLAGGYFCW RSDECCS-GT CSWLK-CTNP LTDIINKLTD ----------
+G7YD78_CLOSI/1-97            -CSRDHEHCN RSSECCL-GV CMNHT-CRHI MRDN------ ----------
+A0A183LAP8_9TREM/1-81        -CAQANSPCI HANDCCR-GA CIKGS-CKLM SFFGEE---- ----------
+G4VD24_SCHMA/1-86            -CAHANSPCI HANDCCR-GA CIKGS-CKLM SFFDEE---- ----------
+C4Q9S3_SCHMA/1-96            -CLAGGYFCW TDKECCS-GK CSWLK-CTDP IKDVVERLTG ----------
+C4Q6V5_SCHMA/1-117           -CLGINKLCF RSSDCCS-GR CWFFH-CKEQ NSNITTSIEN DTETQQNMTN
+C4Q6V6_SCHMA/1-121           -CLGINKLCF RSSDCCS-GR CWFFH-CKEQ NSNITTSIEN DTETQQNMTN
+C4Q9S4_SCHMA/1-142           -CLPVGRSCW RNKDCCS-GR CHRFK-CKKF KNPFVNNILK NHF-------
+SJ055_SCHJA/1-107            -CLNIGHLCW RNEQCCS-QR CHRLR-CRDK KVPTKIINVI QSNFSTIILK
+SJ381_SCHJA/1-150            -CLAERKFCI WSSECCS-KR CRLFR-CRKN PYVQVIPY-- ----------
+SJ380_SCHJA/1-150            -CLAERKFCI WSSECCS-RR CRLFR-CRKN PYVQVIPY-- ----------
+SJ047_SCHJA/1-150            -CLAERKFCI WSSECCS-KR CRLFR-CRKN PYVQVIPY-- ----------
+SJ144_SCHJA/1-150            -CLAERKFCI WSSECCS-KR CRLFR-CRKN PYVQVIPY-- ----------
+SJ643_SCHJA/1-150            -CLAERKFCI WSSECCS-GR CRLFR-CRKN THVKVIHY-- ----------
+SJ965_SCHJA/1-161            -CLAERKFCI WSSECCS-KR CRLFR-CRKN PYVQVIPY-- ----------
+C4Q9S1_SCHMA/1-226           -CLKEGTLCV SDKNCCS-HK CNIGK-CTKE KHHY------ ----------
+C7TR07_SCHJA/1-98            --AHYGESCG DKRPCCSGLK CVNGK-CNYS YEGPIYNFC- ----------
+C4QRX9_SCHMA/1-60            ---------- ---------- ---------- ---------- ----------
+C7TTY4_SCHJA/1-73            ---------- ---------- ---------- ---------- ----------
+C7TY31_SCHJA/1-84            ---------- ---------- ---------- ---------- ----------
+C7TUC3_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TTN4_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TTM2_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KN CYRGN-CRSK ---------- ----------
+C7TTH4_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CLSK ---------- ----------
+C4N152_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TTT6_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TUK9_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TRQ6_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TRS9_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRGK ---------- ----------
+C7TUB6_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TRR9_SCHJA/1-92            GCLPEKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TRY9_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C7TRS2_SCHJA/1-92            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+CP422_SCHJA/1-133            GCLPDKQQCR RNKDCCS-KS CYRGN-CRSK ---------- ----------
+C4QQW4_SCHMA/1-71            QCLQSKEQCV DNVDCCS-GH CLNGY-CRDK ---------- ----------
+C4QQQ4_SCHMA/1-63            QCLQSKEQCV DNVDCCS-GH CLNGH-CRD- ---------- ----------
+C4Q9S2_SCHMA/1-63            -CLPEKHLCL SSSECCT-NS CKWFR-CVET D--------- ----------
+SJ711_SCHJA/1-87             -CIPGGSECK KSEDCCS-KR CKSGY-CKFK ---------- ----------
+C4Q3M4_SCHMA/1-86            -CAHANSPCI HANDCCR-GA CIKGS-CKLM SFFDEE---- ----------
+SJ800_SCHJA/1-84             -CLNSGERCW RNSECCS-GY CRWFT-CQD- ---------- ----------
+SJ803_SCHJA/1-88             -CLKEGQLCT SDKNCCS-DK CNWGK-CTKE KHY------- ----------
+SJ766_SCHJA/1-96             -CLAGGYFCW RSDECCS-GT CSWLK-CTNP LTDIINKLTD ----------
+
+                             301 
+C1LUL9_SCHJA/1-98            -------
+C1LUM0_SCHJA/1-98            -------
+C1LUL2_SCHJA/1-98            -------
+C1LUK9_SCHJA/1-98            -------
+C1LUK8_SCHJA/1-98            -------
+C1LUL4_SCHJA/1-98            -------
+C1LUK7_SCHJA/1-98            -------
+C1LUK1_SCHJA/1-98            -------
+C1LUL8_SCHJA/1-98            -------
+C1LUJ7_SCHJA/1-98            -------
+C1LUL6_SCHJA/1-98            -------
+C1LUL1_SCHJA/1-98            -------
+C7TR16_SCHJA/1-89            -------
+C7TR53_SCHJA/1-98            -------
+C7TR14_SCHJA/1-98            -------
+C7TR10_SCHJA/1-98            -------
+C7TR40_SCHJA/1-98            -------
+C7TR09_SCHJA/1-98            -------
+C1LXY2_SCHJA/1-87            -------
+C1LXZ4_SCHJA/1-87            -------
+C1LXY6_SCHJA/1-87            -------
+C1LXZ6_SCHJA/1-87            -------
+G4LWF3_SCHMA/1-64            -------
+C7TUC1_SCHJA/1-62            -------
+C7TUB8_SCHJA/1-62            -------
+C7TUD5_SCHJA/1-62            -------
+C7TTJ1_SCHJA/1-62            -------
+C7TTI5_SCHJA/1-62            -------
+C7TTI0_SCHJA/1-62            -------
+C7TRS4_SCHJA/1-62            -------
+C7TUJ7_SCHJA/1-72            -------
+C7TUE1_SCHJA/1-62            -------
+C7TUD1_SCHJA/1-62            -------
+C7TUE5_SCHJA/1-62            -------
+C7TUL1_SCHJA/1-62            -------
+C7TU30_SCHJA/1-62            -------
+C7TRQ4_SCHJA/1-92            -------
+C7TTG4_SCHJA/1-62            -------
+C7TTU0_SCHJA/1-62            -------
+C7TTG6_SCHJA/1-62            -------
+C7TRT0_SCHJA/1-62            -------
+G7YUW6_CLOSI/1-99            -------
+G4VBF7_SCHMA/1-95            -------
+C1L4V0_SCHJA/1-95            -------
+C1LG92_SCHJA/1-95            -------
+G7YI46_CLOSI/1-96            -------
+C1LXE9_SCHJA/1-107           AN-----
+C1LXB4_SCHJA/1-107           AN-----
+C1LXD1_SCHJA/1-107           AN-----
+C1LXC7_SCHJA/1-107           AN-----
+G4VMF0_SCHMA/1-117           ETLTETL
+G4VMF1_SCHMA/1-121           ETLTETL
+G7YI45_CLOSI/1-86            -------
+G4M208_SCHMA/1-88            -------
+C1LFI4_SCHJA/1-84            -------
+G4VLW4_SCHMA/1-226           -------
+C1LFE8_SCHJA/1-73            -------
+G7Y4U0_CLOSI/1-81            -------
+C1L6B6_SCHJA/1-64            -------
+C1LJA2_SCHJA/1-64            -------
+C1L5N3_SCHJA/1-150           -------
+C1L5N1_SCHJA/1-150           -------
+G7Y700_CLOSI/1-84            -------
+H2KPG9_CLOSI/1-87            -------
+W6U5M4_ECHGR/1-83            -------
+A0A068X2F7_ECHGR/1-80        -------
+W6UEF0_ECHGR/1-155           -------
+G4VLW5_SCHMA/1-96            -------
+C1LLR5_SCHJA/1-96            -------
+G7YD78_CLOSI/1-97            -------
+A0A183LAP8_9TREM/1-81        -------
+G4VD24_SCHMA/1-86            -------
+C4Q9S3_SCHMA/1-96            -------
+C4Q6V5_SCHMA/1-117           ETLTETL
+C4Q6V6_SCHMA/1-121           ETLTETL
+C4Q9S4_SCHMA/1-142           -------
+SJ055_SCHJA/1-107            AN-----
+SJ381_SCHJA/1-150            -------
+SJ380_SCHJA/1-150            -------
+SJ047_SCHJA/1-150            -------
+SJ144_SCHJA/1-150            -------
+SJ643_SCHJA/1-150            -------
+SJ965_SCHJA/1-161            -------
+C4Q9S1_SCHMA/1-226           -------
+C7TR07_SCHJA/1-98            -------
+C4QRX9_SCHMA/1-60            -------
+C7TTY4_SCHJA/1-73            -------
+C7TY31_SCHJA/1-84            -------
+C7TUC3_SCHJA/1-92            -------
+C7TTN4_SCHJA/1-92            -------
+C7TTM2_SCHJA/1-92            -------
+C7TTH4_SCHJA/1-92            -------
+C4N152_SCHJA/1-92            -------
+C7TTT6_SCHJA/1-92            -------
+C7TUK9_SCHJA/1-92            -------
+C7TRQ6_SCHJA/1-92            -------
+C7TRS9_SCHJA/1-92            -------
+C7TUB6_SCHJA/1-92            -------
+C7TRR9_SCHJA/1-92            -------
+C7TRY9_SCHJA/1-92            -------
+C7TRS2_SCHJA/1-92            -------
+CP422_SCHJA/1-133            -------
+C4QQW4_SCHMA/1-71            -------
+C4QQQ4_SCHMA/1-63            -------
+C4Q9S2_SCHMA/1-63            -------
+SJ711_SCHJA/1-87             -------
+C4Q3M4_SCHMA/1-86            -------
+SJ800_SCHJA/1-84             -------
+SJ803_SCHJA/1-88             -------
+SJ766_SCHJA/1-96             -------
+

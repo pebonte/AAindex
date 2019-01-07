@@ -1,0 +1,80 @@
+PileUp
+
+MSF: 159  Type: P  Check: 0  ..
+
+Name: A0A1N6YRQ9_9FLAO/1-50        Len:   159  Check:  872  Weight:  1.00
+Name: D7W803_9FLAO/1-49            Len:   159  Check: 8579  Weight:  1.00
+Name: B5YI56_THEYD/1-80            Len:   159  Check:   93  Weight:  1.00
+Name: D6TQA4_9CHLR/1-78            Len:   159  Check: 3975  Weight:  1.00
+Name: D6TQA3_9CHLR/1-77            Len:   159  Check:   78  Weight:  1.00
+Name: C6E8L6_GEOSM/1-78            Len:   159  Check: 8015  Weight:  1.00
+Name: B5EFE3_GEOBB/1-77            Len:   159  Check: 7399  Weight:  1.00
+Name: E8WJ75_GEOS8/1-100           Len:   159  Check: 9266  Weight:  1.00
+Name: A6G0L6_9DELT/1-152           Len:   159  Check: 8416  Weight:  1.00
+Name: E4RW62_LEAB4/1-62            Len:   159  Check: 3727  Weight:  1.00
+Name: D7W804_9FLAO/1-53            Len:   159  Check: 1361  Weight:  1.00
+Name: D7VU77_9FLAO/1-50            Len:   159  Check:  823  Weight:  1.00
+Name: D7W802_9FLAO/1-48            Len:   159  Check: 1072  Weight:  1.00
+
+//
+
+                             1                                                   50
+A0A1N6YRQ9_9FLAO/1-50        ---------- ---------- -------MKK LKRNDLRKID GG--------
+D7W803_9FLAO/1-49            ---------- ---------- ----MKNLKK LSRNAAKEIN GG--------
+B5YI56_THEYD/1-80            ---------M RKKLYLIIVL LFAFLVVGFA VAQNKDNSTA FQKVDYCLAM
+D6TQA4_9CHLR/1-78            ---------- ---------- --MSANRFEE LTRVVVSSTS RRQALKTLAV
+D6TQA3_9CHLR/1-77            ---------- ---------- --MASSHFDE LTRSIARSTS RRQAIKAIVV
+C6E8L6_GEOSM/1-78            ---------- ---------- --MKKTGIVR ALSMVLVNIA LLFAAGCASV
+B5EFE3_GEOBB/1-77            ---------- ---------- --MKKGGRVR ALSKLLFGVV LLLHAGCAGV
+E8WJ75_GEOS8/1-100           ---------- ---------- ---METARRG CAIPVLLAVI FQLLTACAGG
+A6G0L6_9DELT/1-152           MSSRPSWALC VMLAGLVGVA ACKNDKGPGD VPKGDAAGSP GSTPVVEDPG
+E4RW62_LEAB4/1-62            ---------- ---------- --MSKPKMNF ANLQGKLGRD EMS-------
+D7W804_9FLAO/1-53            ---------- ---------- --MKKSHLKR LNRQEQKGII GG--------
+D7VU77_9FLAO/1-50            ---------- ---------- -------MKK LKRNDLKKID GG--------
+D7W802_9FLAO/1-48            ---------- ---------- ----MKNLKK LSRQVQKEIK GS--------
+
+                             51                                                 100
+A0A1N6YRQ9_9FLAO/1-50        ---------- ---------- ---------- ---LIAPVIM CDENM-NCPA
+D7W803_9FLAO/1-49            ---------- ---------- ---------- -----LGPFR CSITR-PCSV
+B5YI56_THEYD/1-80            NVDG------ ---------- ---------- KMENMISAKP CTPSGWWCTS
+D6TQA4_9CHLR/1-78            GVLGGALG-- ---------- ---------F GEIHTARAAG CKSSASTCVH
+D6TQA3_9CHLR/1-77            GTLGGALG-- ---------- ---------F SGVRIAGAVG CLHSG-RCKH
+C6E8L6_GEOSM/1-78            QEKP------ ---------- ---------- PAFMDTAAKN CLKEGEPCST
+B5EFE3_GEOBB/1-77            QEKS------ ---------- ---------- PAFLDTAERK CLKEGELCST
+E8WJ75_GEOS8/1-100           KENSRASIGL ARDDSSKGDV AAAVKAKKEN LPDQTTSEKR CLKEGEPCST
+A6G0L6_9DELT/1-152           VEPDAQPMIP DSEPEPAAEA GGEAEPAIDT TTTVVVGDAP CKDDS-DCVP
+E4RW62_LEAB4/1-62            ---------- ---------- ---------- --KIMAGSGN CQANNQSCST
+D7W804_9FLAO/1-53            ---------- ---------- ---------- ------AIKK CGDDS-DCGP
+D7VU77_9FLAO/1-50            ---------- ---------- ---------- ---LIAPIIM CDENM-NCPP
+D7W802_9FLAO/1-48            ---------- ---------- ---------- -----GPFKR CTEHY-ECPG
+
+                             101                                                150
+A0A1N6YRQ9_9FLAO/1-50        N---LCCTSG YICRDWRKY- --PCI----- ---------- ----------
+D7W803_9FLAO/1-49            G---YCCN-- GECLDH---- --DCMIEP-- ---------- ----------
+B5YI56_THEYD/1-80            SG--QCCS-- GRCTN---N- --VCD----- ---------- ----------
+D6TQA4_9CHLR/1-78            SS--DCCS-- KRCFYSGVAG GLVCA----- ---------- ----------
+D6TQA3_9CHLR/1-77            DN--DCCS-- KVCRFTSTGG DFFCG----- ---------- ----------
+C6E8L6_GEOSM/1-78            LN-NECCPG- YRCYIGLD-- -PRCVRDPGE N--------- ----------
+B5EFE3_GEOBB/1-77            LN-DECCPG- YRCYIGLE-- -PRCIRNPGN ---------- ----------
+E8WJ75_GEOS8/1-100           LN-DECCPG- YRCPMGLD-- -PKCIRNP-- ---------- ----------
+A6G0L6_9DELT/1-152           AT---CCHP- TACTNPHDA- -PDCSATSCT MSCEIGTLDC FGGCLCQDGK
+E4RW62_LEAB4/1-62            ANQLNCCSG- LQCTNY---- --KCGYPTIT ---------- ----------
+D7W804_9FLAO/1-53            Y---NCCVN- SVCTFIPTS- --ECGPI--- ---------- ----------
+D7VU77_9FLAO/1-50            N---LCCTSG YICRDWRKY- -P-CI----- ---------- ----------
+D7W802_9FLAO/1-48            G---SCCH-- NTCVVN---- -P-CPLE--- ---------- ----------
+
+                             151   159
+A0A1N6YRQ9_9FLAO/1-50        ---------
+D7W803_9FLAO/1-49            ---------
+B5YI56_THEYD/1-80            ---------
+D6TQA4_9CHLR/1-78            ---------
+D6TQA3_9CHLR/1-77            ---------
+C6E8L6_GEOSM/1-78            ---------
+B5EFE3_GEOBB/1-77            ---------
+E8WJ75_GEOS8/1-100           ---------
+A6G0L6_9DELT/1-152           CAAKQWTPS
+E4RW62_LEAB4/1-62            ---------
+D7W804_9FLAO/1-53            ---------
+D7VU77_9FLAO/1-50            ---------
+D7W802_9FLAO/1-48            ---------
+

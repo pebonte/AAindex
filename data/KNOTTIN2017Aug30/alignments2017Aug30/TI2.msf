@@ -1,0 +1,26 @@
+PileUp
+
+MSF: 91  Type: P  Check: 0  ..
+
+Name: ITR1_SPIOL/1-35              Len:    91  Check: 6986  Weight:  1.00
+Name: ITR2_SPIOL/1-36              Len:    91  Check: 8251  Weight:  1.00
+Name: ITR3_SPIOL/1-37              Len:    91  Check: 9547  Weight:  1.00
+Name: A0A0K9QXT1_SPIOL/1-91        Len:    91  Check: 5029  Weight:  1.00
+Name: ITR1_MIRJA/1-37              Len:    91  Check:  586  Weight:  1.00
+
+//
+
+                             1                                                   50
+ITR1_SPIOL/1-35              ---------- ---------- ---------- ---------- ----------
+ITR2_SPIOL/1-36              ---------- ---------- ---------- ---------- ----------
+ITR3_SPIOL/1-37              ---------- ---------- ---------- ---------- ----------
+A0A0K9QXT1_SPIOL/1-91        MLAASAVIDA KYEARTTASI MTEELLKAEV KAMSSLREVE RAVASKLKQN
+ITR1_MIRJA/1-37              ---------- ---------- ---------- ---------- ----------
+
+                             51                                         91
+ITR1_SPIOL/1-35              ------KCSP SGAICSGFGP PEQCCSGACV PHPILRIFVC Q
+ITR2_SPIOL/1-36              -----DKCSP SGAICSGFGP PEQCCSGACV PHPILRIFVC Q
+ITR3_SPIOL/1-37              ----EDKCSP SGAICSGFGP PEQCCSGACV PHPILRIFVC Q
+A0A0K9QXT1_SPIOL/1-91        VMMTEDKCSP SGNICSGFGP PEQCCSGACV PHPILRIFVC Q
+ITR1_MIRJA/1-37              ---EDEECAK TDQICP-PNA PNYCCSGSCV PHPRLRIFVC A
+

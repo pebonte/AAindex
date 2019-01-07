@@ -1,0 +1,65 @@
+PileUp
+
+MSF: 81  Type: P  Check: 0  ..
+
+Name: A0A1W7RAU1_9SCOR/1-74        Len:    81  Check: 9361  Weight:  1.00
+Name: L0GBR1_9SCOR/1-68            Len:    81  Check: 2021  Weight:  1.00
+Name: F1CIZ6_HOTJU/1-64            Len:    81  Check: 7270  Weight:  1.00
+Name: A0A0K0LBY9_9SCOR/1-64        Len:    81  Check: 7063  Weight:  1.00
+Name: R4H555_MESEU/1-64            Len:    81  Check: 7136  Weight:  1.00
+Name: TXL_MESEU/1-64               Len:    81  Check: 6725  Weight:  1.00
+Name: SCX1_ISOMC/1-57              Len:    81  Check: 8182  Weight:  1.00
+Name: A0A0U1S4E6_LYCMC/1-55        Len:    81  Check: 5840  Weight:  1.00
+Name: SCXC_SCOMA/1-33              Len:    81  Check: 2721  Weight:  1.00
+Name: SCX2_OPICA/1-66              Len:    81  Check: 9221  Weight:  1.00
+Name: SCX1_OPICA/1-66              Len:    81  Check: 9126  Weight:  1.00
+Name: SCXC_HADGE/1-74              Len:    81  Check: 8334  Weight:  1.00
+Name: SCX6_LYCMC/1-58              Len:    81  Check: 6468  Weight:  1.00
+Name: SCXC1_MESMA/1-64             Len:    81  Check: 7192  Weight:  1.00
+Name: TXL_BUTEU/1-64               Len:    81  Check: 6725  Weight:  1.00
+Name: SCX8_BUTOS/1-64              Len:    81  Check: 7373  Weight:  1.00
+Name: F1CIZ6_BUTJU/1-64            Len:    81  Check: 7270  Weight:  1.00
+Name: IPTXA_PANIM/1-33             Len:    81  Check: 2343  Weight:  1.00
+
+//
+
+                             1                                                   50
+A0A1W7RAU1_9SCOR/1-74        MKTSSLTIIF IAVIITIICL NIHDVEAREI EFNAGRVVRS EKDCIKHLQR
+L0GBR1_9SCOR/1-68            MKASTLVVIF IVIFITISSF SIHDVQASGV EKRE------ QKDCLKKLKL
+F1CIZ6_HOTJU/1-64            ---MNSFVVV LLLFIAILCN AEQESDENAR S--------- ---CNRLGKK
+A0A0K0LBY9_9SCOR/1-64        ---MSTFVIV LLLLTAILCH AEHPLDETAR G--------- ---CNHLNKK
+R4H555_MESEU/1-64            ---MSTFVVV FLLLTAILCH AEHAIDETAR G--------- ---CNRLNKK
+TXL_MESEU/1-64               ---MSTFIVV FLLLTAILCH AEHAIDETAR G--------- ---CNRLNKK
+SCX1_ISOMC/1-57              --------FL VLLLVSLMCY AEIAEGSQ-- ---------- PTECKYG-RP
+A0A0U1S4E6_LYCMC/1-55        --------FL VLFLISVICY AEIAAG---- ---------- PTKCQYG-RP
+SCXC_SCOMA/1-33              ---------- ---------- ---------- ---G------ --DCLPHLKL
+SCX2_OPICA/1-66              MKPSLIIVTF IVVFMTISCV AADDEQETWI EKRG------ --DCLPHLKR
+SCX1_OPICA/1-66              MKPSLIIVTF IVVFMAISCV AADDEQETWI EKRG------ --DCLPHLKR
+SCXC_HADGE/1-74              MKTSSLTIIF IAVIITIICL NIHDIEAREI EFNAGRVVRS EKDCIKHLQR
+SCX6_LYCMC/1-58              -----GSLLL VLFLLSVICY AEIAAG---- ---------- PTKCQYG-RP
+SCXC1_MESMA/1-64             ---MNTFVVV FLLLTAILCH AEHALDETAR G--------- ---CNRLNKK
+TXL_BUTEU/1-64               ---MSTFIVV FLLLTAILCH AEHAIDETAR G--------- ---CNRLNKK
+SCX8_BUTOS/1-64              ---MSTFVIV FLLLTAVLCH AEPALDETAR G--------- ---CNRLNKK
+F1CIZ6_BUTJU/1-64            ---MNSFVVV LLLFIAILCN AEQESDENAR S--------- ---CNRLGKK
+IPTXA_PANIM/1-33             ---------- ---------- ---------- ---G------ --DCLPHLKR
+
+                             51                              81
+A0A1W7RAU1_9SCOR/1-74        CRENKQCCSK --KCSRRGTN PEKRCR---- -
+L0GBR1_9SCOR/1-68            CKENKDCCSK --SCKRRGTN IEKRCR---- -
+F1CIZ6_HOTJU/1-64            CNSDGDCCRY GERCLSSGVG --YYCKPDFG P
+A0A0K0LBY9_9SCOR/1-64        CNSDGDCCRY GERCISTGVN --YYCRPDFG P
+R4H555_MESEU/1-64            CNSDADCCRY GERCISTGVN --YYCRPDVG P
+TXL_MESEU/1-64               CNSDADCCRY GERCISTGVN --YYCRPDFG P
+SCX1_ISOMC/1-57              CNSDRDCCWE Y-RCLSSGRE --YTCKQDPG P
+A0A0U1S4E6_LYCMC/1-55        CDSDRDCCWE Y-RCLSSGEE --YTCKQDPG P
+SCXC_SCOMA/1-33              CKENKDCCSK --KCKRRGTN IEKRCR---- -
+SCX2_OPICA/1-66              CKENNDCCSK --KCKRRGAN PEKRCR---- -
+SCX1_OPICA/1-66              CKENNDCCSK --KCKRRGTN PEKRCR---- -
+SCXC_HADGE/1-74              CRENKDCCSK --KCSRRGTN PEKRCR---- -
+SCX6_LYCMC/1-58              CDSDRDCCWE YR-CLSSGEE --YTCKQDPG P
+SCXC1_MESMA/1-64             CNSDGDCCRY GERCISTGVN --YYCRPDFG P
+TXL_BUTEU/1-64               CNSDADCCRY GERCISTGVN --YYCRPDFG P
+SCX8_BUTOS/1-64              CNSDGDCCRY GERCISTGVN --YYCKPDFG P
+F1CIZ6_BUTJU/1-64            CNSDGDCCRY GERCLSSGVG --YYCKPDFG P
+IPTXA_PANIM/1-33             CKADNDCCGK --KCKRRGTN AEKRCR---- -
+

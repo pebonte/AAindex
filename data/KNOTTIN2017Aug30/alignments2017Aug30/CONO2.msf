@@ -1,0 +1,53 @@
+PileUp
+
+MSF: 104  Type: P  Check: 0  ..
+
+Name: CP91_CONRE/1-90              Len:   104  Check: 1257  Weight:  1.00
+Name: F5C3U2_CONIM/1-88            Len:   104  Check: 7999  Weight:  1.00
+Name: CP91_CONGL/1-88              Len:   104  Check: 2222  Weight:  1.00
+Name: W4VSK8_CONVC/1-88            Len:   104  Check: 2262  Weight:  1.00
+Name: CP_CONAA/1-27                Len:   104  Check: 8487  Weight:  1.00
+Name: CP9A_CONTE/1-88              Len:   104  Check: 3848  Weight:  1.00
+Name: S4UJS6_CONTE/1-88            Len:   104  Check: 3848  Weight:  1.00
+Name: W4VS39_CONVC/1-87            Len:   104  Check:  220  Weight:  1.00
+Name: U3L0H8_CONFL/1-90            Len:   104  Check: 7960  Weight:  1.00
+Name: VPL9A_POLAB/1-34             Len:   104  Check: 3552  Weight:  1.00
+
+//
+
+                             1                                                   50
+CP91_CONRE/1-90              MHLSLARSAV LILLLLFALG NFVGVQPGQI TRDADH---- --GINLRSLR
+F5C3U2_CONIM/1-88            MHLSLASSAV LMLLLLFALG NFVGVQPGQI TRDADN---- --LRNLRSQW
+CP91_CONGL/1-88              MHLSLARSAV LMLLLLFALG NFVVVQSGLI TRDVDNGQLT DNRRNLQTEW
+W4VSK8_CONVC/1-88            MHQSLTRSAV LMLLLLFALG NFVVVQSGLI TRDVDNGQLT DNRRNLQTEW
+CP_CONAA/1-27                ---------- ---------- ---------- ---------- ----------
+CP9A_CONTE/1-88              MHLSLARSAV LMLLLLFALG NFVVVQSGQI TRDVDNGQLT DNRRNLQSKW
+S4UJS6_CONTE/1-88            MHLSLARSAV LMLLLLFALG NFVVVQSGQI TRDVDNGQLT DNRRNLQSKW
+W4VS39_CONVC/1-87            MHQSLARSAV LMLLLLFALG NFVVVQSGLI TRDVDNGQLT DNRRNLQSEW
+U3L0H8_CONFL/1-90            MHLSLAGSAV LMLLLLFALG NFVGVQTGQI ARDVDNGLLT DKHRDLQSLR
+VPL9A_POLAB/1-34             ---------- ---------- ---------- ---------- ----------
+
+                             51                                                 100
+CP91_CONRE/1-90              KQMSRSP-LV KGAFCG-QAC SS-VKCPKKC -FCHPEEK-- --VCYREMRT
+F5C3U2_CONIM/1-88            KKRGLFKSLD KRTNCEAHSC S--PSCPDEC -YCDTNED-- --TCHPERRG
+CP91_CONGL/1-88              NPLSLFMSRR ---SCN-NSC QSHSDCASHC -ICTFRG--- ---CGAVNG-
+W4VSK8_CONVC/1-88            NPLSLFMSRR ---SCN-NSC QNHSDCASHC -ICTFRG--- ---CGAVNG-
+CP_CONAA/1-27                ---------- ---SCN-NSC QQHSQCASHC -VCLLNK--- ---CRTVN--
+CP9A_CONTE/1-88              KPVSLYMSRR ---GCN-NSC QEHSDCESHC -ICTFRG--- ---CGAVNG-
+S4UJS6_CONTE/1-88            KPVSLYMSRR ---GCN-NSC QEHSDCESHC -ICTFRG--- ---CGAVNG-
+W4VS39_CONVC/1-87            KPVSLFMSRR ---TCH-KPC QRHSECASHC -ICLIDT--- ---CDDAG--
+U3L0H8_CONFL/1-90            KPMDFFKSLY KRSSCG-EDC WGDADCPNDC PYCVSNLS-- --KCM-----
+VPL9A_POLAB/1-34             ---------- --NVCDGDAC P-DGVCRSGC -TCDFNVAQR KDTCFYPQ--
+
+                             101 
+CP91_CONRE/1-90              KERD
+F5C3U2_CONIM/1-88            H---
+CP91_CONGL/1-88              ----
+W4VSK8_CONVC/1-88            ----
+CP_CONAA/1-27                ----
+CP9A_CONTE/1-88              ----
+S4UJS6_CONTE/1-88            ----
+W4VS39_CONVC/1-87            ----
+U3L0H8_CONFL/1-90            ----
+VPL9A_POLAB/1-34             ----
+

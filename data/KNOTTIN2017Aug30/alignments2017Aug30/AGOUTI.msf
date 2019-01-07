@@ -1,0 +1,2441 @@
+PileUp
+
+MSF: 280  Type: P  Check: 0  ..
+
+Name: J3FBV6_GADMO/1-136           Len:   280  Check: 3533  Weight:  1.00
+Name: J3JQT3_ORYLA/1-149           Len:   280  Check: 6760  Weight:  1.00
+Name: M3ZQ55_XIPMA/1-145           Len:   280  Check: 6343  Weight:  1.00
+Name: T2C5M5_HAPBU/1-156           Len:   280  Check:  856  Weight:  1.00
+Name: I3J6M6_ORENI/1-156           Len:   280  Check:  650  Weight:  1.00
+Name: J3AM90_GASAC/1-135           Len:   280  Check: 3688  Weight:  1.00
+Name: R4ZGR2_DICLA/1-139           Len:   280  Check: 6340  Weight:  1.00
+Name: H3C0S9_TETNG/1-137           Len:   280  Check: 7841  Weight:  1.00
+Name: J3JQT6_TETNG/1-130           Len:   280  Check:  776  Weight:  1.00
+Name: H2RZV9_TAKRU/1-136           Len:   280  Check: 5409  Weight:  1.00
+Name: J3AMA0_LEPOC/1-130           Len:   280  Check: 6105  Weight:  1.00
+Name: J3FBV3_GASAC/1-115           Len:   280  Check: 3162  Weight:  1.00
+Name: J3AM95_GADMO/1-43            Len:   280  Check: 5497  Weight:  1.00
+Name: J3A6D1_ORYLA/1-114           Len:   280  Check: 6496  Weight:  1.00
+Name: M3ZQP5_XIPMA/1-115           Len:   280  Check:  732  Weight:  1.00
+Name: A0A0S7J224_9TELE/1-115       Len:   280  Check:  726  Weight:  1.00
+Name: A0A096MFN8_POEFO/1-115       Len:   280  Check:  406  Weight:  1.00
+Name: J3JQY1_ORENI/1-116           Len:   280  Check: 6113  Weight:  1.00
+Name: L0NNX1_DICLA/1-116           Len:   280  Check: 2962  Weight:  1.00
+Name: H3CQW3_TETNG/1-114           Len:   280  Check: 2350  Weight:  1.00
+Name: W5LIS3_ASTMX/1-106           Len:   280  Check: 9492  Weight:  1.00
+Name: J3JQX9_DANRE/1-136           Len:   280  Check: 8855  Weight:  1.00
+Name: G7ZL02_CYPCA/1-136           Len:   280  Check: 8126  Weight:  1.00
+Name: J3AM86_CALMI/1-141           Len:   280  Check:  794  Weight:  1.00
+Name: W5KRC1_ASTMX/1-129           Len:   280  Check: 8092  Weight:  1.00
+Name: S4VKC7_CYPCA/1-125           Len:   280  Check: 4975  Weight:  1.00
+Name: I7HPR5_GASAC/1-126           Len:   280  Check: 2786  Weight:  1.00
+Name: K7ZUC0_SOLSE/1-132           Len:   280  Check: 2323  Weight:  1.00
+Name: K7ZUE2_PSEMX/1-123           Len:   280  Check: 5851  Weight:  1.00
+Name: M4ACH1_XIPMA/1-162           Len:   280  Check: 1475  Weight:  1.00
+Name: S0F0E2_DICLA/1-127           Len:   280  Check: 9655  Weight:  1.00
+Name: T2C5A4_HAPBU/1-126           Len:   280  Check: 4142  Weight:  1.00
+Name: I3J9M4_ORENI/1-128           Len:   280  Check: 4523  Weight:  1.00
+Name: H3C4B2_TETNG/1-127           Len:   280  Check: 8842  Weight:  1.00
+Name: W5MJZ4_LEPOC/1-131           Len:   280  Check: 8195  Weight:  1.00
+Name: J3JQU0_GADMO/1-49            Len:   280  Check: 8705  Weight:  1.00
+Name: A0A142LWX1_9PASS/1-139       Len:   280  Check:  951  Weight:  1.00
+Name: A0A142LX14_9PASS/1-139       Len:   280  Check:  548  Weight:  1.00
+Name: U3K7P9_FICAL/1-139           Len:   280  Check: 2754  Weight:  1.00
+Name: H0YZQ6_TAEGU/1-139           Len:   280  Check: 1771  Weight:  1.00
+Name: R7VQV1_COLLI/1-125           Len:   280  Check: 4706  Weight:  1.00
+Name: R0K1V9_ANAPL/1-139           Len:   280  Check: 3511  Weight:  1.00
+Name: S4S2Z6_ANAPL/1-130           Len:   280  Check:  411  Weight:  1.00
+Name: G1MTH0_MELGA/1-141           Len:   280  Check: 3730  Weight:  1.00
+Name: X2JHS0_LEPSR/1-61            Len:   280  Check: 1310  Weight:  1.00
+Name: L0L3Z8_9CARN/1-135           Len:   280  Check: 9698  Weight:  1.00
+Name: L0L5Y8_PANPR/1-135           Len:   280  Check:  191  Weight:  1.00
+Name: X2JJ72_PRIBE/1-61            Len:   280  Check: 1442  Weight:  1.00
+Name: X2JJM8_PRIBE/1-61            Len:   280  Check: 1442  Weight:  1.00
+Name: A0A1S7IYF7_LEPBR/1-133       Len:   280  Check: 9563  Weight:  1.00
+Name: A0A1S7IY98_LEPTI/1-133       Len:   280  Check:  438  Weight:  1.00
+Name: A0A1S7IY96_LEPTI/1-133       Len:   280  Check: 9944  Weight:  1.00
+Name: A0A1S7IYB1_LEPTI/1-133       Len:   280  Check: 9878  Weight:  1.00
+Name: A0A1S7IYD4_9LAGO/1-133       Len:   280  Check: 9938  Weight:  1.00
+Name: A0A1S7IYG6_LEPMN/1-133       Len:   280  Check: 9910  Weight:  1.00
+Name: A0A1S7IYG4_LEPMN/1-133       Len:   280  Check: 9680  Weight:  1.00
+Name: A0A1S7IY93_LEPTI/1-133       Len:   280  Check: 9860  Weight:  1.00
+Name: G1T0P8_RABIT/1-132           Len:   280  Check: 9606  Weight:  1.00
+Name: I3M2D9_SPETR/1-133           Len:   280  Check: 1286  Weight:  1.00
+Name: G5BPT8_HETGA/1-134           Len:   280  Check:  566  Weight:  1.00
+Name: H0V4R9_CAVPO/1-130           Len:   280  Check: 6541  Weight:  1.00
+Name: H0VZP4_CAVPO/1-132           Len:   280  Check: 9455  Weight:  1.00
+Name: G7N512_MACMU/1-132           Len:   280  Check: 7259  Weight:  1.00
+Name: H2P1P7_PONAB/1-132           Len:   280  Check: 7627  Weight:  1.00
+Name: G3SDS8_GORGO/1-132           Len:   280  Check: 7402  Weight:  1.00
+Name: H2QK77_PANTR/1-132           Len:   280  Check: 7257  Weight:  1.00
+Name: ASIP_CALPY/1-132             Len:   280  Check: 9581  Weight:  1.00
+Name: G1NUR0_MYOLU/1-132           Len:   280  Check: 8446  Weight:  1.00
+Name: L5LT97_MYODS/1-169           Len:   280  Check: 6917  Weight:  1.00
+Name: G8XWT5_VICPA/1-133           Len:   280  Check: 8848  Weight:  1.00
+Name: G8XWT3_VICPA/1-133           Len:   280  Check: 8864  Weight:  1.00
+Name: E7CVH0_VICPA/1-133           Len:   280  Check: 8750  Weight:  1.00
+Name: E7CVG9_VICPA/1-133           Len:   280  Check: 9395  Weight:  1.00
+Name: A0A1C8EIC3_LAMGU/1-133       Len:   280  Check: 9395  Weight:  1.00
+Name: E7D208_VICPA/1-133           Len:   280  Check: 9335  Weight:  1.00
+Name: G8XWT4_VICPA/1-133           Len:   280  Check: 9433  Weight:  1.00
+Name: L9L4A7_TUPCH/1-147           Len:   280  Check: 6531  Weight:  1.00
+Name: I3W8V4_PIG/1-131             Len:   280  Check: 5135  Weight:  1.00
+Name: G3SVT4_LOXAF/1-134           Len:   280  Check:  194  Weight:  1.00
+Name: A0A190X659_NEOVI/1-143       Len:   280  Check:   47  Weight:  1.00
+Name: M3Z295_MUSPF/1-132           Len:   280  Check: 7717  Weight:  1.00
+Name: G1LR79_AILME/1-133           Len:   280  Check:  313  Weight:  1.00
+Name: Q5IRA5_CANLF/1-58            Len:   280  Check:  699  Weight:  1.00
+Name: F1PPY1_CANLF/1-131           Len:   280  Check: 7258  Weight:  1.00
+Name: A0A0S2VHX5_CAPHI/1-133       Len:   280  Check: 9495  Weight:  1.00
+Name: L8HPD2_9CETA/1-129           Len:   280  Check: 7259  Weight:  1.00
+Name: A0A068B4B9_BOSMU/1-133       Len:   280  Check:  612  Weight:  1.00
+Name: V9LHC8_CALMI/1-147           Len:   280  Check: 5111  Weight:  1.00
+Name: F9W304_CALMI/1-40            Len:   280  Check:  646  Weight:  1.00
+Name: W5MNE0_LEPOC/1-163           Len:   280  Check: 5381  Weight:  1.00
+Name: J3A6E5_GADMO/1-128           Len:   280  Check: 3667  Weight:  1.00
+Name: A0A087X9I8_POEFO/1-141       Len:   280  Check: 9926  Weight:  1.00
+Name: M4A652_XIPMA/1-140           Len:   280  Check: 9032  Weight:  1.00
+Name: I3J5C4_ORENI/1-142           Len:   280  Check: 1157  Weight:  1.00
+Name: G3Q0E7_GASAC/1-68            Len:   280  Check: 7607  Weight:  1.00
+Name: J3JQY0_GASAC/1-132           Len:   280  Check: 3322  Weight:  1.00
+Name: A0A165VNW2_SPAAU/1-142       Len:   280  Check: 9130  Weight:  1.00
+Name: L0NPW1_DICLA/1-142           Len:   280  Check: 8905  Weight:  1.00
+Name: H2L407_ORYLA/1-66            Len:   280  Check: 5917  Weight:  1.00
+Name: J3JQU3_ORYLA/1-117           Len:   280  Check: 7325  Weight:  1.00
+Name: H3CXY9_TETNG/1-130           Len:   280  Check: 4977  Weight:  1.00
+Name: H2SAE1_TAKRU/1-135           Len:   280  Check: 6913  Weight:  1.00
+Name: W5KEG6_ASTMX/1-83            Len:   280  Check: 9933  Weight:  1.00
+Name: W5U8D2_ICTPU/1-140           Len:   280  Check: 8137  Weight:  1.00
+Name: S4TMX9_SCHPR/1-126           Len:   280  Check: 6963  Weight:  1.00
+Name: G7ZL01_CYPCA/1-128           Len:   280  Check: 8354  Weight:  1.00
+Name: J3A6E8_XENTR/1-147           Len:   280  Check: 2642  Weight:  1.00
+Name: U3JXU1_FICAL/1-156           Len:   280  Check: 1132  Weight:  1.00
+Name: H0Z675_TAEGU/1-144           Len:   280  Check:  946  Weight:  1.00
+Name: H0Z672_TAEGU/1-69            Len:   280  Check: 1481  Weight:  1.00
+Name: R0JIY8_ANAPL/1-156           Len:   280  Check: 3416  Weight:  1.00
+Name: G1MSF6_MELGA/1-163           Len:   280  Check: 4392  Weight:  1.00
+Name: G3WKU1_SARHA/1-156           Len:   280  Check: 3319  Weight:  1.00
+Name: L5LI85_MYODS/1-142           Len:   280  Check: 4258  Weight:  1.00
+Name: S7NAJ4_MYOBR/1-131           Len:   280  Check: 8855  Weight:  1.00
+Name: G1P469_MYOLU/1-131           Len:   280  Check: 8549  Weight:  1.00
+Name: S9Y9Q3_9CETA/1-134           Len:   280  Check: 3622  Weight:  1.00
+Name: W5NYE4_SHEEP/1-134           Len:   280  Check: 4014  Weight:  1.00
+Name: L8IH41_9CETA/1-134           Len:   280  Check: 3908  Weight:  1.00
+Name: G3TG92_LOXAF/1-133           Len:   280  Check: 2924  Weight:  1.00
+Name: L9K5S4_TUPCH/1-135           Len:   280  Check: 6348  Weight:  1.00
+Name: G5C663_HETGA/1-129           Len:   280  Check: 8198  Weight:  1.00
+Name: G1T240_RABIT/1-132           Len:   280  Check: 2701  Weight:  1.00
+Name: I3MRK0_SPETR/1-132           Len:   280  Check: 1355  Weight:  1.00
+Name: H0VHZ8_CAVPO/1-132           Len:   280  Check: 2581  Weight:  1.00
+Name: H0XI71_OTOGA/1-132           Len:   280  Check: 2219  Weight:  1.00
+Name: A0A1U7TPF3_TARSY/1-132       Len:   280  Check: 1189  Weight:  1.00
+Name: G1QXQ3_NOMLE/1-132           Len:   280  Check:  424  Weight:  1.00
+Name: H2NR81_PONAB/1-132           Len:   280  Check:  396  Weight:  1.00
+Name: A0A096NE32_PAPAN/1-132       Len:   280  Check:   52  Weight:  1.00
+Name: G8F4K7_MACFA/1-132           Len:   280  Check: 9992  Weight:  1.00
+Name: G3RB26_GORGO/1-132           Len:   280  Check:  569  Weight:  1.00
+Name: H2QBB7_PANTR/1-132           Len:   280  Check:  539  Weight:  1.00
+Name: M3W0C2_FELCA/1-132           Len:   280  Check: 3332  Weight:  1.00
+Name: L5KSW7_PTEAL/1-132           Len:   280  Check: 4623  Weight:  1.00
+Name: M3Y4Q5_MUSPF/1-132           Len:   280  Check:   23  Weight:  1.00
+Name: A0A1U7QLA0_MESAU/1-141       Len:   280  Check: 5994  Weight:  1.00
+Name: B7SNI4_ACORU/1-113           Len:   280  Check: 7449  Weight:  1.00
+Name: A0A1A6FWM3_NEOLE/1-132       Len:   280  Check: 2128  Weight:  1.00
+Name: A0A0A6YX09_MOUSE/1-118       Len:   280  Check: 3290  Weight:  1.00
+Name: C9DER5_PERMA/1-138           Len:   280  Check: 4194  Weight:  1.00
+Name: C9DEH3_PERMA/1-138           Len:   280  Check: 4037  Weight:  1.00
+Name: C9DEG3_PERMA/1-138           Len:   280  Check: 3987  Weight:  1.00
+Name: C9DEU1_PERMA/1-138           Len:   280  Check: 4395  Weight:  1.00
+Name: C9DET7_PERMA/1-138           Len:   280  Check: 3693  Weight:  1.00
+Name: C9DET5_PERMA/1-138           Len:   280  Check: 4689  Weight:  1.00
+Name: C9DEH7_PERMA/1-139           Len:   280  Check: 5705  Weight:  1.00
+Name: C9DEG7_PERMA/1-139           Len:   280  Check: 5735  Weight:  1.00
+Name: C9DEL3_PERMA/1-139           Len:   280  Check: 6295  Weight:  1.00
+Name: A7YMS6_PERPL/1-139           Len:   280  Check: 4783  Weight:  1.00
+Name: C9DEX7_PERMA/1-139           Len:   280  Check: 4783  Weight:  1.00
+Name: C7EZX1_PERMA/1-139           Len:   280  Check: 4783  Weight:  1.00
+Name: A7YMS3_PERMA/1-139           Len:   280  Check: 4783  Weight:  1.00
+Name: C9DEE3_PERMA/1-139           Len:   280  Check: 5033  Weight:  1.00
+Name: C9DEK5_PERMA/1-139           Len:   280  Check: 4413  Weight:  1.00
+Name: C9DER1_PERMA/1-139           Len:   280  Check: 5003  Weight:  1.00
+Name: C9DEI9_PERMA/1-139           Len:   280  Check: 4783  Weight:  1.00
+Name: A7YMS8_PERPL/1-139           Len:   280  Check: 4783  Weight:  1.00
+Name: C9DEN5_PERMA/1-139           Len:   280  Check: 5107  Weight:  1.00
+Name: C9DEK3_PERMA/1-139           Len:   280  Check: 5381  Weight:  1.00
+Name: C9DEL1_PERMA/1-139           Len:   280  Check: 5411  Weight:  1.00
+Name: C9DEG1_PERMA/1-139           Len:   280  Check: 5441  Weight:  1.00
+Name: C9DEK9_PERMA/1-139           Len:   280  Check: 5105  Weight:  1.00
+Name: C9DEF9_PERMA/1-139           Len:   280  Check: 5429  Weight:  1.00
+Name: C9DEP3_PERMA/1-139           Len:   280  Check: 5679  Weight:  1.00
+Name: C9DEM9_PERMA/1-139           Len:   280  Check: 5459  Weight:  1.00
+Name: C9DEJ3_PERMA/1-139           Len:   280  Check: 5624  Weight:  1.00
+Name: C9DET3_PERMA/1-139           Len:   280  Check: 5135  Weight:  1.00
+Name: C9DER3_PERMA/1-139           Len:   280  Check: 4790  Weight:  1.00
+Name: C9DEI5_PERMA/1-139           Len:   280  Check: 4939  Weight:  1.00
+Name: C9DEF3_PERMA/1-139           Len:   280  Check: 5104  Weight:  1.00
+Name: C9DEM3_PERMA/1-139           Len:   280  Check: 5641  Weight:  1.00
+Name: C9DEW3_PERMA/1-139           Len:   280  Check: 4969  Weight:  1.00
+Name: C9DEV3_PERMA/1-139           Len:   280  Check: 5347  Weight:  1.00
+Name: C9DEH1_PERMA/1-139           Len:   280  Check: 5671  Weight:  1.00
+Name: C9DEH5_PERMA/1-139           Len:   280  Check: 5917  Weight:  1.00
+Name: C9DES1_PERMA/1-139           Len:   280  Check: 5623  Weight:  1.00
+Name: C9DEN3_PERMA/1-139           Len:   280  Check: 5215  Weight:  1.00
+Name: C9DEE1_PERMA/1-139           Len:   280  Check: 5319  Weight:  1.00
+Name: C9DEF1_PERMA/1-139           Len:   280  Check: 5569  Weight:  1.00
+Name: C9DEP1_PERMA/1-139           Len:   280  Check: 5539  Weight:  1.00
+Name: C9DES5_PERMA/1-139           Len:   280  Check: 5349  Weight:  1.00
+Name: C9DEQ1_PERMA/1-139           Len:   280  Check: 5138  Weight:  1.00
+Name: C9DEF7_PERMA/1-139           Len:   280  Check: 4995  Weight:  1.00
+Name: C9DER9_PERMA/1-139           Len:   280  Check: 4623  Weight:  1.00
+Name: C9DER7_PERMA/1-139           Len:   280  Check: 4617  Weight:  1.00
+Name: C9DEX5_PERMA/1-139           Len:   280  Check: 5177  Weight:  1.00
+Name: C9DEL5_PERMA/1-139           Len:   280  Check: 4812  Weight:  1.00
+Name: C9DEL9_PERMA/1-139           Len:   280  Check: 4647  Weight:  1.00
+Name: C9DEE5_PERMA/1-139           Len:   280  Check: 5245  Weight:  1.00
+Name: F1LQS7_RAT/1-130             Len:   280  Check: 1371  Weight:  1.00
+Name: D3Z9S3_RAT/1-124             Len:   280  Check: 6440  Weight:  1.00
+Name: ASIP_RAT/1-131               Len:   280  Check: 5267  Weight:  1.00
+Name: ASIP_MOUSE/1-131             Len:   280  Check: 4704  Weight:  1.00
+Name: B0B577_RABIT/1-133           Len:   280  Check: 8419  Weight:  1.00
+Name: Q5CC35_CARAU/1-125           Len:   280  Check: 8269  Weight:  1.00
+Name: Q5CC34_CARAU/1-125           Len:   280  Check: 8052  Weight:  1.00
+Name: B3DGI7_DANRE/1-125           Len:   280  Check: 9376  Weight:  1.00
+Name: A0ZSG4_TAKRU/1-128           Len:   280  Check: 7243  Weight:  1.00
+Name: D6CIN2_ONCMY/1-122           Len:   280  Check: 2767  Weight:  1.00
+Name: A0ZSG5_TAKRU/1-137           Len:   280  Check: 8293  Weight:  1.00
+Name: A0ZSG7_TAKRU/1-115           Len:   280  Check: 1715  Weight:  1.00
+Name: Q4SP72_TETNG/1-112           Len:   280  Check: 8541  Weight:  1.00
+Name: B9X0J4_SALSA/1-117           Len:   280  Check: 2389  Weight:  1.00
+Name: Q4SEW0_TETNG/1-50            Len:   280  Check: 7988  Weight:  1.00
+Name: D2N151_CYPCA/1-59            Len:   280  Check: 1473  Weight:  1.00
+Name: Q90WY7_COTJA/1-71            Len:   280  Check: 6575  Weight:  1.00
+Name: Q5CC33_CARAU/1-51            Len:   280  Check:  474  Weight:  1.00
+Name: Q4JNX9_CAPHI/1-58            Len:   280  Check: 8661  Weight:  1.00
+Name: Q68GX9_CANLU/1-58            Len:   280  Check: 9299  Weight:  1.00
+Name: Q68GY0_CANLA/1-58            Len:   280  Check: 9299  Weight:  1.00
+Name: Q5IRA5_CANFA/1-58            Len:   280  Check: 9369  Weight:  1.00
+Name: A5JUA7_ROLRO/1-119           Len:   280  Check: 8737  Weight:  1.00
+Name: A5JUA3_9GALL/1-140           Len:   280  Check: 2731  Weight:  1.00
+Name: A5JUB7_9GALL/1-140           Len:   280  Check: 2731  Weight:  1.00
+Name: A5JUC0_LAGLG/1-140           Len:   280  Check: 2373  Weight:  1.00
+Name: A5JUA4_TRATE/1-140           Len:   280  Check: 1930  Weight:  1.00
+Name: A5JUA5_TRASA/1-140           Len:   280  Check: 2608  Weight:  1.00
+Name: A5JUC1_LOPIM/1-140           Len:   280  Check: 2917  Weight:  1.00
+Name: A5JUC7_CATWA/1-140           Len:   280  Check: 3061  Weight:  1.00
+Name: A5JUA6_SYRRE/1-140           Len:   280  Check: 2511  Weight:  1.00
+Name: A5JUB3_PHACC/1-140           Len:   280  Check: 2922  Weight:  1.00
+Name: A5JUD1_CROCS/1-140           Len:   280  Check: 2325  Weight:  1.00
+Name: A5JUC8_CROMA/1-140           Len:   280  Check: 2325  Weight:  1.00
+Name: A5JUC2_LOPED/1-140           Len:   280  Check: 2478  Weight:  1.00
+Name: A5JUB9_LOPNY/1-140           Len:   280  Check: 2968  Weight:  1.00
+Name: A5JUC3_LOPDI/1-140           Len:   280  Check: 1867  Weight:  1.00
+Name: A5JUA8_PERPE/1-140           Len:   280  Check: 2145  Weight:  1.00
+Name: A5JUB6_MELGA/1-140           Len:   280  Check: 3556  Weight:  1.00
+Name: A5JUC5_FRAPO/1-142           Len:   280  Check: 1777  Weight:  1.00
+Name: A5JUD4_ALECH/1-142           Len:   280  Check: 2551  Weight:  1.00
+Name: A5JUD7_ALERU/1-142           Len:   280  Check: 2323  Weight:  1.00
+Name: A5JUC6_9GALL/1-142           Len:   280  Check: 1719  Weight:  1.00
+Name: A5JUD6_ARGAR/1-140           Len:   280  Check:  420  Weight:  1.00
+Name: A5JUB0_PAVMU/1-142           Len:   280  Check: 1815  Weight:  1.00
+Name: A5JUB4_PAVCR/1-142           Len:   280  Check: 2065  Weight:  1.00
+Name: A5JUD5_AFRCO/1-142           Len:   280  Check: 1248  Weight:  1.00
+Name: A5JUB1_9GALL/1-142           Len:   280  Check: 2950  Weight:  1.00
+Name: A5JUA9_POLMA/1-142           Len:   280  Check: 2950  Weight:  1.00
+Name: A5JUB2_POLNP/1-142           Len:   280  Check: 1827  Weight:  1.00
+Name: A5JUC4_GALSO/1-142           Len:   280  Check:  369  Weight:  1.00
+Name: C0A1C6_COTJA/1-153           Len:   280  Check: 1109  Weight:  1.00
+Name: A5JUC9_COTJA/1-141           Len:   280  Check: 1789  Weight:  1.00
+Name: A5JUD0_COTCO/1-141           Len:   280  Check: 1961  Weight:  1.00
+Name: C0A1D0_CHICK/1-233           Len:   280  Check: 9203  Weight:  1.00
+Name: C0A1C9_CHICK/1-165           Len:   280  Check: 4905  Weight:  1.00
+Name: Q9W7R0_CHICK/1-165           Len:   280  Check: 5409  Weight:  1.00
+Name: Q9PWG2_CHICK/1-154           Len:   280  Check:  483  Weight:  1.00
+Name: C0A1C8_CHICK/1-154           Len:   280  Check: 9979  Weight:  1.00
+Name: F7DQS7_ORNAN/1-138           Len:   280  Check: 1032  Weight:  1.00
+Name: F7DQT3_ORNAN/1-140           Len:   280  Check: 5070  Weight:  1.00
+Name: F6XD58_MONDO/1-139           Len:   280  Check: 6440  Weight:  1.00
+Name: F1MAG1_RAT/1-132             Len:   280  Check: 1366  Weight:  1.00
+Name: B7SNI4_9RODE/1-113           Len:   280  Check: 7134  Weight:  1.00
+Name: F6XMN7_HORSE/1-131           Len:   280  Check: 7712  Weight:  1.00
+Name: F7I534_CALJA/1-132           Len:   280  Check: 7520  Weight:  1.00
+Name: C6SUN5_HUMAN/1-132           Len:   280  Check:  728  Weight:  1.00
+Name: AGRP_HUMAN/1-132             Len:   280  Check:  728  Weight:  1.00
+Name: F7H591_MACMU/1-132           Len:   280  Check: 9803  Weight:  1.00
+Name: AGRP_BOVIN/1-134             Len:   280  Check: 4152  Weight:  1.00
+Name: D2CNK1_BOVIN/1-134           Len:   280  Check: 4190  Weight:  1.00
+Name: D2CNK2_BOSIN/1-134           Len:   280  Check: 4486  Weight:  1.00
+Name: D2KC52_PIG/1-134             Len:   280  Check: 3228  Weight:  1.00
+Name: AGRP_PIG/1-134               Len:   280  Check: 3024  Weight:  1.00
+Name: Q9GLM5_PIG/1-121             Len:   280  Check: 2431  Weight:  1.00
+Name: D2H9E8_AILME/1-131           Len:   280  Check:  280  Weight:  1.00
+Name: E2RJQ9_CANFA/1-132           Len:   280  Check:  845  Weight:  1.00
+Name: AGRP_MOUSE/1-131             Len:   280  Check: 3072  Weight:  1.00
+Name: Q3UU47_MOUSE/1-131           Len:   280  Check: 3072  Weight:  1.00
+Name: Q6J648_SHEEP/1-105           Len:   280  Check: 5797  Weight:  1.00
+Name: Q9QXJ3_RAT/1-78              Len:   280  Check: 1850  Weight:  1.00
+Name: Q70Q62_CARAU/1-128           Len:   280  Check: 2573  Weight:  1.00
+Name: Q70Q61_CARAU/1-120           Len:   280  Check: 5741  Weight:  1.00
+Name: E9QBS3_DANRE/1-126           Len:   280  Check: 5173  Weight:  1.00
+Name: A0ZSG6_TAKRU/1-135           Len:   280  Check: 8823  Weight:  1.00
+Name: F1T0Z6_9GOBI/1-92            Len:   280  Check: 8259  Weight:  1.00
+Name: F1T0Y9_9GOBI/1-137           Len:   280  Check: 4088  Weight:  1.00
+Name: B0ZDU0_COTJA/1-125           Len:   280  Check: 3585  Weight:  1.00
+Name: A9EDJ0_COTJA/1-139           Len:   280  Check: 6678  Weight:  1.00
+Name: B0ZDU3_CHICK/1-130           Len:   280  Check: 7111  Weight:  1.00
+Name: B0ZDU4_CHICK/1-130           Len:   280  Check: 7104  Weight:  1.00
+Name: B0ZDU2_CHICK/1-130           Len:   280  Check: 6924  Weight:  1.00
+Name: C9K601_CHICK/1-139           Len:   280  Check:  322  Weight:  1.00
+Name: A9EDH6_COTJA/1-130           Len:   280  Check: 6913  Weight:  1.00
+Name: D6R3D5_CAIMO/1-102           Len:   280  Check: 2197  Weight:  1.00
+Name: D6R3D6_ANAPL/1-102           Len:   280  Check: 2482  Weight:  1.00
+Name: F6YH41_MONDO/1-130           Len:   280  Check: 7847  Weight:  1.00
+Name: A4GVF2_CANLU/1-101           Len:   280  Check: 4188  Weight:  1.00
+Name: E7CVH0_LAMPA/1-133           Len:   280  Check: 8703  Weight:  1.00
+Name: E7D208_LAMPA/1-133           Len:   280  Check: 9288  Weight:  1.00
+Name: E7CVG9_LAMPA/1-133           Len:   280  Check: 9348  Weight:  1.00
+Name: F1PPY0_CANFA/1-137           Len:   280  Check: 9417  Weight:  1.00
+Name: F1PPY1_CANFA/1-131           Len:   280  Check:  288  Weight:  1.00
+Name: ASIP_CHLAE/1-132             Len:   280  Check:  792  Weight:  1.00
+Name: ASIP_VULVU/1-131             Len:   280  Check: 9220  Weight:  1.00
+Name: ASIP_CANFA/1-131             Len:   280  Check: 9418  Weight:  1.00
+Name: D2H432_AILME/1-137           Len:   280  Check: 5856  Weight:  1.00
+Name: ASIP_CALJA/1-132             Len:   280  Check: 9899  Weight:  1.00
+Name: ASIP_CALGE/1-132             Len:   280  Check: 9899  Weight:  1.00
+Name: ASIP_CALGO/1-132             Len:   280  Check: 9899  Weight:  1.00
+Name: ASIP_LEOCY/1-132             Len:   280  Check: 9992  Weight:  1.00
+Name: ASIP_LEORO/1-132             Len:   280  Check: 9992  Weight:  1.00
+Name: ASIP_CEBPY/1-132             Len:   280  Check:  397  Weight:  1.00
+Name: A1YL76_9PRIM/1-132           Len:   280  Check: 8738  Weight:  1.00
+Name: ASIP_PAPAN/1-132             Len:   280  Check: 8623  Weight:  1.00
+Name: ASIP_MACSY/1-132             Len:   280  Check: 8623  Weight:  1.00
+Name: ASIP_ERYPA/1-132             Len:   280  Check: 8623  Weight:  1.00
+Name: ASIP_CERMI/1-132             Len:   280  Check: 8767  Weight:  1.00
+Name: ASIP_MACFU/1-132             Len:   280  Check: 8062  Weight:  1.00
+Name: ASIP_MACMU/1-132             Len:   280  Check: 8062  Weight:  1.00
+Name: ASIP_MACFA/1-132             Len:   280  Check: 8062  Weight:  1.00
+Name: ASIP_MACRA/1-132             Len:   280  Check: 8767  Weight:  1.00
+Name: ASIP_MACAR/1-132             Len:   280  Check: 8767  Weight:  1.00
+Name: ASIP_MACSI/1-132             Len:   280  Check: 8767  Weight:  1.00
+Name: ASIP_MACAS/1-132             Len:   280  Check: 9163  Weight:  1.00
+Name: ASIP_MACCY/1-132             Len:   280  Check: 8626  Weight:  1.00
+Name: ASIP_MACMR/1-132             Len:   280  Check: 8860  Weight:  1.00
+Name: ASIP_MACSL/1-132             Len:   280  Check: 9639  Weight:  1.00
+Name: ASIP_MACNG/1-132             Len:   280  Check: 9004  Weight:  1.00
+Name: ASIP_MACNE/1-132             Len:   280  Check: 8860  Weight:  1.00
+Name: ASIP_MACHE/1-132             Len:   280  Check: 8834  Weight:  1.00
+Name: ASIP_MACNR/1-132             Len:   280  Check: 8212  Weight:  1.00
+Name: ASIP_COLPO/1-132             Len:   280  Check: 8980  Weight:  1.00
+Name: ASIP_SEMEN/1-132             Len:   280  Check:  186  Weight:  1.00
+Name: ASIP_TRAOB/1-132             Len:   280  Check: 9284  Weight:  1.00
+Name: ASIP_TRACR/1-132             Len:   280  Check: 9284  Weight:  1.00
+Name: ASIP_TRAAU/1-132             Len:   280  Check: 9284  Weight:  1.00
+Name: ASIP_TRAFR/1-132             Len:   280  Check: 9284  Weight:  1.00
+Name: ASIP_GORGO/1-132             Len:   280  Check: 8256  Weight:  1.00
+Name: ASIP_PANTR/1-132             Len:   280  Check: 8256  Weight:  1.00
+Name: ASIP_PANPA/1-132             Len:   280  Check: 8256  Weight:  1.00
+Name: ASIP_HUMAN/1-132             Len:   280  Check: 8450  Weight:  1.00
+Name: ASIP_PONPY/1-132             Len:   280  Check: 8442  Weight:  1.00
+Name: ASIP_BOVIN/1-133             Len:   280  Check: 9419  Weight:  1.00
+Name: B2KNR1_CAPHI/1-134           Len:   280  Check: 9474  Weight:  1.00
+Name: B4YAJ9_SHEEP/1-133           Len:   280  Check: 8569  Weight:  1.00
+Name: ASIP_PIG/1-131               Len:   280  Check: 5931  Weight:  1.00
+Name: C8C9X0_PIG/1-131             Len:   280  Check: 5697  Weight:  1.00
+Name: ASIP_FELCA/1-135             Len:   280  Check: 1429  Weight:  1.00
+Name: ASIP_HORSE/1-133             Len:   280  Check: 9640  Weight:  1.00
+Name: C9DEW5_PERMA/1-132           Len:   280  Check: 2273  Weight:  1.00
+Name: C9DEJ5_PERMA/1-138           Len:   280  Check: 5041  Weight:  1.00
+Name: C9DEX9_PERMA/1-138           Len:   280  Check: 4309  Weight:  1.00
+Name: C9DEM7_PERMA/1-138           Len:   280  Check: 6064  Weight:  1.00
+Name: C9DEE9_PERMA/1-138           Len:   280  Check: 4309  Weight:  1.00
+Name: C9DEU5_PERMA/1-138           Len:   280  Check: 4424  Weight:  1.00
+
+//
+
+                             1                                                   50
+J3FBV6_GADMO/1-136           ---------- ---------- ---------- ---------- ----------
+J3JQT3_ORYLA/1-149           ---------- ---------- ---------- ---------- ----------
+M3ZQ55_XIPMA/1-145           ---------- ---------- ---------- ---------- ----------
+T2C5M5_HAPBU/1-156           ---------- ---------- ---------- ---------- ----------
+I3J6M6_ORENI/1-156           ---------- ---------- ---------- ---------- ----------
+J3AM90_GASAC/1-135           ---------- ---------- ---------- ---------- ----------
+R4ZGR2_DICLA/1-139           ---------- ---------- ---------- ---------- ----------
+H3C0S9_TETNG/1-137           ---------- ---------- ---------- ---------- ----------
+J3JQT6_TETNG/1-130           ---------- ---------- ---------- ---------- ----------
+H2RZV9_TAKRU/1-136           ---------- ---------- ---------- ---------- ----------
+J3AMA0_LEPOC/1-130           ---------- ---------- ---------- ---------- ----------
+J3FBV3_GASAC/1-115           ---------- ---------- ---------- ---------- ----------
+J3AM95_GADMO/1-43            ---------- ---------- ---------- ---------- ----------
+J3A6D1_ORYLA/1-114           ---------- ---------- ---------- ---------- ----------
+M3ZQP5_XIPMA/1-115           ---------- ---------- ---------- ---------- ----------
+A0A0S7J224_9TELE/1-115       ---------- ---------- ---------- ---------- ----------
+A0A096MFN8_POEFO/1-115       ---------- ---------- ---------- ---------- ----------
+J3JQY1_ORENI/1-116           ---------- ---------- ---------- ---------- ----------
+L0NNX1_DICLA/1-116           ---------- ---------- ---------- ---------- ----------
+H3CQW3_TETNG/1-114           ---------- ---------- ---------- ---------- ----------
+W5LIS3_ASTMX/1-106           ---------- ---------- ---------- ---------- ----------
+J3JQX9_DANRE/1-136           ---------- ---------- ---------- ---------- ----------
+G7ZL02_CYPCA/1-136           ---------- ---------- ---------- ---------- ----------
+J3AM86_CALMI/1-141           ---------- ---------- ---------- ---------- ----------
+W5KRC1_ASTMX/1-129           ---------- ---------- ---------- ---------- ----------
+S4VKC7_CYPCA/1-125           ---------- ---------- ---------- ---------- ----------
+I7HPR5_GASAC/1-126           ---------- ---------- ---------- ---------- ----------
+K7ZUC0_SOLSE/1-132           ---------- ---------- ---------- ---------- ----------
+K7ZUE2_PSEMX/1-123           ---------- ---------- ---------- ---------- ----------
+M4ACH1_XIPMA/1-162           ---------- ---------- ---------- ----MLLCHR LSRSCRCCCR
+S0F0E2_DICLA/1-127           ---------- ---------- ---------- ---------- ----------
+T2C5A4_HAPBU/1-126           ---------- ---------- ---------- ---------- ----------
+I3J9M4_ORENI/1-128           ---------- ---------- ---------- ---------- ----------
+H3C4B2_TETNG/1-127           ---------- ---------- ---------- ---------- ----------
+W5MJZ4_LEPOC/1-131           ---------- ---------- ---------- ---------- ----------
+J3JQU0_GADMO/1-49            ---------- ---------- ---------- ---------- ----------
+A0A142LWX1_9PASS/1-139       ---------- ---------- ---------- ---------- ----------
+A0A142LX14_9PASS/1-139       ---------- ---------- ---------- ---------- ----------
+U3K7P9_FICAL/1-139           ---------- ---------- ---------- ---------- ----------
+H0YZQ6_TAEGU/1-139           ---------- ---------- ---------- ---------- ----------
+R7VQV1_COLLI/1-125           ---------- ---------- ---------- ---------- ----------
+R0K1V9_ANAPL/1-139           ---------- ---------- ---------- ---------- ----------
+S4S2Z6_ANAPL/1-130           ---------- ---------- ---------- ---------- ----------
+G1MTH0_MELGA/1-141           ---------- ---------- ---------- ---------- ----------
+X2JHS0_LEPSR/1-61            ---------- ---------- ---------- ---------- ----------
+L0L3Z8_9CARN/1-135           ---------- ---------- ---------- ---------- ----------
+L0L5Y8_PANPR/1-135           ---------- ---------- ---------- ---------- ----------
+X2JJ72_PRIBE/1-61            ---------- ---------- ---------- ---------- ----------
+X2JJM8_PRIBE/1-61            ---------- ---------- ---------- ---------- ----------
+A0A1S7IYF7_LEPBR/1-133       ---------- ---------- ---------- ---------- ----------
+A0A1S7IY98_LEPTI/1-133       ---------- ---------- ---------- ---------- ----------
+A0A1S7IY96_LEPTI/1-133       ---------- ---------- ---------- ---------- ----------
+A0A1S7IYB1_LEPTI/1-133       ---------- ---------- ---------- ---------- ----------
+A0A1S7IYD4_9LAGO/1-133       ---------- ---------- ---------- ---------- ----------
+A0A1S7IYG6_LEPMN/1-133       ---------- ---------- ---------- ---------- ----------
+A0A1S7IYG4_LEPMN/1-133       ---------- ---------- ---------- ---------- ----------
+A0A1S7IY93_LEPTI/1-133       ---------- ---------- ---------- ---------- ----------
+G1T0P8_RABIT/1-132           ---------- ---------- ---------- ---------- ----------
+I3M2D9_SPETR/1-133           ---------- ---------- ---------- ---------- ----------
+G5BPT8_HETGA/1-134           ---------- ---------- ---------- ---------- ----------
+H0V4R9_CAVPO/1-130           ---------- ---------- ---------- ---------- ----------
+H0VZP4_CAVPO/1-132           ---------- ---------- ---------- ---------- ----------
+G7N512_MACMU/1-132           ---------- ---------- ---------- ---------- ----------
+H2P1P7_PONAB/1-132           ---------- ---------- ---------- ---------- ----------
+G3SDS8_GORGO/1-132           ---------- ---------- ---------- ---------- ----------
+H2QK77_PANTR/1-132           ---------- ---------- ---------- ---------- ----------
+ASIP_CALPY/1-132             ---------- ---------- ---------- ---------- ----------
+G1NUR0_MYOLU/1-132           ---------- ---------- ---------- ---------- ----------
+L5LT97_MYODS/1-169           ---------- ---------- ---------- ----MVSSYY CSPSSKKTLL
+G8XWT5_VICPA/1-133           ---------- ---------- ---------- ---------- ----------
+G8XWT3_VICPA/1-133           ---------- ---------- ---------- ---------- ----------
+E7CVH0_VICPA/1-133           ---------- ---------- ---------- ---------- ----------
+E7CVG9_VICPA/1-133           ---------- ---------- ---------- ---------- ----------
+A0A1C8EIC3_LAMGU/1-133       ---------- ---------- ---------- ---------- ----------
+E7D208_VICPA/1-133           ---------- ---------- ---------- ---------- ----------
+G8XWT4_VICPA/1-133           ---------- ---------- ---------- ---------- ----------
+L9L4A7_TUPCH/1-147           ---------- ---------- ---------- ---------- ----------
+I3W8V4_PIG/1-131             ---------- ---------- ---------- ---------- ----------
+G3SVT4_LOXAF/1-134           ---------- ---------- ---------- ---------- ----------
+A0A190X659_NEOVI/1-143       ---------- ---------- ---------- ---------- ----------
+M3Z295_MUSPF/1-132           ---------- ---------- ---------- ---------- ----------
+G1LR79_AILME/1-133           ---------- ---------- ---------- ---------- ----------
+Q5IRA5_CANLF/1-58            ---------- ---------- ---------- ---------- ----------
+F1PPY1_CANLF/1-131           ---------- ---------- ---------- ---------- ----------
+A0A0S2VHX5_CAPHI/1-133       ---------- ---------- ---------- ---------- ----------
+L8HPD2_9CETA/1-129           ---------- ---------- ---------- ---------- ----------
+A0A068B4B9_BOSMU/1-133       ---------- ---------- ---------- ---------- ----------
+V9LHC8_CALMI/1-147           ---------- ---------- ---------- ---------- ----------
+F9W304_CALMI/1-40            ---------- ---------- ---------- ---------- ----------
+W5MNE0_LEPOC/1-163           ---------- ---------- ---------- ---------- ----------
+J3A6E5_GADMO/1-128           ---------- ---------- ---------- ---------- ----------
+A0A087X9I8_POEFO/1-141       ---------- ---------- ---------- ---------- ----------
+M4A652_XIPMA/1-140           ---------- ---------- ---------- ---------- ----------
+I3J5C4_ORENI/1-142           ---------- ---------- ---------- ---------- ----------
+G3Q0E7_GASAC/1-68            ---------- ---------- ---------- ---------- ----------
+J3JQY0_GASAC/1-132           ---------- ---------- ---------- ---------- ----------
+A0A165VNW2_SPAAU/1-142       ---------- ---------- ---------- ---------- ----------
+L0NPW1_DICLA/1-142           ---------- ---------- ---------- ---------- ----------
+H2L407_ORYLA/1-66            ---------- ---------- ---------- ---------- ----------
+J3JQU3_ORYLA/1-117           ---------- ---------- ---------- ---------- ----------
+H3CXY9_TETNG/1-130           ---------- ---------- ---------- ---------- ----------
+H2SAE1_TAKRU/1-135           ---------- ---------- ---------- ---------- ----------
+W5KEG6_ASTMX/1-83            ---------- ---------- ---------- ---------- ----------
+W5U8D2_ICTPU/1-140           ---------- ---------- ---------- ---------- ----------
+S4TMX9_SCHPR/1-126           ---------- ---------- ---------- ---------- ----------
+G7ZL01_CYPCA/1-128           ---------- ---------- ---------- ---------- ----------
+J3A6E8_XENTR/1-147           ---------- ---------- ---------- ---------- ----------
+U3JXU1_FICAL/1-156           ---------- ---------- ---------- ---------- ----------
+H0Z675_TAEGU/1-144           ---------- ---------- ---------- ---------- ----------
+H0Z672_TAEGU/1-69            ---------- ---------- ---------- ---------- ----------
+R0JIY8_ANAPL/1-156           ---------- ---------- ---------- ---------- ----------
+G1MSF6_MELGA/1-163           ---------- ---------- ---------- ---------- ----------
+G3WKU1_SARHA/1-156           ---------- ---------- ---------- ---------- ----------
+L5LI85_MYODS/1-142           ---------- ---------- ---------- ---------- ----------
+S7NAJ4_MYOBR/1-131           ---------- ---------- ---------- ---------- ----------
+G1P469_MYOLU/1-131           ---------- ---------- ---------- ---------- ----------
+S9Y9Q3_9CETA/1-134           ---------- ---------- ---------- ---------- ----------
+W5NYE4_SHEEP/1-134           ---------- ---------- ---------- ---------- ----------
+L8IH41_9CETA/1-134           ---------- ---------- ---------- ---------- ----------
+G3TG92_LOXAF/1-133           ---------- ---------- ---------- ---------- ----------
+L9K5S4_TUPCH/1-135           ---------- ---------- ---------- ---------- ----------
+G5C663_HETGA/1-129           ---------- ---------- ---------- ---------- ----------
+G1T240_RABIT/1-132           ---------- ---------- ---------- ---------- ----------
+I3MRK0_SPETR/1-132           ---------- ---------- ---------- ---------- ----------
+H0VHZ8_CAVPO/1-132           ---------- ---------- ---------- ---------- ----------
+H0XI71_OTOGA/1-132           ---------- ---------- ---------- ---------- ----------
+A0A1U7TPF3_TARSY/1-132       ---------- ---------- ---------- ---------- ----------
+G1QXQ3_NOMLE/1-132           ---------- ---------- ---------- ---------- ----------
+H2NR81_PONAB/1-132           ---------- ---------- ---------- ---------- ----------
+A0A096NE32_PAPAN/1-132       ---------- ---------- ---------- ---------- ----------
+G8F4K7_MACFA/1-132           ---------- ---------- ---------- ---------- ----------
+G3RB26_GORGO/1-132           ---------- ---------- ---------- ---------- ----------
+H2QBB7_PANTR/1-132           ---------- ---------- ---------- ---------- ----------
+M3W0C2_FELCA/1-132           ---------- ---------- ---------- ---------- ----------
+L5KSW7_PTEAL/1-132           ---------- ---------- ---------- ---------- ----------
+M3Y4Q5_MUSPF/1-132           ---------- ---------- ---------- ---------- ----------
+A0A1U7QLA0_MESAU/1-141       ---------- ---------- ---------- ---------- ----------
+B7SNI4_ACORU/1-113           ---------- ---------- ---------- ---------- ----------
+A0A1A6FWM3_NEOLE/1-132       ---------- ---------- ---------- ---------- ----------
+A0A0A6YX09_MOUSE/1-118       ---------- ---------- ---------- ---------- ----------
+C9DER5_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DEH3_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DEG3_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DEU1_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DET7_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DET5_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DEH7_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEG7_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEL3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+A7YMS6_PERPL/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEX7_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C7EZX1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+A7YMS3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEE3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEK5_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DER1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEI9_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+A7YMS8_PERPL/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEN5_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEK3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEL1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEG1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEK9_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEF9_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEP3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEM9_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEJ3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DET3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DER3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEI5_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEF3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEM3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEW3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEV3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEH1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEH5_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DES1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEN3_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEE1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEF1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEP1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DES5_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEQ1_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEF7_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DER9_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DER7_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEX5_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEL5_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEL9_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+C9DEE5_PERMA/1-139           ---------- ---------- ---------- ---------- ----------
+F1LQS7_RAT/1-130             ---------- ---------- ---------- ---------- ----------
+D3Z9S3_RAT/1-124             ---------- ---------- ---------- ---------- ----------
+ASIP_RAT/1-131               ---------- ---------- ---------- ---------- ----------
+ASIP_MOUSE/1-131             ---------- ---------- ---------- ---------- ----------
+B0B577_RABIT/1-133           ---------- ---------- ---------- ---------- ----------
+Q5CC35_CARAU/1-125           ---------- ---------- ---------- ---------- ----------
+Q5CC34_CARAU/1-125           ---------- ---------- ---------- ---------- ----------
+B3DGI7_DANRE/1-125           ---------- ---------- ---------- ---------- ----------
+A0ZSG4_TAKRU/1-128           ---------- ---------- ---------- ---------- ----------
+D6CIN2_ONCMY/1-122           ---------- ---------- ---------- ---------- ----------
+A0ZSG5_TAKRU/1-137           ---------- ---------- ---------- ---------- ----------
+A0ZSG7_TAKRU/1-115           ---------- ---------- ---------- ---------- ----------
+Q4SP72_TETNG/1-112           ---------- ---------- ---------- ---------- ----------
+B9X0J4_SALSA/1-117           ---------- ---------- ---------- ---------- ----------
+Q4SEW0_TETNG/1-50            ---------- ---------- ---------- ---------- ----------
+D2N151_CYPCA/1-59            ---------- ---------- ---------- ---------- ----------
+Q90WY7_COTJA/1-71            ---------- ---------- ---------- ---------- ----------
+Q5CC33_CARAU/1-51            ---------- ---------- ---------- ---------- ----------
+Q4JNX9_CAPHI/1-58            ---------- ---------- ---------- ---------- ----------
+Q68GX9_CANLU/1-58            ---------- ---------- ---------- ---------- ----------
+Q68GY0_CANLA/1-58            ---------- ---------- ---------- ---------- ----------
+Q5IRA5_CANFA/1-58            ---------- ---------- ---------- ---------- ----------
+A5JUA7_ROLRO/1-119           ---------- ---------- ---------- ---------- ----------
+A5JUA3_9GALL/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUB7_9GALL/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUC0_LAGLG/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUA4_TRATE/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUA5_TRASA/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUC1_LOPIM/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUC7_CATWA/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUA6_SYRRE/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUB3_PHACC/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUD1_CROCS/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUC8_CROMA/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUC2_LOPED/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUB9_LOPNY/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUC3_LOPDI/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUA8_PERPE/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUB6_MELGA/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUC5_FRAPO/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUD4_ALECH/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUD7_ALERU/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUC6_9GALL/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUD6_ARGAR/1-140           ---------- ---------- ---------- ---------- ----------
+A5JUB0_PAVMU/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUB4_PAVCR/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUD5_AFRCO/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUB1_9GALL/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUA9_POLMA/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUB2_POLNP/1-142           ---------- ---------- ---------- ---------- ----------
+A5JUC4_GALSO/1-142           ---------- ---------- ---------- ---------- ----------
+C0A1C6_COTJA/1-153           ---------- ---------- ---------- ---------- ----------
+A5JUC9_COTJA/1-141           ---------- ---------- ---------- ---------- ----------
+A5JUD0_COTCO/1-141           ---------- ---------- ---------- ---------- ----------
+C0A1D0_CHICK/1-233           MPSAVQVSGC SHRKLLPSAH HAPAHGVAHL SVRLAAKYLW GAPWRRRPRV
+C0A1C9_CHICK/1-165           ---------- ---------- ---------- ---------- ----------
+Q9W7R0_CHICK/1-165           ---------- ---------- ---------- ---------- ----------
+Q9PWG2_CHICK/1-154           ---------- ---------- ---------- ---------- ----------
+C0A1C8_CHICK/1-154           ---------- ---------- ---------- ---------- ----------
+F7DQS7_ORNAN/1-138           ---------- ---------- ---------- ---------- ----------
+F7DQT3_ORNAN/1-140           ---------- ---------- ---------- ---------- ----------
+F6XD58_MONDO/1-139           ---------- ---------- ---------- ---------- ----------
+F1MAG1_RAT/1-132             ---------- ---------- ---------- ---------- ----------
+B7SNI4_9RODE/1-113           ---------- ---------- ---------- ---------- ----------
+F6XMN7_HORSE/1-131           ---------- ---------- ---------- ---------- ----------
+F7I534_CALJA/1-132           ---------- ---------- ---------- ---------- ----------
+C6SUN5_HUMAN/1-132           ---------- ---------- ---------- ---------- ----------
+AGRP_HUMAN/1-132             ---------- ---------- ---------- ---------- ----------
+F7H591_MACMU/1-132           ---------- ---------- ---------- ---------- ----------
+AGRP_BOVIN/1-134             ---------- ---------- ---------- ---------- ----------
+D2CNK1_BOVIN/1-134           ---------- ---------- ---------- ---------- ----------
+D2CNK2_BOSIN/1-134           ---------- ---------- ---------- ---------- ----------
+D2KC52_PIG/1-134             ---------- ---------- ---------- ---------- ----------
+AGRP_PIG/1-134               ---------- ---------- ---------- ---------- ----------
+Q9GLM5_PIG/1-121             ---------- ---------- ---------- ---------- ----------
+D2H9E8_AILME/1-131           ---------- ---------- ---------- ---------- ----------
+E2RJQ9_CANFA/1-132           ---------- ---------- ---------- ---------- ----------
+AGRP_MOUSE/1-131             ---------- ---------- ---------- ---------- ----------
+Q3UU47_MOUSE/1-131           ---------- ---------- ---------- ---------- ----------
+Q6J648_SHEEP/1-105           ---------- ---------- ---------- ---------- ----------
+Q9QXJ3_RAT/1-78              ---------- ---------- ---------- ---------- ----------
+Q70Q62_CARAU/1-128           ---------- ---------- ---------- ---------- ----------
+Q70Q61_CARAU/1-120           ---------- ---------- ---------- ---------- ----------
+E9QBS3_DANRE/1-126           ---------- ---------- ---------- ---------- ----------
+A0ZSG6_TAKRU/1-135           ---------- ---------- ---------- ---------- ----------
+F1T0Z6_9GOBI/1-92            ---------- ---------- ---------- ---------- ----------
+F1T0Y9_9GOBI/1-137           ---------- ---------- ---------- ---------- ----------
+B0ZDU0_COTJA/1-125           ---------- ---------- ---------- ---------- ----------
+A9EDJ0_COTJA/1-139           ---------- ---------- ---------- ---------- ----------
+B0ZDU3_CHICK/1-130           ---------- ---------- ---------- ---------- ----------
+B0ZDU4_CHICK/1-130           ---------- ---------- ---------- ---------- ----------
+B0ZDU2_CHICK/1-130           ---------- ---------- ---------- ---------- ----------
+C9K601_CHICK/1-139           ---------- ---------- ---------- ---------- ----------
+A9EDH6_COTJA/1-130           ---------- ---------- ---------- ---------- ----------
+D6R3D5_CAIMO/1-102           ---------- ---------- ---------- ---------- ----------
+D6R3D6_ANAPL/1-102           ---------- ---------- ---------- ---------- ----------
+F6YH41_MONDO/1-130           ---------- ---------- ---------- ---------- ----------
+A4GVF2_CANLU/1-101           ---------- ---------- ---------- ---------- ----------
+E7CVH0_LAMPA/1-133           ---------- ---------- ---------- ---------- ----------
+E7D208_LAMPA/1-133           ---------- ---------- ---------- ---------- ----------
+E7CVG9_LAMPA/1-133           ---------- ---------- ---------- ---------- ----------
+F1PPY0_CANFA/1-137           ---------- ---------- ---------- ---------- ----------
+F1PPY1_CANFA/1-131           ---------- ---------- ---------- ---------- ----------
+ASIP_CHLAE/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_VULVU/1-131             ---------- ---------- ---------- ---------- ----------
+ASIP_CANFA/1-131             ---------- ---------- ---------- ---------- ----------
+D2H432_AILME/1-137           ---------- ---------- ---------- ---------- ----------
+ASIP_CALJA/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_CALGE/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_CALGO/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_LEOCY/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_LEORO/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_CEBPY/1-132             ---------- ---------- ---------- ---------- ----------
+A1YL76_9PRIM/1-132           ---------- ---------- ---------- ---------- ----------
+ASIP_PAPAN/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACSY/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_ERYPA/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_CERMI/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACFU/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACMU/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACFA/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACRA/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACAR/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACSI/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACAS/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACCY/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACMR/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACSL/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACNG/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACNE/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACHE/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_MACNR/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_COLPO/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_SEMEN/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_TRAOB/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_TRACR/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_TRAAU/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_TRAFR/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_GORGO/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_PANTR/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_PANPA/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_HUMAN/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_PONPY/1-132             ---------- ---------- ---------- ---------- ----------
+ASIP_BOVIN/1-133             ---------- ---------- ---------- ---------- ----------
+B2KNR1_CAPHI/1-134           ---------- ---------- ---------- ---------- ----------
+B4YAJ9_SHEEP/1-133           ---------- ---------- ---------- ---------- ----------
+ASIP_PIG/1-131               ---------- ---------- ---------- ---------- ----------
+C8C9X0_PIG/1-131             ---------- ---------- ---------- ---------- ----------
+ASIP_FELCA/1-135             ---------- ---------- ---------- ---------- ----------
+ASIP_HORSE/1-133             ---------- ---------- ---------- ---------- ----------
+C9DEW5_PERMA/1-132           ---------- ---------- ---------- ---------- ----------
+C9DEJ5_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DEX9_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DEM7_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DEE9_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+C9DEU5_PERMA/1-138           ---------- ---------- ---------- ---------- ----------
+
+                             51                                                 100
+J3FBV6_GADMO/1-136           ---------- ---------- ---------M KFSIFLCLLL LQLKCLNARL
+J3JQT3_ORYLA/1-149           ---------- ---------- --------MK VAILFLCFLH LTFVISSPRA
+M3ZQ55_XIPMA/1-145           ---------- ---------- -GEFSQIETC FSSKRNCSNF ISAGYINQDR
+T2C5M5_HAPBU/1-156           ---------- ---------- --------MK LALLCLCIVQ LAFGSRRIND
+I3J6M6_ORENI/1-156           ---------- ---------- --------MK LALLCLCIVQ LAFGSRRIND
+J3AM90_GASAC/1-135           ---------- ---------- -----MKLAV MCLCVVHLIA VGAGQSSGGD
+R4ZGR2_DICLA/1-139           ---------- ---------- -----MKQAV SWFCILHLAF VSAGLFTRDG
+H3C0S9_TETNG/1-137           ---------- ---------- -----MKRFF LAFFFLHVAS VAAGLFGGSD
+J3JQT6_TETNG/1-130           ---------- ---------- -----MKRFF LAFFFLHVAS VAAGLFGGSD
+H2RZV9_TAKRU/1-136           ---------- ---------- -----MKLLF LGLFFLHVAF VTAGLFRRDD
+J3AMA0_LEPOC/1-130           ---------- ---------- -------MFR RFLVCACLIH AAAVHSLFDI
+J3FBV3_GASAC/1-115           ---------- ---------- ------MRKV AGGHLLCFVL LASPLCWAED
+J3AM95_GADMO/1-43            ---------- ---------- ---------- ---------- ----------
+J3A6D1_ORYLA/1-114           ---------- ---------- ---------M THKHLLCFLL LSLPLCWAE-
+M3ZQP5_XIPMA/1-115           ---------- ---------- ------MRSS TGRHLLCLLL LFFPLSWAED
+A0A0S7J224_9TELE/1-115       ---------- ---------- ------MRRT AARHLLCLLL LSVPLSWAED
+A0A096MFN8_POEFO/1-115       ---------- ---------- ------MRRT AGRHLLCLLL LFFPLSWAED
+J3JQY1_ORENI/1-116           ---------- ---------- ------MRKI TGKHLLCFVL VALPLSWAED
+L0NNX1_DICLA/1-116           ---------- ---------- ------MRKI SGKHLLCFFL LAFSLSWAED
+H3CQW3_TETNG/1-114           ---------- ---------- -------RKM SGTHVLGLLL LFITLSWAAD
+W5LIS3_ASTMX/1-106           ---------- ---------- ---------- ----MYCYSC IKKRHYSAEC
+J3JQX9_DANRE/1-136           ---------- ---------- -MTTAVLKGF VLFICLFFTV VQSITCEASK
+G7ZL02_CYPCA/1-136           ---------- ---------- -MTTAVMKGF ALLICVFFTV VQSITCEANR
+J3AM86_CALMI/1-141           ---------- ---------- --MARPLCYS WILHCTCCLL VYSHLVLEEK
+W5KRC1_ASTMX/1-129           ---------- ---------- -MNPWLLLFC VVFCCSACWE TVNTHLLMED
+S4VKC7_CYPCA/1-125           ---------- ---------- -MNPSLFLCC VLLCLACCVT VHTHIILEEQ
+I7HPR5_GASAC/1-126           ---------- ---------- -MRASTLLGC LVLVTADHLL AAAIMIPDET
+K7ZUC0_SOLSE/1-132           ---------- ---------- -MHVFLLLGC FVLTTTEYFL CSAHMIPDEI
+K7ZUE2_PSEMX/1-123           ---------- ---------- -MHAFLLLGC FVLATTELVR GSAHMIPDER
+M4ACH1_XIPMA/1-162           CCLSLIERQL VDVFVFSFQR TMQAFLPLGC CVLALTQCCL GSAHMIPDDR
+S0F0E2_DICLA/1-127           ---------- ---------M KIHAVLLLGF FVLAATEYFL GSAHMIPDDR
+T2C5A4_HAPBU/1-126           ---------- ---------- -MHISLLLSC FLLAATDYFL GCAHMIPDER
+I3J9M4_ORENI/1-128           ---------- ---------R KMHISLLLSC FLLAATEYFL GYAHMIPDER
+H3C4B2_TETNG/1-127           ---------- ---------M EMHAFLILSC FVLAVTEYLF SAAHMVPEER
+W5MJZ4_LEPOC/1-131           ---------- ---------- ---RPLHFNM SSVTLLCCFV FSSAGLLVAY
+J3JQU0_GADMO/1-49            ---------- ---------- ---------- ---------- ----------
+A0A142LWX1_9PASS/1-139       ---------- -----MTMAF LIPTMARKNL FLSLLLCYSL FRAADSHLVI
+A0A142LX14_9PASS/1-139       ---------- -----MTMAF LIPTMARKNL FLSLLLCYSL FRAADSHLVI
+U3K7P9_FICAL/1-139           ---------- -----MTMEF FLPTMARKNL FLSLLLCYSL FRAADSYLVI
+H0YZQ6_TAEGU/1-139           ---------- -----MTMEF FLSMMARKNL FLSLLLCYSL FRAADSHLVI
+R7VQV1_COLLI/1-125           ---------- -----MTMEF FLPRMESKSV FLSLLLCYSV LRAADSHMVI
+R0K1V9_ANAPL/1-139           ---------- -----LTMGF FLPRMEKKNL FLSLLLCYNL LRATNSHMVI
+S4S2Z6_ANAPL/1-130           ---------- ---------- ----MEKKNL FLSLLLCYNL LRATNSHMVI
+G1MTH0_MELGA/1-141           ---------- ----INSGIF FLPRMESKNV FLSLLLCYSL LRAASSYLVI
+X2JHS0_LEPSR/1-61            ---------- ---------- ---------- ---------- ----------
+L0L3Z8_9CARN/1-135           ---------- ---------- -MNILRLLLA TLLVSLCLLT AYSHLAPEEK
+L0L5Y8_PANPR/1-135           ---------- ---------- -MNILRLLLA TLLVSLCLLT AYSHLAPEEK
+X2JJ72_PRIBE/1-61            ---------- ---------- ---------- ---------- ----------
+X2JJM8_PRIBE/1-61            ---------- ---------- ---------- ---------- ----------
+A0A1S7IYF7_LEPBR/1-133       ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSHLAPEEK
+A0A1S7IY98_LEPTI/1-133       ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSXLAPEEK
+A0A1S7IY96_LEPTI/1-133       ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSHLAPEEK
+A0A1S7IYB1_LEPTI/1-133       ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSHLAPEEK
+A0A1S7IYD4_9LAGO/1-133       ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSHLAPEEK
+A0A1S7IYG6_LEPMN/1-133       ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSHLAPEEK
+A0A1S7IYG4_LEPMN/1-133       ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSHLAPEEK
+A0A1S7IY93_LEPTI/1-133       ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSHLAPEEK
+G1T0P8_RABIT/1-132           ---------- ---------- --NVTRLLQA TLLVFLCFLT AYSHLAPEET
+I3M2D9_SPETR/1-133           ---------- ---------- -MDITRLLLA TLLVFLCILA AYSHLAPEEE
+G5BPT8_HETGA/1-134           ---------- ---------- -MDVTRLLLS TLLVFLCFLT ACSHLALEEK
+H0V4R9_CAVPO/1-130           ---------- ---------- --MDATRLLL ATLLVLYFLT ACSHLPLEEK
+H0VZP4_CAVPO/1-132           ---------- ---------- --MDATRLLL ATLLVLYFLT ACSHLPLEEK
+G7N512_MACMU/1-132           ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+H2P1P7_PONAB/1-132           ---------- ---------- -MDVTRLLLA TLLVFLCFFT ADSHLPPEEK
+G3SDS8_GORGO/1-132           ---------- ---------- -MDVTRLLLA TLLVFLCFFT ANSHLPPEEK
+H2QK77_PANTR/1-132           ---------- ---------- -MDVTRLLLA TLLVFLCFFT ANSHLPPEEK
+ASIP_CALPY/1-132             ---------- ---------- -MDVTRLVLA TLLVFLCFFA AYSHLPPEEK
+G1NUR0_MYOLU/1-132           ---------- ---------- -MDVTRLLLA TLLVCLCFLT AYSHLAPEEM
+L5LT97_MYODS/1-169           LHLFFSFHLS LYFCPNGWPP QMDVTRLLLA TLLVCLCFLT AYSHLAPEQK
+G8XWT5_VICPA/1-133           ---------- ---------- -MDVSRLLLA TLLVCLCFLT ACSHLAPDEK
+G8XWT3_VICPA/1-133           ---------- ---------- -MDVTRLLLA TLLVCLCFLT ACSHLAPDEK
+E7CVH0_VICPA/1-133           ---------- ---------- -MDVTRLFLA TLLVCLCFLT ACSHLAPDEK
+E7CVG9_VICPA/1-133           ---------- ---------- -MDVTRLFLA TLLVCLCFLT ACSHLAPDEK
+A0A1C8EIC3_LAMGU/1-133       ---------- ---------- -MDVTRLFLA TLLVCLCFLT ACSHLAPDEK
+E7D208_VICPA/1-133           ---------- ---------- -MDVTRLFLA TLLVCLCFLT ACSHLAPDEK
+G8XWT4_VICPA/1-133           ---------- ---------- -MDVSRLLLA TLLVCLCFLT ACSHLAPDEK
+L9L4A7_TUPCH/1-147           ---------- ---------- -MDVTRLFLA ILLVFLYFLT AFSHLAPEEK
+I3W8V4_PIG/1-131             ---------- ---------- -MDVTRLLLA TLLVCLCFFT ASSHLAPEEK
+G3SVT4_LOXAF/1-134           ---------- ---------- -MDVTRLFLA SLLVCLYFLI AHSHLELKEK
+A0A190X659_NEOVI/1-143       ---------- MGHSQLSRPP GMNIFHLLLA TLLVSMCFLT PSSHLAPEEK
+M3Z295_MUSPF/1-132           ---------- ---------- -MNILHLLLA TLLVSMCFLT PSSHLAPEEK
+G1LR79_AILME/1-133           ---------- ---------- -MNIFRLLLT TLLVSLCFLT AYSHLAPEEK
+Q5IRA5_CANLF/1-58            ---------- ---------- ---------- ---------- ----------
+F1PPY1_CANLF/1-131           ---------- ---------- -MNIFRLLLA TLLVSLCFLT AYSHLAEEKP
+A0A0S2VHX5_CAPHI/1-133       ---------- ---------- -MDVSRLLLA TLLVCLCFLS AYSHLAPEEK
+L8HPD2_9CETA/1-129           ---------- ---------- -MDVSRLLLA TLLVCLCFLT AYSHLAPEEK
+A0A068B4B9_BOSMU/1-133       ---------- ---------- -MDVSRLLLA TLLVCLCFLT AYSHLAPEEK
+V9LHC8_CALMI/1-147           ---------- ---------- ---LGSMLHM VIRYWLALHA AQVVLTTSCA
+F9W304_CALMI/1-40            ---------- ---------- ---------- ---------- ----------
+W5MNE0_LEPOC/1-163           ---------- --------LL SVLRSHSTTM WSSLLLCWWV LLGIQVAAGT
+J3A6E5_GADMO/1-128           ---------- ---------- ---------- MHSVMKCWWA LSILHLSHGL
+A0A087X9I8_POEFO/1-141       ---------- ---------- ---------M FGMLLLCCAS SGLLRPAASL
+M4A652_XIPMA/1-140           ---------- ---------- ---------M FGMLLLCCAS SGLLRLATSM
+I3J5C4_ORENI/1-142           ---------- ---------- ---------M FGTVLLCCWS FGLLPLASSL
+G3Q0E7_GASAC/1-68            ---------- ---------- ---------- ---------- ---LPVPQDS
+J3JQY0_GASAC/1-132           ---------- ---------- ---------M FGSVLLCCLS FSLRLSSSLV
+A0A165VNW2_SPAAU/1-142       ---------- ---------- ---------M FGSVLLCWCS STLLRLSSSL
+L0NPW1_DICLA/1-142           ---------- ---------- ---------M FGSVLLCCYP FSLLRLSSSL
+H2L407_ORYLA/1-66            ---------- ---------- ---------- -----FCT-- ----------
+J3JQU3_ORYLA/1-117           ---------- ---------- ---------- ---------- MPVDQGPISS
+H3CXY9_TETNG/1-130           ---------- ---------- ---------M LHSVLACLVS FSLLRVSSSV
+H2SAE1_TAKRU/1-135           ---------- ---------- ---------M FHSVLVCLLS FSLLHVSSSL
+W5KEG6_ASTMX/1-83            ---------- ---------- ---------- ---------- ----------
+W5U8D2_ICTPU/1-140           ---------- ---------- ---------M LSVVIFCWLS LSAVRVASGL
+S4TMX9_SCHPR/1-126           ---------- ---------- --------MM LNIAITSCFL MNVMVMA---
+G7ZL01_CYPCA/1-128           ---------- ---------- ------MNMM LNIAIISWFL MNVMVMAS--
+J3A6E8_XENTR/1-147           ---------- ---------- ---------M FNTVLLCVAM IQTIQASLTS
+U3JXU1_FICAL/1-156           ---------- ---------- ---------M LNVLLLCCGL LQGIQAVLDL
+H0Z675_TAEGU/1-144           ---------- ---------- -GRLQGVQAI LVRVLTCLPP HRRNKTTSPK
+H0Z672_TAEGU/1-69            ---------- ---------- ---------- ---------- ----------
+R0JIY8_ANAPL/1-156           ---------- ---------- ------PRTM LNVLLLCYGL LQGIQAILTS
+G1MSF6_MELGA/1-163           ---------- --------PL ALCAHCPRTM LNALLLCYGL LQGIQAILTS
+G3WKU1_SARHA/1-156           ---------- ---------- MFSQCLCQTM LNALLLSWAV LQGFPTTLGA
+L5LI85_MYODS/1-142           ---------- ---------M LGARIQQAEA MLTAVLSCAL LLALPAMEGA
+S7NAJ4_MYOBR/1-131           ---------- ---------- ---------- MLTAILSCAL LLALPAMEGA
+G1P469_MYOLU/1-131           ---------- ---------- ---------- MLTAILSCAL LLALPAMEGA
+S9Y9Q3_9CETA/1-134           ---------- ---------- ---------M LTTVLLSCAL LLAIPVMRGA
+W5NYE4_SHEEP/1-134           ---------- ---------- ---------M LTAVLLSCAL LLAMPTMQGA
+L8IH41_9CETA/1-134           ---------- ---------- ---------M LTAVLLSCAL LLAMPPMQGA
+G3TG92_LOXAF/1-133           ---------- ---------- ---------M LTGVLLSCAL LQALPTMQGA
+L9K5S4_TUPCH/1-135           ---------- ---------- ---------M LTAVLLSCVL LLALPTMQGA
+G5C663_HETGA/1-129           ---------- ---------- ---------M LTTVLLSCAL LLALPETQGA
+G1T240_RABIT/1-132           ---------- ---------- ---------M LTTVLLSCAL LLALPSVQGA
+I3MRK0_SPETR/1-132           ---------- ---------- ---------M LTAVLLSCAL LLALPTTLGA
+H0VHZ8_CAVPO/1-132           ---------- ---------- ---------M LNTVLLSCAL LLALPVTQGA
+H0XI71_OTOGA/1-132           ---------- ---------- ---------M LNAVLLSCAL LLTLPTIQGA
+A0A1U7TPF3_TARSY/1-132       ---------- ---------- ---------M LTAVLLTCVL LLALPVMQGA
+G1QXQ3_NOMLE/1-132           ---------- ---------- ---------M LTAAVLSCAL LLALPATQGA
+H2NR81_PONAB/1-132           ---------- ---------- ---------M LTAAVLSCAL LLALPATQGA
+A0A096NE32_PAPAN/1-132       ---------- ---------- ---------M LTAALLSCAL LLALPATQGA
+G8F4K7_MACFA/1-132           ---------- ---------- ---------M LTAALLSCAL LLALPATQGA
+G3RB26_GORGO/1-132           ---------- ---------- ---------M LTAAVLSCAL LLALPATRGA
+H2QBB7_PANTR/1-132           ---------- ---------- ---------M LTAAVLSCAL LLALPATRGA
+M3W0C2_FELCA/1-132           ---------- ---------- ---------M LTAVLLSWAL LLTLPPMQEA
+L5KSW7_PTEAL/1-132           ---------- ---------- ---------M LTAVLLCCAL LLALPAMQGA
+M3Y4Q5_MUSPF/1-132           ---------- ---------- ---------M LPAVLLSCAL LLALPPMQGA
+A0A1U7QLA0_MESAU/1-141       ---------- ---------M GGFPAEPGML TVTLLSCTLL LLALPPTLGV
+B7SNI4_ACORU/1-113           ---------- ---------- ---------- ---------L LLALPPTLGV
+A0A1A6FWM3_NEOLE/1-132       ---------- ---------- --------AM LTVMLLSCAL LLALPPTLGV
+A0A0A6YX09_MOUSE/1-118       ---------- ---------- ---------M LTAMLLSCVL LLALPPTLGV
+C9DER5_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEH3_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEG3_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEU1_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DET7_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DET5_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEH7_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEG7_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEL3_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+A7YMS6_PERPL/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEX7_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C7EZX1_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+A7YMS3_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEE3_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEK5_PERMA/1-139           ---------- ---------- -MDATRLLLA TLVGFLCFLA VYSHLVPEET
+C9DER1_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEI9_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+A7YMS8_PERPL/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEN5_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEK3_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEL1_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEG1_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEK9_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEF9_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEP3_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEM9_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEJ3_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DET3_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DER3_PERMA/1-139           ---------- ---------- -MDATRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEI5_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEF3_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEM3_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEW3_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEV3_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEH1_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEH5_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DES1_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEN3_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEE1_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEF1_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEP1_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DES5_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEQ1_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEF7_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DER9_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DER7_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEX5_PERMA/1-139           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEL5_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEL9_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEE5_PERMA/1-139           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+F1LQS7_RAT/1-130             ---------- ---------- -MDVTRLLLA TLVGFLCFLT VHSHLVFEET
+D3Z9S3_RAT/1-124             ---------- ---------- -MDVTRLLLA TLVGFLCFLT VHSHLVFEET
+ASIP_RAT/1-131               ---------- ---------- -MDVTRLLLA TLVGFLCFLT VHSHLVFEET
+ASIP_MOUSE/1-131             ---------- ---------- -MDVTRLLLA TLVSFLCFFT VHSHLALEET
+B0B577_RABIT/1-133           ---------- ---------- -MNVTRLLQA TLLVFLCFLT AYSHLAPEET
+Q5CC35_CARAU/1-125           ---------- ---------- -MHPSLLLCC VLLCLACCVT VHTHMIIEEQ
+Q5CC34_CARAU/1-125           ---------- ---------- -MHPSLLLCC VLLCLACCVM VHTHMIIEEQ
+B3DGI7_DANRE/1-125           ---------- ---------- -MSPSLWLCC VLLCLVCCVT VHTHMPMEEQ
+A0ZSG4_TAKRU/1-128           ---------- ---------M EMHAFLFLSC FVLAVIEYLF GAAHMVPEER
+D6CIN2_ONCMY/1-122           ---------- ---------- --------MN SLFLLSCLSS TWFLLVYSHM
+A0ZSG5_TAKRU/1-137           ---------- ---------- -----MKLLF LGLFFLHVAF VTAGLFRRDD
+A0ZSG7_TAKRU/1-115           ---------- ---------- ------MRKA TGKHVLCFLL LFFPLSWEED
+Q4SP72_TETNG/1-112           ---------- ---------- ---------M SGTHVLGLLL LFITLSWAAD
+B9X0J4_SALSA/1-117           ---------- ---------- -------MLG KHFLWVCLLS VSIPLCFAED
+Q4SEW0_TETNG/1-50            ---------- ---------- ---------- ---------- ----------
+D2N151_CYPCA/1-59            ---------- ---------- ---------- ---------- ----------
+Q90WY7_COTJA/1-71            ---------- ---------- ---------- ---------- ----------
+Q5CC33_CARAU/1-51            ---------- ---------- ---------- ---------- ----------
+Q4JNX9_CAPHI/1-58            ---------- ---------- ---------- ---------- ----------
+Q68GX9_CANLU/1-58            ---------- ---------- ---------- ---------- ----------
+Q68GY0_CANLA/1-58            ---------- ---------- ---------- ---------- ----------
+Q5IRA5_CANFA/1-58            ---------- ---------- ---------- ---------- ----------
+A5JUA7_ROLRO/1-119           ---------- ---------- ---------- ---------- ----------
+A5JUA3_9GALL/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILSS
+A5JUB7_9GALL/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILSS
+A5JUC0_LAGLG/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILSS
+A5JUA4_TRATE/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUA5_TRASA/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUC1_LOPIM/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUC7_CATWA/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUA6_SYRRE/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILSS
+A5JUB3_PHACC/1-140           ---------- ---------- ---------- --XLLLCYGL LQGIQAILSS
+A5JUD1_CROCS/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILSS
+A5JUC8_CROMA/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILSS
+A5JUC2_LOPED/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILSS
+A5JUB9_LOPNY/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILSS
+A5JUC3_LOPDI/1-140           ---------- ---------- ---------- --ALLLCCGL LQGIQAILSS
+A5JUA8_PERPE/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUB6_MELGA/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUC5_FRAPO/1-142           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUD4_ALECH/1-142           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUD7_ALERU/1-142           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUC6_9GALL/1-142           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUD6_ARGAR/1-140           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUB0_PAVMU/1-142           ---------- ---------- ---------- --TLLLCYGL LQGIQAILTS
+A5JUB4_PAVCR/1-142           ---------- ---------- ---------- --TLLLCYGL LQGIQAILTS
+A5JUD5_AFRCO/1-142           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUB1_9GALL/1-142           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUA9_POLMA/1-142           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUB2_POLNP/1-142           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUC4_GALSO/1-142           ---------- ---------- ---------- --ALLLCCGL LQGIQAILTS
+C0A1C6_COTJA/1-153           ---------- ---------- ---------M LNALLLCYGL LQGIQAILTS
+A5JUC9_COTJA/1-141           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+A5JUD0_COTCO/1-141           ---------- ---------- ---------- --ALLLCYGL LQGIQAILTS
+C0A1D0_CHICK/1-233           GVQEGTRAGS TAGRGAGLML AGCARCPRTM LNALLLCCGL LQGIQAILTS
+C0A1C9_CHICK/1-165           ---------- --------ML AGCARCPRTM LNALLLCCGL LQGIQAILTS
+Q9W7R0_CHICK/1-165           ---------- --------ML AGCARCPRTM LNVLLLCCGL LQGIQAILTS
+Q9PWG2_CHICK/1-154           ---------- ---------- ---------M LNVLLLCCGL LQGIQAILTS
+C0A1C8_CHICK/1-154           ---------- ---------- ---------M LNALLLCCGL LQGIQAILTS
+F7DQS7_ORNAN/1-138           ---------- ---------- ------MLNT LLLSWVMLQG LQSILTIEPG
+F7DQT3_ORNAN/1-140           ---------- ---------- -MLNTLLLSW VMLQGLQSIL TIEPGQEHLD
+F6XD58_MONDO/1-139           ---------- ---------- -MLNALLLSW AMLQGFPIIL SAPSSQQYPD
+F1MAG1_RAT/1-132             ---------- ---------- --------ML TAMLLSCVLL LALPPTLGVH
+B7SNI4_9RODE/1-113           ---------- ---------- ---------- ---------L LLALPPTLGV
+F6XMN7_HORSE/1-131           ---------- ---------- --------ML TAVLLSCA-L LLTLPAMQGA
+F7I534_CALJA/1-132           ---------- ---------- --------ML TAAMLSCA-L LLALPAMQGA
+C6SUN5_HUMAN/1-132           ---------- ---------- --------ML TAAVLSCA-L LLALPATRGA
+AGRP_HUMAN/1-132             ---------- ---------- --------ML TAAVLSCA-L LLALPATRGA
+F7H591_MACMU/1-132           ---------- ---------- --------ML TAALLSCA-L LLALPATQGA
+AGRP_BOVIN/1-134             ---------- ---------- --------ML TAVLLSCA-L LLAMPPLQGA
+D2CNK1_BOVIN/1-134           ---------- ---------- --------ML TAVLLSCA-L LLAMPPMQGA
+D2CNK2_BOSIN/1-134           ---------- ---------- --------ML TAVLLSCA-L LLAMPXMQGA
+D2KC52_PIG/1-134             ---------- ---------- --------ML TTMLVSCA-L QLAMPTMLGA
+AGRP_PIG/1-134               ---------- ---------- --------ML TTMLLSCA-L LLAMPTMLGA
+Q9GLM5_PIG/1-121             ---------- ---------- ---------- ---------- --AMPTMLGA
+D2H9E8_AILME/1-131           ---------- ---------- --------ML PAVLLSCA-L LLALPPMQGA
+E2RJQ9_CANFA/1-132           ---------- ---------- --------ML PAVLLSCALL LALPPMQGAQ
+AGRP_MOUSE/1-131             ---------- ---------- --------ML TAMLLSCV-L LLALPPTLGV
+Q3UU47_MOUSE/1-131           ---------- ---------- --------ML TAMLLSCV-L LLALPPTLGV
+Q6J648_SHEEP/1-105           ---------- ---------- ---------- ---------- ----------
+Q9QXJ3_RAT/1-78              ---------- ---------- ---------- ---------- ----------
+Q70Q62_CARAU/1-128           ---------- ---------- ---------M IMMLNIAIIS WFLMNVMAMA
+Q70Q61_CARAU/1-120           ---------- ---------- ---------M IMMLNIAIIS WFLMNVMAMA
+E9QBS3_DANRE/1-126           ---------- ---------- ---------- -MLNTVIFGW FLVNVVVMAS
+A0ZSG6_TAKRU/1-135           ---------- ---------- ---------M FHSVLVCLLS FSLLHVSSSL
+F1T0Z6_9GOBI/1-92            ---------- ---------- ---------- ---------- ----------
+F1T0Y9_9GOBI/1-137           ---------- ---------- ---------- --MQRSCLLL RSLSLLRISS
+B0ZDU0_COTJA/1-125           ---------- ---------- ----MESKNL FLSLLLCYSL LRAARSHLII
+A9EDJ0_COTJA/1-139           ---------- ---------- ----MESKNL FLSLLLCYSL LRAARSHLII
+B0ZDU3_CHICK/1-130           ---------- ---------- ----MKRKNL FLSLLLCYSL LRAASSHLII
+B0ZDU4_CHICK/1-130           ---------- ---------- ----MKRKNL FLSLLLCYSL LRAASSHLII
+B0ZDU2_CHICK/1-130           ---------- ---------- ----MKRKNL FLSLLLCYSL LRAASSHLII
+C9K601_CHICK/1-139           ---------- -----MTVGF FLPTMKRKNL FLSLLLCYSL LRAASSHLII
+A9EDH6_COTJA/1-130           ---------- ---------- ----MESKNL FLSLLLCYSL LRAARSHLII
+D6R3D5_CAIMO/1-102           ---------- ---------- ---------- ---------- -------LII
+D6R3D6_ANAPL/1-102           ---------- ---------- ---------- ---------- -------LII
+F6YH41_MONDO/1-130           ---------- ---------- -MTTKHLLLP ILLAGLCFLA VYCHLAEEEK
+A4GVF2_CANLU/1-101           ---------- ---------- ---------- ---------- ----------
+E7CVH0_LAMPA/1-133           ---------- ---------- -MDVTRLFLA TLLVCLCFLT ACSHLAPDEK
+E7D208_LAMPA/1-133           ---------- ---------- -MDVTRLFLA TLLVCLCFLT ACSHLAPDEK
+E7CVG9_LAMPA/1-133           ---------- ---------- -MDVTRLFLA TLLVCLCFLT ACSHLAPDEK
+F1PPY0_CANFA/1-137           ---------- ---------- -MNIFRLLLA TLLVSLCFLT AYSHLAEE-K
+F1PPY1_CANFA/1-131           ---------- ---------- -MNIFRLLLA TLLVSLCFLT AYSHLAEE-K
+ASIP_CHLAE/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_VULVU/1-131             ---------- ---------- -MNIFRLLLA TLLVSLCFLT AYSHLA-EEK
+ASIP_CANFA/1-131             ---------- ---------- -MNIFRLLLA TLLVSLCFLT AYSHLA-EEK
+D2H432_AILME/1-137           ---------- ---------- -MNIFRLLLT TLLVSLCFLT AYSHLAPEEK
+ASIP_CALJA/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFA AYSHLPPEEK
+ASIP_CALGE/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFA AYSHLPPEEK
+ASIP_CALGO/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFA AYSHLPPEEK
+ASIP_LEOCY/1-132             ---------- ---------- -MDVTXLLLA TLLVFLCCFA AYSHLPPEEK
+ASIP_LEORO/1-132             ---------- ---------- -MDVTXLLLA TLLVFLCCFA AYSHLPPEEK
+ASIP_CEBPY/1-132             ---------- ---------- -MDVTRLVLA TLLVFLCFFA AYSHLPPEEK
+A1YL76_9PRIM/1-132           ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_PAPAN/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_MACSY/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_ERYPA/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_CERMI/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_MACFU/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_MACMU/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_MACFA/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHLPPEEK
+ASIP_MACRA/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACAR/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACSI/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACAS/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACCY/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACMR/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACSL/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACNG/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACNE/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACHE/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT AYSHPPPEEK
+ASIP_MACNR/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT ACSHPPPGEK
+ASIP_COLPO/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT VYSHLPPEEK
+ASIP_SEMEN/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT VYSHLPPEEK
+ASIP_TRAOB/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT VYSHLPPEEK
+ASIP_TRACR/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT VYSHLPPEEK
+ASIP_TRAAU/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT VYSHLPPEEK
+ASIP_TRAFR/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT VYSHLPPEEK
+ASIP_GORGO/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT ANSHLPPEEK
+ASIP_PANTR/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT ANSHLPPEEK
+ASIP_PANPA/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT ANSHLPPEEK
+ASIP_HUMAN/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT ANSHLPPEEK
+ASIP_PONPY/1-132             ---------- ---------- -MDVTRLLLA TLLVFLCFFT ADSHLPPEEK
+ASIP_BOVIN/1-133             ---------- ---------- -MDVSRLLLA TLLVCLCFLT AYSHLAPEEK
+B2KNR1_CAPHI/1-134           ---------- ---------- -MDVSRLLLA TLLVCLCFLS AYSHLAPEEK
+B4YAJ9_SHEEP/1-133           ---------- ---------- -MDVSRLFLA TLLVCLCFLS AYSHLAPEEK
+ASIP_PIG/1-131               ---------- ---------- -MDVTRLLLA TLLVCLCFFT ASSHLAPEEK
+C8C9X0_PIG/1-131             ---------- ---------- -MDVTRLLLA TLLVCLCFFT ASSHLAPEEK
+ASIP_FELCA/1-135             ---------- ---------- -MNILRLLLA TLLVCLCLLT AYSHLAPEEK
+ASIP_HORSE/1-133             ---------- ---------- -MDVIHLFLA TLLVSLCFLT AYSHLSPEEK
+C9DEW5_PERMA/1-132           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEJ5_PERMA/1-138           ---------- ---------- -MDXTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEX9_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEM7_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEE9_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+C9DEU5_PERMA/1-138           ---------- ---------- -MDVTRLLLA TLVGFLCFLA VYSHLVPEET
+
+                             101                                                150
+J3FBV6_GADMO/1-136           LSKS---DGK FIRSRLTGPG KSAHNSDFF- ---------- IQGKQRPLFA
+J3JQT3_ORYLA/1-149           KP-----RHI WLSEEQTFQS K--------- ---------- GLANQDRVGP
+M3ZQ55_XIPMA/1-145           VRTLFTRRAL YEQQKNHETK K--------- ---------- SRVVPHPPPQ
+T2C5M5_HAPBU/1-156           REAAARGDVP LRKASHGTGS T--------- ---------- NEIRVRPLFA
+I3J6M6_ORENI/1-156           GEAATRGDVP LRKASHGTGS T--------- ---------- NEIRVRPLFA
+J3AM90_GASAC/1-135           PRL----GRS SVSVSRAKAP QKTRPLSA-- ---------- GPVIQGRQRP
+R4ZGR2_DICLA/1-139           LQA----AHN NLSGSRAHAP Q---STGSL- ---------- NQGRQRPLFA
+H3C0S9_TETNG/1-137           VKT----SRS SLTGGRAQLP Q---NAGFW- ---------- IQGTHRPLFA
+J3JQT6_TETNG/1-130           VKT----SRS SLTGGRAQLP Q---NAGFW- ---------- IQGTHRPLFA
+H2RZV9_TAKRU/1-136           AKK----PRG SVTGSRTLLQ Q---NAGFW- ---------- SPGRNRALFA
+J3AMA0_LEPOC/1-130           KDP----EKR NISDRAEMNL M--SEDQYS- ---------- VETGVWNQGK
+J3FBV3_GASAC/1-115           TQR----DKR SENSTVCSQV K--------- ---------- TRGLFARKKI
+J3AM95_GADMO/1-43            ---------- ---------- ---------- ---------- ----------
+J3A6D1_ORYLA/1-114           -------DKK IDAGKKTEND T---VWSSV- ---------- KTRRLFARQK
+M3ZQP5_XIPMA/1-115           TKK----DAR KTENVTVCGQ T--------- ---------- KTRRLFARHK
+A0A0S7J224_9TELE/1-115       TKK----DAR KTENVTVWGQ T--------- ---------- KARRLFARHK
+A0A096MFN8_POEFO/1-115       TKK----DAR KTENVTVWGQ T--------- ---------- KTRRLFARHK
+J3JQY1_ORENI/1-116           TKK----DVR KRENVTVWSQ A--------- ---------- KNRRLFARQK
+L0NNX1_DICLA/1-116           TKK----DVR KTENDTVWSQ V--------- ---------- KTRRLFARRK
+H3CQW3_TETNG/1-114           AAE----DAR KADS------ ---------- ---------- TVCCQGKPRG
+W5LIS3_ASTMX/1-106           GGI------- ---------- ---------- ---------- CPAGARNQDK
+J3JQX9_DANRE/1-136           IES----RKK HENDVAHQGS A--------- ---------- ITTGVWNQEK
+G7ZL02_CYPCA/1-136           IVA----RKK HENDAAHHNS A--------- ---------- LTTGVWNQEK
+J3AM86_CALMI/1-141           KSD----DQQ SLSTDEHTGI S--IVALHW- ---------- SLRKLPKPVH
+W5KRC1_ASTMX/1-129           PNS----FNQ SSTSSLTQNH T---SSPSI- ---------- LIVELSNSSK
+S4VKC7_CYPCA/1-125           YSS----NQT TISLQANNQT ----DAPSV- ---------- LIVGLSKTPK
+I7HPR5_GASAC/1-126           LST----NRV VVSNAVSQNL Y---KGPPP- ---------- VLIVELPKSV
+K7ZUC0_SOLSE/1-132           LSNNKVVVSN VSNTLSQSQQ I---HSPPV- ---------- VIVELPKTAR
+K7ZUE2_PSEMX/1-123           LST----NKV VVSNALSQGL D---VGSPP- ---------- VLIVELPKSA
+M4ACH1_XIPMA/1-162           LST----NRV VASNALSHSL Q--IDPPPV- ---------- VIVELNKSTK
+S0F0E2_DICLA/1-127           LST----NRV VVSNALSQSL E---IAPPP- ---------- VVIVELPKSA
+T2C5A4_HAPBU/1-126           LST----SRV SASNALSQNL E---IDSPP- ---------- VVIVELPKSA
+I3J9M4_ORENI/1-128           LST----NRV AASNALAQNL E---INSPP- ---------- VVIVELPKSA
+H3C4B2_TETNG/1-127           LSS----NRV LTGALPQSFE V---VPPSV- ---------- IIVALPKSGK
+W5MJZ4_LEPOC/1-131           AHMVM--EQS NDSTSPSLHE NNQPDVPPV- ---------- VIVELPKTKK
+J3JQU0_GADMO/1-49            ---------- ---------- ---------- ---------- ----------
+A0A142LWX1_9PASS/1-139       EEK----TEC NLSRRSKMDF S---DLPPI- ---------- SIADLTRXSQ
+A0A142LX14_9PASS/1-139       EEK----TEC NLSRRSKMDF S---DLPPI- ---------- SIADLTRKSQ
+U3K7P9_FICAL/1-139           EEK----TEC NLSRSSKMDL S---DLPPI- ---------- SIVDLTRKSQ
+H0YZQ6_TAEGU/1-139           EEK----TDC NLSRRSKMDL S---DLPPI- ---------- SIVDLTRKSQ
+R7VQV1_COLLI/1-125           DEK----TEC NLSRSNKMNL P---DLPPI- ---------- SIVENKKA--
+R0K1V9_ANAPL/1-139           EEK----TER NLSRNSKMNL S---DLPPI- ---------- SIVDLTKRSQ
+S4S2Z6_ANAPL/1-130           EEK----TER NLSRNSKMNL S---DLPPI- ---------- SIVDLTKRSQ
+G1MTH0_MELGA/1-141           EEK----TEC NLSKNNKMNL P---DLPPI- ---------- SIVEDLTKRS
+X2JHS0_LEPSR/1-61            ---------- ---------- ---------- ---------- ----------
+L0L3Z8_9CARN/1-135           PR-----DDR NLRSNSSMNL L---DLPSV- ---------- SIVALNKKSK
+L0L5Y8_PANPR/1-135           PR-----DDR NMRSNSSMNL L---DLPSV- ---------- SIVALNKKSK
+X2JJ72_PRIBE/1-61            ---------- ---------- ---------- ---------- ----------
+X2JJM8_PRIBE/1-61            ---------- ---------- ---------- ---------- ----------
+A0A1S7IYF7_LEPBR/1-133       PT-----DDQ SLKSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+A0A1S7IY98_LEPTI/1-133       PT-----DDQ SLKSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+A0A1S7IY96_LEPTI/1-133       PT-----DDQ SLKSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+A0A1S7IYB1_LEPTI/1-133       PT-----DDQ SLKSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+A0A1S7IYD4_9LAGO/1-133       PT-----DDQ SLKSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+A0A1S7IYG6_LEPMN/1-133       PT-----DEQ SLKSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+A0A1S7IYG4_LEPMN/1-133       PT-----DDQ SLKSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+A0A1S7IY93_LEPTI/1-133       PT-----DDQ SLKSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+G1T0P8_RABIT/1-132           PT-----DDQ SLRSNSSTNL L---EFSSV- ---------- SIVALNKKSK
+I3M2D9_SPETR/1-133           PR-----DDG SLRSNSSMKV L---DIPSV- ---------- SIVALNKKSQ
+G5BPT8_HETGA/1-134           PK-----DDR CLRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+H0V4R9_CAVPO/1-130           PK-----DDR YLRSNSSKNF V---DFPSV- ---------- SIVALNKKSK
+H0VZP4_CAVPO/1-132           PK-----DDR YLRSNSSKNF V---DFPSV- ---------- SIVGSTEQEI
+G7N512_MACMU/1-132           LR-----DDR SLRSNSSVNL L---DFPSV- ---------- SIMALNKNSK
+H2P1P7_PONAB/1-132           LR-----DDR SLRSNSSVNL L---DFPSV- ---------- SIVALNKKSK
+G3SDS8_GORGO/1-132           LR-----DDR SLRSNSSVNL L---DFPSV- ---------- SIVALNKKSK
+H2QK77_PANTR/1-132           LR-----DDR SLRSNSSVNL L---DFPSV- ---------- SIVALNKKSK
+ASIP_CALPY/1-132             LR-----DDR SLRSNSSVNL L---DLPSV- ---------- SIVALNKKSK
+G1NUR0_MYOLU/1-132           PT-----NDR SLRSNSSMNL L---DSPSV- ---------- SIMGLNKKSK
+L5LT97_MYODS/1-169           PN-----NDR SLRSNSSTNL L---DSPSV- ---------- SIMGLNKKSK
+G8XWT5_VICPA/1-133           PR-----DEG SLRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+G8XWT3_VICPA/1-133           PR-----DEG SLRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+E7CVH0_VICPA/1-133           PR-----DEG SLRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+E7CVG9_VICPA/1-133           PR-----DEG SLRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+A0A1C8EIC3_LAMGU/1-133       PR-----DEG SLRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+E7D208_VICPA/1-133           PR-----DEG SLRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+G8XWT4_VICPA/1-133           PR-----DEG SLRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+L9L4A7_TUPCH/1-147           PR-----EDR RLRSNSSMNL L---DFPSV- ---------- SIVGPIETSG
+I3W8V4_PIG/1-131             SK-----DER SLRSNSSMNL L---DFPSV- ---------- SIVALNKKSK
+G3SVT4_LOXAF/1-134           PR-----DDR SLKSNCSMKL L---DFPSV- ---------- SVVALNKKSK
+A0A190X659_NEOVI/1-143       PR-----DDR SLRDNSSVKI L---DFPSV- ---------- SIVALNKKSK
+M3Z295_MUSPF/1-132           PR-----DDR SLQDNSSVKI L---DFPSV- ---------- SIVALNKKSK
+G1LR79_AILME/1-133           PR-----DDK SLRSNSSVNL L---GFPSV- ---------- SIVALNKKSK
+Q5IRA5_CANLF/1-58            ---------- ---------- ---------- ---------- ----------
+F1PPY1_CANLF/1-131           K------DDR SLRSNSSVNL L---DFPSV- ---------- SIVALNKKSK
+A0A0S2VHX5_CAPHI/1-133       PR-----DER NLKNNSSMNL L---DFPSV- ---------- SIVALNKKSK
+L8HPD2_9CETA/1-129           PR-----DER NLKNNSSMNL L---DFPSV- ---------- SIVALNKKSK
+A0A068B4B9_BOSMU/1-133       PR-----DER NLKNNSSMNL L---DFPSV- ---------- SIVALNKKSK
+V9LHC8_CALMI/1-147           EVDELNFTVM RDAVARDVDL ALVREIKAP- ---------- TGLMSSSVFQ
+F9W304_CALMI/1-40            ---------- ---------- ---------- ---------- ----------
+W5MNE0_LEPOC/1-163           AQGGARVEEH SASASGTGRH A---WPSLPR PARALSLTGD RSLSKMDPER
+J3A6E5_GADMO/1-128           VHG----DMP LDGGQPSHRR L--------- ---------- EPSYISEIAD
+A0A087X9I8_POEFO/1-141       VHGGIRLDDT PPAAVRPDAA YLADIDRGH- ---------- APSPLQDGGL
+M4A652_XIPMA/1-140           VHGVRLDDGP AAAFRPDAAY LADVDRGH-- ---------- APSPLQDGGL
+I3J5C4_ORENI/1-142           VHG----NLP LNEGPVSGRR T---ESSFL- ---------- SEIERSQVPD
+G3Q0E7_GASAC/1-68            SAA------- ---------- ---------- ---------- ----------
+J3JQY0_GASAC/1-132           HGNIQMDDAP YLSDNERSH- ---------- ---------- APSPVHDPAL
+A0A165VNW2_SPAAU/1-142       VHG----NIQ LEDGPAAARR A---EPSYL- ---------- SEMDRSHAPD
+L0NPW1_DICLA/1-142           VHG----NIQ LDDGPAAGRL S---EPSYL- ---------- SDLERSHATD
+H2L407_ORYLA/1-66            ---------- ---------- ---------- ---------- ----------
+J3JQU3_ORYLA/1-117           HRSDAPYLPD IERSRVPDSV L---DPDLL- ---------- ----------
+H3CXY9_TETNG/1-130           VHG----GVH LDGGPADPLY LPHTDRNH-- ---------- APNAMHEPAP
+H2SAE1_TAKRU/1-135           VHG----GIQ LNDGPAAGRH A---DPLFL- ---------- PHRDRNQALD
+W5KEG6_ASTMX/1-83            -------MDS VEEQLMVDPG S---YDEYP- ---------- ----------
+W5U8D2_ICTPU/1-140           VRT-NRMELS HPILRRTDTS F---FPDITV Q--------- DSGPAVDTVQ
+S4TMX9_SCHPR/1-126           -------SHP NLRLSEN--- ----SFALS- ---------- DTDLLPGVEH
+G7ZL01_CYPCA/1-128           -------HPN LRRSENSFAL S--------- ---------- DTDLLPGLEH
+J3A6E8_XENTR/1-147           ETS----NGR LQVLSSGMNN ERYNYPNLLH KVKETAMEGP GNLARNEYLK
+U3JXU1_FICAL/1-156           RTA-DLSCGH LQKASGGLER V---DRAR-- ---------- HTSLQRRVKE
+H0Z675_TAEGU/1-144           DRS----RYP PLQNTAYRFS L---YLAGA- ---------- LPRLGFEQMA
+H0Z672_TAEGU/1-69            ---------- ---------- ---------- ---------- --SLLEPQAS
+R0JIY8_ANAPL/1-156           DLS----HGH LQKMSTGLYG A---DRAR-- ---------- YPSLLRKVKE
+G1MSF6_MELGA/1-163           DLS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLHKAKE
+G3WKU1_SARHA/1-156           QSTRQYPDAI GSRLSRSSQA L---YPGLLH SAPDTSLGLS GPGIQPELEQ
+L5LI85_MYODS/1-142           QMS----LAP LEGIRRPDEA L---FSELS- ---------- DLGLRRELKR
+S7NAJ4_MYOBR/1-131           QMS----LAP LEGIRRPDEA L---FSELS- ---------- DLGLRRELKR
+G1P469_MYOLU/1-131           QMS----LAP LEGIRRPDEA L---FSELS- ---------- DLGLRRELKR
+S9Y9Q3_9CETA/1-134           QMG----LAP LEGIGRPEQA L---FLELQ- ---------- GLGLQPPLKR
+W5NYE4_SHEEP/1-134           QMG----PAP LEGVGRPDEA L---FLELQ- ---------- GLSLQPSLKR
+L8IH41_9CETA/1-134           QMG----PAP LEGIGRPEEA L---FLELQ- ---------- GLSLQPSLKR
+G3TG92_LOXAF/1-133           QVG----LAP LEGIRRSDHA L---FPAFP- ---------- GLGLRPALKR
+L9K5S4_TUPCH/1-135           QMG----LAP QEGIRRPHQA P---FPELP- ---------- DLGLPKRTTA
+G5C663_HETGA/1-129           QMG----LAP LEGIRRPDQV L---FPEFP- ---------- GLHAPLKK--
+G1T240_RABIT/1-132           QVG----LPP LEGIRRPDQA L---FSQLP- ---------- GQGLQAPLKV
+I3MRK0_SPETR/1-132           QMG----LAP LEGIRRPDQA L---LPEFP- ---------- GLGLQALLKK
+H0VHZ8_CAVPO/1-132           QMG----LAP LEGIRRPDQV L---FPDFP- ---------- GLGQHVPLKR
+H0XI71_OTOGA/1-132           QMG----LAP MEGIRRTDQA L---FPELP- ---------- GLGLQTQLKK
+A0A1U7TPF3_TARSY/1-132       QMG----LAP LEGIRRPDQA L---FPELS- ---------- GLRLPAPLKK
+G1QXQ3_NOMLE/1-132           QMG----LAP LEGIRRPDQA L---FPELP- ---------- GLGLRAPLKK
+H2NR81_PONAB/1-132           QMG----LAP LEGIRRPDQA L---FPELP- ---------- GLGLQAPLKK
+A0A096NE32_PAPAN/1-132       QMG----LAP LEGIRRPDQA L---FPELP- ---------- GLGLRAPLKK
+G8F4K7_MACFA/1-132           QMG----LAP LEGIRRPDQA L---FPELP- ---------- GLGLRAPLKK
+G3RB26_GORGO/1-132           QMG----LAP MEGIRRPDQA L---LPELP- ---------- GLGLRAPLKK
+H2QBB7_PANTR/1-132           QMG----LAP MEGIRRPDQA L---LPELP- ---------- GLGLRAPLKK
+M3W0C2_FELCA/1-132           QRG----LAP LEGIRRPDQA L---FPELP- ---------- GLGQQPPLKR
+L5KSW7_PTEAL/1-132           QMG----LAP LEGIRRPDQA P---FPELP- ---------- GLGLRPGLKR
+M3Y4Q5_MUSPF/1-132           GIG----LAP LEGIRSPDQA L---FPELP- ---------- GLGLQSSLKR
+A0A1U7QLA0_MESAU/1-141       QMG----LEP LEGIRRPGQA L---FPQFP- ---------- GLSLNGRKRT
+B7SNI4_ACORU/1-113           QMG----VAP LESIRRPGQA L---FPEFP- ---------- GQSLKGLKKT
+A0A1A6FWM3_NEOLE/1-132       QMG----LAP LEGIRRPDQT L---FPEFP- ---------- GLSLKGRKRT
+A0A0A6YX09_MOUSE/1-118       QMG----VAP LKGIRRPDQA L---FPEFP- ---------- GLSLNGLKKT
+C9DER5_PERMA/1-138           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DEH3_PERMA/1-138           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DEG3_PERMA/1-138           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DEU1_PERMA/1-138           LRD----DKS -LXTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DET7_PERMA/1-138           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DET5_PERMA/1-138           LRD----DKS -LXTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DEH7_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEG7_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEL3_PERMA/1-139           LRD----DKS -LXTXSSTDC K---DFSSV- ---------- SIVALKKK-S
+A7YMS6_PERPL/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEX7_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C7EZX1_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+A7YMS3_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEE3_PERMA/1-139           LRD----DKS -LRXNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEK5_PERMA/1-139           LRD----DKS -LRSNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DER1_PERMA/1-139           LRD----DKS -LRXNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEI9_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+A7YMS8_PERPL/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEN5_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEK3_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEL1_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEG1_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVAXKKK-S
+C9DEK9_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEF9_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEP3_PERMA/1-139           LRD----DKS -LXXNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEM9_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEJ3_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DET3_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DER3_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DFSSV- ---------- SIVALKKK-S
+C9DEI5_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEF3_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEM3_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEW3_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEV3_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEH1_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEH5_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DES1_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEN3_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEE1_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEF1_PERMA/1-139           LRD----DKS -LXXNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEP1_PERMA/1-139           LRD----DKS -LXXNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DES5_PERMA/1-139           LRD----DKS -LXTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEQ1_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEF7_PERMA/1-139           LRD----DKS -LRTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DER9_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DER7_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEX5_PERMA/1-139           LRD----DKS -LKTXSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEL5_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEL9_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+C9DEE5_PERMA/1-139           LRD----DKS -LKTNSSTDC K---DXXSV- ---------- SIVALKKK-S
+F1LQS7_RAT/1-130             LGD----DRS LTGNS-VLGS V---LESLS- ---------- LEALNKKSKK
+D3Z9S3_RAT/1-124             LGD----DRS NS-------L D---FSSVS- ---------- IVALNKKSKK
+ASIP_RAT/1-131               LGD----DRS -LKSNSSINS L---DFSSV- ---------- SIVALNKK-S
+ASIP_MOUSE/1-131             LGD----DRS -LRSNSSMNS L---DFSSV- ---------- SIVALNKK-S
+B0B577_RABIT/1-133           PTD----DQS -LRSNSSTNL L---EFSSV- ---------- SIVALNKK-S
+Q5CC35_CARAU/1-125           NSS----NQT TIS-LQANNQ T---DAPSV- ---------- LIVGLSKT-P
+Q5CC34_CARAU/1-125           NSS----NQT TIS-LQANNQ T---DAPSV- ---------- LIVGLSKT-P
+B3DGI7_DANRE/1-125           HSS----NQS NSN-LLANNQ T---DAPPV- ---------- LIIGLSKT-P
+A0ZSG4_TAKRU/1-128           LSS----NRV AVSGALSPSF E---AAPPP- ---------- VVIVALPK-S
+D6CIN2_ONCMY/1-122           VLE----DKL STNKSSFSSI Q---NGSLS- ---------- DAPPIVIVEL
+A0ZSG5_TAKRU/1-137           AKK----PRG SVTGSRTLLQ Q---NAGFW- ---------- SPGRNRPLFA
+A0ZSG7_TAKRU/1-115           AKK----DAR KSD------- ---------- ---------- ----------
+Q4SP72_TETNG/1-112           AAE----DAR KAD------- ---------- ---------- ----------
+B9X0J4_SALSA/1-117           LKR----DAH IQHEN----- ---------- ---------- ----------
+Q4SEW0_TETNG/1-50            ---------- ---------- ---------- ---------- ----------
+D2N151_CYPCA/1-59            ---------- ---------- ---------- ---------- ----------
+Q90WY7_COTJA/1-71            ---------- ---------- ---------- ---------- ----------
+Q5CC33_CARAU/1-51            ---------- ---------- ---------- ---------- ----------
+Q4JNX9_CAPHI/1-58            ---------- ---------- ---------- ---------- ----------
+Q68GX9_CANLU/1-58            ---------- ---------- ---------- ---------- ----------
+Q68GY0_CANLA/1-58            ---------- ---------- ---------- ---------- ----------
+Q5IRA5_CANFA/1-58            ---------- ---------- ---------- ---------- ----------
+A5JUA7_ROLRO/1-119           ---------P LQKMSARLEE A---DRAH-- ---------- YPSLLHKAKE
+A5JUA3_9GALL/1-140           ELS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLHKAKE
+A5JUB7_9GALL/1-140           ELS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLHKAKE
+A5JUC0_LAGLG/1-140           ELS----HSP LQKMSSGLEE A---DRXR-- ---------- YPSLLHKAKE
+A5JUA4_TRATE/1-140           DLS----HSP LQKMSFGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUA5_TRASA/1-140           DLS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUC1_LOPIM/1-140           DLS----HSP LQKMSSGLEE A---DKAR-- ---------- YPSLLRKAKE
+A5JUC7_CATWA/1-140           DXS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUA6_SYRRE/1-140           DLS----HSP LQKMSSGLEG A---DRAR-- ---------- YPSLLRKAKE
+A5JUB3_PHACC/1-140           DLS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUD1_CROCS/1-140           DLS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUC8_CROMA/1-140           DLS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUC2_LOPED/1-140           DLS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUB9_LOPNY/1-140           DLS----RSP LQKMSSGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUC3_LOPDI/1-140           DLS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUA8_PERPE/1-140           DLS----HSP LQKMSSGLEE A---DRAH-- ---------- YPSLLHKAKE
+A5JUB6_MELGA/1-140           DLS----HSP LQKMSSGLEE A---DRAR-- ---------- YPSLLHKAKE
+A5JUC5_FRAPO/1-142           DLS----HSP LQKMSAGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUD4_ALECH/1-142           DLS----HSP LQKMSXGLEE A---DRAR-- ---------- YPSPLRKAKE
+A5JUD7_ALERU/1-142           DLS----HSP LQKMSTGLEE A---DRAR-- ---------- YPSPLRKAKE
+A5JUC6_9GALL/1-142           DLS----HSP LQKMSAGLEE A---DRAR-- ---------- YPXLLREAEE
+A5JUD6_ARGAR/1-140           DLS----HSP LQKMSAGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUB0_PAVMU/1-142           DLS----HNP LQKMSAGLEE A---GRAR-- ---------- YPSLLRKAKE
+A5JUB4_PAVCR/1-142           DLS----HSP LQKMSAGLEE A---GRAR-- ---------- YPSLLRKAKE
+A5JUD5_AFRCO/1-142           DLS----HSP LQKMSAGLEE A---GRAR-- ---------- YASLLRKAKE
+A5JUB1_9GALL/1-142           DLS----HSP LQKMSAGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUA9_POLMA/1-142           DLS----HSP LQKMSAGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUB2_POLNP/1-142           DLS----HSP LQKMSAGLEE A---DRAR-- ---------- YPSLLRKAKE
+A5JUC4_GALSO/1-142           DLS----HSP LQKMSAGLGE A---DRAR-- ---------- YPSLLHKAKE
+C0A1C6_COTJA/1-153           DLS----HSP LQKMSTGLEE A---DRAAR- ---------- YPSLLHNAKE
+A5JUC9_COTJA/1-141           DLS----HSP LQKMSTGLEE A---DRAAR- ---------- YPSLLRNAKE
+A5JUD0_COTCO/1-141           DLS----HSP LQKMSTGLDE A---DRAAR- ---------- YPSLLXNAKE
+C0A1D0_CHICK/1-233           DLS----HSP LQKMSAGLGE A---DRAR-- ---------- YPSLLHKAKE
+C0A1C9_CHICK/1-165           DLS----HSP LQKMSAGLGE A---DRAR-- ---------- YPSLLHKAKE
+Q9W7R0_CHICK/1-165           DLS----HSP LQKMSAGLGE A---DRAR-- ---------- YPSLLHKAKE
+Q9PWG2_CHICK/1-154           DLS----HSP LQKMSAGLGE A---DRAR-- ---------- YPSLLHKAKE
+C0A1C8_CHICK/1-154           DLS----HSP LQKMSAGLGE A---DRAR-- ---------- YPSLLHKAKE
+F7DQS7_ORNAN/1-138           QEH----LDS ISRVSAALAP --------P- ---------- CASMPDAALR
+F7DQT3_ORNAN/1-140           SIS----RAS YSGLLRTVPV A---PPRLP- ---------- DAALRPEMER
+F6XD58_MONDO/1-139           AIG-----SR LSRSSQALYP G---LLHSA- ---------- GPGIQPELEQ
+F1MAG1_RAT/1-132             MGV----APL KGIRRSDQAL F---PEFSG- ---------- EYG-LSLKKT
+B7SNI4_9RODE/1-113           QMG----VAP LESIRRPGQA L---FPEFP- ---------- GQSLKG-LKK
+F6XMN7_HORSE/1-131           QMG----LVP LEGIR-TDQA L---IPELP- ---------- GLGIRPLLKK
+F7I534_CALJA/1-132           QMS----LAP LEGIRRPDHV L---FPELP- ---------- GLGLQAPLKK
+C6SUN5_HUMAN/1-132           QMG----LAP MEGIRRPDQA L---LPELP- ---------- GLGLRAPLKK
+AGRP_HUMAN/1-132             QMG----LAP MEGIRRPDQA L---LPELP- ---------- GLGLRAPLKK
+F7H591_MACMU/1-132           QMG----LAP LEGIRRPDQA L---FPELP- ---------- GLGLRAPLKK
+AGRP_BOVIN/1-134             QMG----PAP LEGIGRPEEA L---FLELQ- ---------- GLSLQPSLKR
+D2CNK1_BOVIN/1-134           QMG----PAP LEGIGRPEEA L---FLELQ- ---------- GLSLQPSLKR
+D2CNK2_BOSIN/1-134           QMG----PAP LEGIGRPEEA L---FLELQ- ---------- GLSLQPSLKR
+D2KC52_PIG/1-134             QIG----LAP LECIGRLDQA L---FPELQ- ---------- DLGLQPPLKR
+AGRP_PIG/1-134               QIG----LAP LEGIGRLDQA L---FPELQ- ---------- DLGLQPPLKR
+Q9GLM5_PIG/1-121             QIG----LAP LEGIGRLDQA L---FPELQ- ---------- DLGLQPPLKR
+D2H9E8_AILME/1-131           QMG----LAP LEGIRRPDQA L---FPELP- ---------- DLGLQSSLKR
+E2RJQ9_CANFA/1-132           IG-----LVP LEGIRRPDQA L---FPELP- ---------- GLGLQSSLKR
+AGRP_MOUSE/1-131             QMG----VAP LKGIRRPDQA L---FPEFP- ---------- GLSLNG-LKK
+Q3UU47_MOUSE/1-131           QMG----VAP LKGIRRPDQA L---FPEFP- ---------- GLSLNG-LKK
+Q6J648_SHEEP/1-105           --G----PAP LEGVGRPDEA L---FLELQ- ---------- GLSLQPSLKR
+Q9QXJ3_RAT/1-78              ---------- ---------- ------LFP- ---------- EFSGLS-LKK
+Q70Q62_CARAU/1-128           SHP----NLR RSENSFALSD T---DLLPG- ---------- VENFEINSVE
+Q70Q61_CARAU/1-120           SHP----NLR RSENSFALSD T---DLLPG- ---------- VENFEINSVE
+E9QBS3_DANRE/1-126           HPH----LRR RENSFILTSD T---DSLPE- ---------- MEHLEINSAE
+A0ZSG6_TAKRU/1-135           VHG----GIQ LNDGPAAGRH A---DPLFL- ---------- LHRDRNQALD
+F1T0Z6_9GOBI/1-92            ---------- ---------- R---AQASL- ---------- SMDLPDEPIE
+F1T0Y9_9GOBI/1-137           ALV----QNL QLDQGPGGAR L---VHPPF- ---------- LSDVERAQAS
+B0ZDU0_COTJA/1-125           EEK----TEC NLSKNNKMNL P---DLPPI- ---------- SIVDLTKR-S
+A9EDJ0_COTJA/1-139           EEK----TEC NLSKNNKMNL P---DLPPI- ---------- SIVDLTKR-S
+B0ZDU3_CHICK/1-130           EEK----TEC NLSKSNKTNL P---DLPPI- ---------- SIVDLTKR-S
+B0ZDU4_CHICK/1-130           EEK----TEC NLSKSNKMNL P---DLPPI- ---------- SIVDLTKR-S
+B0ZDU2_CHICK/1-130           EEK----TEC NLSKSNKMNL P---DLPPI- ---------- SIVDLTER-S
+C9K601_CHICK/1-139           EEK----TEC NLSKSNKMNL P---DLPPI- ---------- SIVDLTKR-S
+A9EDH6_COTJA/1-130           EEK----TEC NLSKNNKMNL P---DLPPI- ---------- SIVDLTKR-S
+D6R3D5_CAIMO/1-102           EEK----TER NLSRNNKMNL S---DLPPI- ---------- SIVDLTKRSQ
+D6R3D6_ANAPL/1-102           EEK----TER NLSRNSKMNL S---DLPPI- ---------- SIVDLTKRSQ
+F6YH41_MONDO/1-130           WNK----DGG -LGRNSTLSL P---DFPSV- ---------- SIVALNKKSK
+A4GVF2_CANLU/1-101           --D----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+E7CVH0_LAMPA/1-133           PRD----EGS -LRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+E7D208_LAMPA/1-133           PRD----EGS -LRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+E7CVG9_LAMPA/1-133           PRD----EGS -LRSNSSKNL L---DFPSV- ---------- SIVALNKKSK
+F1PPY0_CANFA/1-137           PKD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKKSK
+F1PPY1_CANFA/1-131           PKD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKKSK
+ASIP_CHLAE/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKKSK
+ASIP_VULVU/1-131             PKD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_CANFA/1-131             PKD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+D2H432_AILME/1-137           PRD----DKS -LRSNSSVNL L---GFPSV- ---------- SIVALNKK-S
+ASIP_CALJA/1-132             LRD----DRS -LRSNSSVNL L---DLPSV- ---------- SIVALNKK-S
+ASIP_CALGE/1-132             LRD----DRS -LRSNSSVNL L---DLPSV- ---------- SIVALNKK-S
+ASIP_CALGO/1-132             LRD----DRS -LRSNSSVNL L---DLPSV- ---------- SIVALNKK-S
+ASIP_LEOCY/1-132             LRD----DRS -LRSNSSVNL L---DLPSV- ---------- SIVALNKK-S
+ASIP_LEORO/1-132             LRD----DRS -LRSNSSVNL L---DLPSV- ---------- SIVALNKK-S
+ASIP_CEBPY/1-132             LRD----DRS -LRSNSSVNL L---DLPSV- ---------- SIVALNKK-S
+A1YL76_9PRIM/1-132           LRD----GGS -LRSNSSVNL L---DLPSV- ---------- SIVALNKK-S
+ASIP_PAPAN/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_MACSY/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_ERYPA/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_CERMI/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_MACFU/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIMALNKN-S
+ASIP_MACMU/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIMALNKN-S
+ASIP_MACFA/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIMALNKN-S
+ASIP_MACRA/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_MACAR/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_MACSI/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_MACAS/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_MACCY/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIMALNKN-S
+ASIP_MACMR/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKN-S
+ASIP_MACSL/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKN-S
+ASIP_MACNG/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKN-S
+ASIP_MACNE/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKN-S
+ASIP_MACHE/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKN-S
+ASIP_MACNR/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKN-S
+ASIP_COLPO/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_SEMEN/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_TRAOB/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_TRACR/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_TRAAU/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_TRAFR/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_GORGO/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_PANTR/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_PANPA/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_HUMAN/1-132             LRD----DRS -LRSNSSVNL L---DVPSV- ---------- SIVALNKK-S
+ASIP_PONPY/1-132             LRD----DRS -LRSNSSVNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_BOVIN/1-133             PRD----ERN -LKNNSSMNL L---DFPSV- ---------- SIVALNKK-S
+B2KNR1_CAPHI/1-134           PRD----ERN -LKNNSSMNL L---DFPSV- ---------- SIVALNKK-S
+B4YAJ9_SHEEP/1-133           PRD----ERN -LKNNSSMNL L---DFPSV- ---------- SIVALNKK-S
+ASIP_PIG/1-131               SKD----ERS -LRSNSSMNL L---DFPSV- ---------- SIVALNKK-S
+C8C9X0_PIG/1-131             SKD----ERS -LRSNSSMNL L---DFPSV- ---------- SIMALNKK-S
+ASIP_FELCA/1-135             PRD----DRN -LRSNSSMNM L---DLSSV- ---------- SIVALNKK-S
+ASIP_HORSE/1-133             PKD----DRS -LRNNSSMNL L---DSPSV- ---------- SIMALNKK-S
+C9DEW5_PERMA/1-132           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DEJ5_PERMA/1-138           LRD----DKS -LXTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DEX9_PERMA/1-138           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DEM7_PERMA/1-138           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVXXKKK-S
+C9DEE9_PERMA/1-138           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+C9DEU5_PERMA/1-138           LRD----DKS -LKTNSSTDC K---DFS-V- ---------- SIVALKKK-S
+
+                             151                                                200
+J3FBV6_GADMO/1-136           RRMYERQRVY EMRP------ ----RVRPAY PKGPPPKVAK LP--------
+J3JQT3_ORYLA/1-149           LFARRGQYEY QQLLGPT--- ----VVLPPS QNDVLHTKVE RKR-------
+M3ZQ55_XIPMA/1-145           NDTSRPRLGL ---------- ---------- PKPPVKPKPP ----------
+T2C5M5_HAPBU/1-156           RRGHYERQRI LVPKP----- ----RGGPAA QNEICPPAKV RPNP------
+I3J6M6_ORENI/1-156           RRGHYERQRF LVPKP----- ----RGAPAA QNEICPPAKV RPNP------
+J3AM90_GASAC/1-135           LFARRGQYER KRIPA----- ----PKLKVA PKGAPPASKA AFKP------
+R4ZGR2_DICLA/1-139           RRGQYERQRI HVPKP----- ----KVVPVP PKDLPTPSKV APKP------
+H3C0S9_TETNG/1-137           RRKPYKRQRI MKKRPVEG-- ----CAKPQA PRPSPTVRVD GGP-------
+J3JQT6_TETNG/1-130           RRKPYKRQRI MKKKP----- ----QAPRPS PTVRVDGGP- ----------
+H2RZV9_TAKRU/1-136           RKNCTNPSGL MQTPRER--- ----AAPPSV PLPSPTAKVE DSP-------
+J3AMA0_LEPOC/1-130           PKTVFARRAV KE-------- ----QQILRA LKQKQAPEP- ----------
+J3FBV3_GASAC/1-115           AAPQKSHTNK SQSSLMP--- ---------- ---------- ----------
+J3AM95_GADMO/1-43            ---------- ---------- ---------- ---------- ----------
+J3A6D1_ORYLA/1-114           ISPLQQSPII KHRSNIMT-- ---------- ---------- ----------
+M3ZQP5_XIPMA/1-115           ISPAEQIQIR HKSHILT--- ---------- ---------- ----------
+A0A0S7J224_9TELE/1-115       ISPAEQSHIR HKSHILT--- ---------- ---------- ----------
+A0A096MFN8_POEFO/1-115       ISPAEQTHIR HKSHILT--- ---------- ---------- ----------
+J3JQY1_ORENI/1-116           ISPPRQSVSP KHKSNLVT-- ---------- ---------- ----------
+L0NNX1_DICLA/1-116           ISPPQESHIP KHKSNLMT-- ---------- ---------- ----------
+H3CQW3_TETNG/1-114           LFARQKNSLP QE-------- ---------- -RRIPKKKPN LLT-------
+W5LIS3_ASTMX/1-106           PKRLFARTRY LPTKQ----- ----LHVQRP KPETVGAAPV ----------
+J3JQX9_DANRE/1-136           PKRLFARTRY LSQQRHHG-- ----ARPKPR PEAVSPAQT- ----------
+G7ZL02_CYPCA/1-136           PKRLFARTRY LSQQRHHV-- ----VRPKPR PEALSPAQT- ----------
+J3AM86_CALMI/1-141           SFQNCQRPEY ETSGGK---- ----MTNRMP TRTEKAKRPK ----------
+W5KRC1_ASTMX/1-129           KSKTSEKKQK KMQMK----- ---------- -LNGQVKRPL ----------
+S4VKC7_CYPCA/1-125           KNKKMEKKPK KKFTN----- ---------- ----HVKRPP ----------
+I7HPR5_GASAC/1-126           KKNKIAKKQK KNSF------ ---------- ---RVKKRPP ----------
+K7ZUC0_SOLSE/1-132           KSRKGKKQKK KKYGA----- ---------- --KLPPPPPT ----------
+K7ZUE2_PSEMX/1-123           KSKRKKQKK- ---------- ---------- -KKFGAKRPP ----------
+M4ACH1_XIPMA/1-162           KKEKGKKQKK N--------- ---------- --KFARKRPP ----------
+S0F0E2_DICLA/1-127           KKNKKTKKQK KN-------- ---------- --KFVKKRPP ----------
+T2C5A4_HAPBU/1-126           KKSKKPKKQK KNKYG----- ---------- ----VKKRPP ----------
+I3J9M4_ORENI/1-128           KKSKKPKKQK KNKYG----- ---------- ----VKKRPP ----------
+H3C4B2_TETNG/1-127           KLNK------ ---------- ----TKQPKK NKYGVKKRPP ----------
+W5MJZ4_LEPOC/1-131           NHRKATEKIS MKKQGV---- ---------- ---LRKPRPP ----------
+J3JQU0_GADMO/1-49            ---------- ---------- ---------- -----KKRPP ----------
+A0A142LWX1_9PASS/1-139       KVSRKEAENK KA-------- ----SKKNAK RKISPKPRPS ----------
+A0A142LX14_9PASS/1-139       KVSRKEAENK KA-------- ----SKKNAK RKISPKPRPS ----------
+U3K7P9_FICAL/1-139           KVSRKEAENK KS-------- ----SKKNAK RKISPKPRPP ----------
+H0YZQ6_TAEGU/1-139           KVSRKEAENK KS-------- ----SKKNAK RKISPKPRPP ----------
+R7VQV1_COLLI/1-125           ---------- ---------- ----SKKKAE PKTPPKPRPT ----------
+R0K1V9_ANAPL/1-139           RVSRKEAENK KS-------- ----SKKKAE LKKPPKPRPT ----------
+S4S2Z6_ANAPL/1-130           RVSRKEAENK KS-------- ----SKKKAE LKKPPKPRPT ----------
+G1MTH0_MELGA/1-141           QKVSRKEAEN KKS------- ----SKKNAE LKKPPKPRPT ----------
+X2JHS0_LEPSR/1-61            ---------- ---------- ------KKAS MKNVARPRRP RPP-------
+L0L3Z8_9CARN/1-135           KISRKEAEKK RS-------- ----SKKKAS MKNVARPRRP RPP-------
+L0L5Y8_PANPR/1-135           KISRKEAEKK RS-------- ----SKKKAS MKNVARPRRP RPP-------
+X2JJ72_PRIBE/1-61            ---------- ---------- ------KKAS MKNVARPRRP RPP-------
+X2JJM8_PRIBE/1-61            ---------- ---------- ------KKAS MKNVARPRRP RPP-------
+A0A1S7IYF7_LEPBR/1-133       SISIKEAEKK KKS------- ----SKKKAS NKKVARPRPQ ----------
+A0A1S7IY98_LEPTI/1-133       SISIKEAEKK KRS------- ----SKKKAS NKKVARPRPQ ----------
+A0A1S7IY96_LEPTI/1-133       SISIKEAEKK KRS------- ----SKKKAS NKKVAXPRPQ ----------
+A0A1S7IYB1_LEPTI/1-133       SISIKEAEKK KRS------- ----SKKKAS NKKVARPRPQ ----------
+A0A1S7IYD4_9LAGO/1-133       SISIKEAEKK KRS------- ----SKKKAS XKKVARPRPQ ----------
+A0A1S7IYG6_LEPMN/1-133       SISIKEAEKK KRS------- ----SKKKAS KKKVARPRPQ ----------
+A0A1S7IYG4_LEPMN/1-133       SINIKEAEKK KRS------- ----SKKKAS KKKVARPRPQ ----------
+A0A1S7IY93_LEPTI/1-133       SISIKEAEKK KRS------- ----SKKKAS KKKVARPRPQ ----------
+G1T0P8_RABIT/1-132           DISIKEAEKK KRS------- ----SKKKAS KKKVARPRPL ----------
+I3M2D9_SPETR/1-133           KISRTEAEKR TRS------- ----SKKKAP MKKVARPRPP ----------
+G5BPT8_HETGA/1-134           TISRKEAEKR KRSAK----- -----KKASM KKKVARPRPP ----------
+H0V4R9_CAVPO/1-130           TAKRAEKRKR S--------- ----SKKKAS MKEVKPPRPP ----------
+H0VZP4_CAVPO/1-132           QNSKKEAEKR KRS------- ----SKKKAS MKEVKPPRPP ----------
+G7N512_MACMU/1-132           EISRKEAEKK RS-------- ----SKKEAS MKKVARPRTP ----------
+H2P1P7_PONAB/1-132           QISRKEAEKK RS-------- ----SKKEAS MKTVARPRTP ----------
+G3SDS8_GORGO/1-132           QIGRKEAEKK RS-------- ----SKKEAS MKKVARPRTP ----------
+H2QK77_PANTR/1-132           QIGRKEAEKK RS-------- ----SKKEAS MKKVGRARTP ----------
+ASIP_CALPY/1-132             KISRKEAEKR RS-------- ----SKKEAS KQKVARPRTP ----------
+G1NUR0_MYOLU/1-132           KISRKEAEKK TA-------- ----SKRKAS IKKVTRVRPP ----------
+L5LT97_MYODS/1-169           KISRKEAEKK RA-------- ----SKRKAS IKKVTRIRPP ----------
+G8XWT5_VICPA/1-133           KISRKEAEKK KSSS------ -----KKKAP TKKVAQPRPL ----------
+G8XWT3_VICPA/1-133           KISRKEAEKK KSSS------ -----KKKAP TKKVAQPRPL ----------
+E7CVH0_VICPA/1-133           KISRKEAEKK KSSS------ -----KKKAP TKKVAQPRPL ----------
+E7CVG9_VICPA/1-133           KISRKEAEKK KSSS------ -----KKKAP TKKVAQPRPL ----------
+A0A1C8EIC3_LAMGU/1-133       KISRKEAEKK KSSS------ -----KKKAP TKKVAQPRPL ----------
+E7D208_VICPA/1-133           KISRKEAEKK KSSS------ -----KKKAP TKKVAQPRPL ----------
+G8XWT4_VICPA/1-133           KISRKEAEKK KSSS------ -----KKKAP TKKVAQPRPL ----------
+L9L4A7_TUPCH/1-147           FAPLSLFEAL NKKSKAISRK EAEKKKSSKK KASMEKTMRS RPP-------
+I3W8V4_PIG/1-131             KISRKEAEKR S--------- ----SKKKAS MKKVAQPRPP ----------
+G3SVT4_LOXAF/1-134           RILSRKEAEM MKGPS----- -----KKKAS VKKAARPRPP ----------
+A0A190X659_NEOVI/1-143       RISRKEAEKK KP-------- ----SKRNSS MKTVARPRPP ----------
+M3Z295_MUSPF/1-132           RISRKEAEKK KS-------- ----SKRNSS MKTVARPRPP ----------
+G1LR79_AILME/1-133           KISRKEAEKK RSS------- ----KKKKPS MKNVARPRPP ----------
+Q5IRA5_CANLF/1-58            ---------- ---------- ------KKAS MKNVSHPRPP ----------
+F1PPY1_CANLF/1-131           KISRKEAEKK RS-------- ----SKKKAS MKNVSHPRPP ----------
+A0A0S2VHX5_CAPHI/1-133       KISRNEAEKK KRAS------ -----KRKAP MKNVARTRPP ----------
+L8HPD2_9CETA/1-129           KISRNEAEKK KRPS------ -----KRKAP MKNVARTRPP ----------
+A0A068B4B9_BOSMU/1-133       KISRNEAEKK KRPS------ -----KRKAP MKNVARTRPP ----------
+V9LHC8_CALMI/1-147           TPTDLIKEPW LENILD---- ----PEVISN ALEVENRSAR ----------
+F9W304_CALMI/1-40            ---------- ---------- ---------- ---------- ----------
+W5MNE0_LEPOC/1-163           LSTESEEAML VENIGLFD-- ----EEAVSE AVELQSRAVR ----------
+J3A6E5_GADMO/1-128           TVEQLMIDAQ SYDEDT---- ----SQEMTE ALQLQSRTMR ----------
+A0A087X9I8_POEFO/1-141       LPVDSEEDRL LMEAGS---- ----NNEDSS ALQLQGRAVR ----------
+M4A652_XIPMA/1-140           LPVDSEEDRL LMEAGS---- ----NNEDLS ALQLQGRAVR ----------
+I3J5C4_ORENI/1-142           RMDEPALLPV DSVEDHFLMD TGSYDEDTSA ALQLQGRAMR ----------
+G3Q0E7_GASAC/1-68            ---------- ---------- ---------- -LQLQGRAMR ----------
+J3JQY0_GASAC/1-132           LALDPMEDRF LMDSVSYD-- -----EDSSA ALQLQGRAMR ----------
+A0A165VNW2_SPAAU/1-142       PVHDPALLPV DSVEDHFLMD AGSYDEDSSA ALQLQGRAMR ----------
+L0NPW1_DICLA/1-142           PVHDPALLSV DSVEDHFLMD AGSYDEDSSA ALQLQGRAMR ----------
+H2L407_ORYLA/1-66            ---------- ---------- ----LQDSSA GLQLQGRAMR ----------
+J3JQU3_ORYLA/1-117           -SADAVEDHF VMEPGSYE-- -----EDSSA GLQLQGRAMR ----------
+H3CXY9_TETNG/1-130           PQVDSVEDSL MVNED----- ---------S YDELQGRAMR ----------
+H2SAE1_TAKRU/1-135           AMHEPTPPHA DSVEDSF--- ----MVDDDS YDELQGRAMR ----------
+W5KEG6_ASTMX/1-83            ---------- ---------- -----QEVAD AVQLQRRGTR ----------
+W5U8D2_ICTPU/1-140           LRIDSVEEQL MVDPVSYD-- -----EEMAD AVQLQRRGTR ----------
+S4TMX9_SCHPR/1-126           LEINSAEEKL LEDLGS---- ----YDEDLG KAVQLQRRGT R---------
+G7ZL01_CYPCA/1-128           LEINSAEEKL LEDLGS---- ----YDEDLG KAVQLQRRGT R---------
+J3A6E8_XENTR/1-147           LDSEADEEDL MEDYSL---- ----LDPRAL SLEVSSREER ----------
+U3JXU1_FICAL/1-156           ASAEPAGALP RLGFEQMA-- ----LGVQEA DGDLVQRSSL LEPQASSTEL
+H0Z675_TAEGU/1-144           LGVQEADGDL VQRGS----- ----LLEPQA SSTELQAEGR EER-------
+H0Z672_TAEGU/1-69            STELQAEGRE ER-------- ---------- ---------- ----------
+R0JIY8_ANAPL/1-156           VAVEPAGALP RTEFDQMS-- ----LEVQEA DGDLLQKSGV LEPQASSTAL
+G1MSF6_MELGA/1-163           LSVELARATP RPDLDQ---- ----MEVQEG DDNLLQKSSV LEPQVLSTAL
+G3WKU1_SARHA/1-156           MASELAEESL LQDPEALA-- -----PGVPG PMSREDR--- ----------
+L5LI85_MYODS/1-142           TAVEQAEEAL LQEAKD---- ----LAEALD PEEREPR--- ----------
+S7NAJ4_MYOBR/1-131           TAVEQAEEAL LQEAKD---- ----LAEALD PEEREPR--- ----------
+G1P469_MYOLU/1-131           KAVEQAEEAL LQEAKD---- ----LAEALD PEEREPR--- ----------
+S9Y9Q3_9CETA/1-134           TNAEQAEEAL LQEAKAKA-- ----LAEVLD PEGRKPR--- ----------
+W5NYE4_SHEEP/1-134           ITEEQAEEAL LQEAEAKA-- ----LAEVLD PEGRKPR--- ----------
+L8IH41_9CETA/1-134           ITEEQAEESL LQEAEAKA-- ----LAEVLD PEGRKPR--- ----------
+G3TG92_LOXAF/1-133           TVEGQAEEAL LQEAEALA-- -----EVTAQ ALDREPR--- ----------
+L9K5S4_TUPCH/1-135           EQEEALLQEA EALAEVNCS- ----GKGVLD PQDRETR--- ----------
+G5C663_HETGA/1-129           -TPDKAEEAL LQKAEA---- ----LAEVLD AQSREPR--- ----------
+G1T240_RABIT/1-132           TNAEPAEEAL LQEAEA---- ----LTEVLD PQDREPR--- ----------
+I3MRK0_SPETR/1-132           TTAEQSEEAL LQKAEA---- ----LAEMLD PQNRELR--- ----------
+H0VHZ8_CAVPO/1-132           TTAEQAEEAL LQKAEA---- ----LAEVLD PQNREPR--- ----------
+H0XI71_OTOGA/1-132           TTTEQAEEAL LQEAEA---- ----LAEVLD PQDREPR--- ----------
+A0A1U7TPF3_TARSY/1-132       TSAEQAEEAL LQEAEA---- ----LAEVLD AQDREPR--- ----------
+G1QXQ3_NOMLE/1-132           TTAEQAEEDL LQEAQA---- ----LAEVLD PQDREPR--- ----------
+H2NR81_PONAB/1-132           TTAEQAEEDL LQEAQA---- ----LAEVLD PQDREPR--- ----------
+A0A096NE32_PAPAN/1-132       TTAELAEEDL LQEAQA---- ----LAEVLD SQDRKPR--- ----------
+G8F4K7_MACFA/1-132           TTAELAEEDL LQEAQA---- ----LAEVLD SQDREPR--- ----------
+G3RB26_GORGO/1-132           TTAEQAEEDL LQEAQA---- ----LAEVLD QQDREPR--- ----------
+H2QBB7_PANTR/1-132           TTAEQAEEDL LQEAQA---- ----LAEVLD LQDREPR--- ----------
+M3W0C2_FELCA/1-132           TSAEQSIEAL LQEAEA---- ----LTEVLD PEGREPR--- ----------
+L5KSW7_PTEAL/1-132           TTAEQAEEAL ---------- ----LQEAKD LAEVLDPEGR EPR-------
+M3Y4Q5_MUSPF/1-132           TAAEQSGEAL LQEAEA---- ----LSEVLD PEGRESR--- ----------
+A0A1U7QLA0_MESAU/1-141       IADRAEEALL QKAEA----- ----LAEVLD PQNRESR--- ----------
+B7SNI4_ACORU/1-113           TAAGAEEGLL QKAEA----- ----LAEVLD PQNRDSR--- ----------
+A0A1A6FWM3_NEOLE/1-132       TADGTEEALL QKAEA----- ----LAEVLD PQNRESR--- ----------
+A0A0A6YX09_MOUSE/1-118       TADRAEEVLL QKAEA----- ----LAEVLD PQNRESR--- ----------
+C9DER5_PERMA/1-138           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKXSIKKVA RPP-------
+C9DEH3_PERMA/1-138           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEG3_PERMA/1-138           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEU1_PERMA/1-138           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKAA RPP-------
+C9DET7_PERMA/1-138           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKAA RPP-------
+C9DET5_PERMA/1-138           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEH7_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEG7_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEL3_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+A7YMS6_PERPL/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEX7_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C7EZX1_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+A7YMS3_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEE3_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEK5_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DER1_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEI9_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+A7YMS8_PERPL/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEN5_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEK3_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEL1_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEG1_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEK9_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEF9_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEP3_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEM9_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEJ3_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASXKKVA RPP-------
+C9DET3_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DER3_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEI5_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEF3_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASXKKVA RPP-------
+C9DEM3_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEW3_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEV3_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEH1_PERMA/1-139           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEH5_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DES1_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKAA RPP-------
+C9DEN3_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEE1_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEF1_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEP1_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DES5_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEQ1_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASVKKVA RPP-------
+C9DEF7_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DER9_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KXKGSS KKKASIKKVA RPP-------
+C9DER7_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEX5_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEL5_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASXKKVA RPP-------
+C9DEL9_PERMA/1-139           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEE5_PERMA/1-139           KKISIQEAEK QKXLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+F1LQS7_RAT/1-130             ISRKEAEKRK RSSK------ ---------- -KKASIKKVA RPP-------
+D3Z9S3_RAT/1-124             ISRKEAEKRK RSSK------ ---------- -KKASIKKVA RPP-------
+ASIP_RAT/1-131               KKISRKEAEK ---------- -----RKRSS KKKASIKKVA RPP-------
+ASIP_MOUSE/1-131             KKISRKEAEK ---------- -----RKRSS KKKASMKKVA RPP-------
+B0B577_RABIT/1-133           KDISIKEAEK KK-------- -----RSSKK KASKKKVARP RPL-------
+Q5CC35_CARAU/1-125           KKNNKMEKKQ K--------- ---------- --KKFSTHVK RPP-------
+Q5CC34_CARAU/1-125           KKNNKMEKKQ K--------- ---------- --KKFSTHVK RPP-------
+B3DGI7_DANRE/1-125           KKSKKSEKKP K--------- ---------- --KKFPNKVK RPP-------
+A0ZSG4_TAKRU/1-128           GKKFNKTKRP K--------- ---------- --KNKYGVKK RPP-------
+D6CIN2_ONCMY/1-122           PKTAKKKIKK PRKN------ ---------- -KFSVKNKRP PP--------
+A0ZSG5_TAKRU/1-137           RRKLYERHRV LMQTPRER-- ----AAPPSV PLPSPTAKVE DSP-------
+A0ZSG7_TAKRU/1-115           -NKVCCQGKT RGLFARRK-- ----NYLPQ- EKHILKNKLK VLT-------
+Q4SP72_TETNG/1-112           -STVCCQGKP RGLFARQK-- ----NSLPQ- ERRIPKKKPN LLT-------
+B9X0J4_SALSA/1-117           -DSVWSQEKP GRLFARRR-- ----ILPHQG QHHVAFQKHE PAA-------
+Q4SEW0_TETNG/1-50            ---------- ---------- ---------- MQLQGRAMR- ----------
+D2N151_CYPCA/1-59            ---------- ---------- ---------- -------NT- ----------
+Q90WY7_COTJA/1-71            ---------- ---------- ---------- -------SGV LEPQALSTAL
+Q5CC33_CARAU/1-51            ---------- ---------- ---------- ------THVK RPP-------
+Q4JNX9_CAPHI/1-58            ---------- ---------- ------RKAP MKNVARTRPP PP--------
+Q68GX9_CANLU/1-58            ---------- ---------- ------KKAS MKNVARPRPP PP--------
+Q68GY0_CANLA/1-58            ---------- ---------- ------KKAS MKNVARPRPP PP--------
+Q5IRA5_CANFA/1-58            ---------- ---------- ------KKAS MKNVSHPRPP PP--------
+A5JUA7_ROLRO/1-119           VSVELARALP RPDLDQTT-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+A5JUA3_9GALL/1-140           LPVELAGAIP RPDLDQME-- ----VHE--G DGNLLQKSSV LEPQALSTAL
+A5JUB7_9GALL/1-140           LPVELAGAIP RPDLDQME-- ----VHE--G DGNLLQKSSV LEPQALSTAL
+A5JUC0_LAGLG/1-140           LPVELAGAIP RPDLDQME-- ----VHE--G DGNLLQKSSV LEPQALSTAL
+A5JUA4_TRATE/1-140           LSVELAGALP RPDLDQME-- ----VQE--G DGNLLQKSSV LEPQALSTAL
+A5JUA5_TRASA/1-140           LSXELAGALP RPDLDQME-- ----VQE--G DGNLLQKSSM LEPQALSTAL
+A5JUC1_LOPIM/1-140           LSVELAGAIP RPDLDQME-- ----VQE--G DGNLLQKSSV LEPQALSTAL
+A5JUC7_CATWA/1-140           LSVELAGAIP RPDLDQME-- ----VQE--G DGNLLQKSSV LEPQALSTAL
+A5JUA6_SYRRE/1-140           LSVELAGAIP RPDLDQME-- ----VQE--G DGNLLQKSSV LEPQALSTAL
+A5JUB3_PHACC/1-140           LSVELAGAIP RMDLDQME-- ----VQE--G DGNLLQKSSV LEPQALSTAL
+A5JUD1_CROCS/1-140           LSVELAGAIP RLDLDQME-- ----VQE--G DGNLLQKSSV LEPQALSTAL
+A5JUC8_CROMA/1-140           LSVELAGAIP RLDLDQME-- ----VQE--G DGNLLQKSSV LEPQALSTAL
+A5JUC2_LOPED/1-140           LSVELAGAIP RPDLDQME-- ----VQE--G DGNILQKSSV LEPQALSTAL
+A5JUB9_LOPNY/1-140           LSVELAGAIP RPDLDQME-- ----VQE--G DGNILQKSSV LEPQALSTAL
+A5JUC3_LOPDI/1-140           LSVELAGAIP RPDLDQME-- ----VQE--G DGNLLQKSSV LEPQALSTAL
+A5JUA8_PERPE/1-140           LSVELAGAIP RPDLDQME-- ----MQE--G DGNLLQKSSV LEPQALSTAL
+A5JUB6_MELGA/1-140           LSVELARATP RPDLDQME-- ----VQE--G DDNLLQKSSV LEPQVLSTAL
+A5JUC5_FRAPO/1-142           VAVEPAGAPP RPDLDQMA-- ----LEVQEG DGNLQQKSSX LEPQALSTAL
+A5JUD4_ALECH/1-142           VSAELAGALP RPDLDRMA-- ----LEVQEG DGNLLQKSGV LEPQALSTAL
+A5JUD7_ALERU/1-142           VSAELAGALP RPDLDRMA-- ----LEVQEG DGNLLQKSGV LEPQALSTAL
+A5JUC6_9GALL/1-142           VSVELAGALP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSRAL
+A5JUD6_ARGAR/1-140           VSVELAEALP RPGLDQMA-- ----LEVQEG DGDLLQKSSV LEPQAT--AL
+A5JUB0_PAVMU/1-142           VSVELAGALP KPDLDQMA-- ----LELQEG DGDLLQKSRV LEPQALSTAL
+A5JUB4_PAVCR/1-142           VSVELAGALP KPDLDQMA-- ----LELQEG DGDLLQKSRV LEPQALSTAL
+A5JUD5_AFRCO/1-142           VSVELAGALP KPDLDQMA-- ----LELQEG DGDLLQKSSV LEPQALSTAL
+A5JUB1_9GALL/1-142           VSVELAGXLP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+A5JUA9_POLMA/1-142           VSVELAGXLP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+A5JUB2_POLNP/1-142           VSVELAGALP RLDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+A5JUC4_GALSO/1-142           ASVELAGALP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+C0A1C6_COTJA/1-153           LSAELDGALP RLDLDQMA-- ----LEVQ-- GDGDLQNSGV LEPQALSTAL
+A5JUC9_COTJA/1-141           LSAELDGALP RLDLDQMA-- ----LEVQ-- GDGDLQNSGV LEPQALSTAL
+A5JUD0_COTCO/1-141           LSAELDGALP RLDLDQMA-- ----LEVQ-- GDGDLQNSGV LEPQALSTAL
+C0A1D0_CHICK/1-233           ASVELAGALP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+C0A1C9_CHICK/1-165           ASVELAGALP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+Q9W7R0_CHICK/1-165           ASVELAGALP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+Q9PWG2_CHICK/1-154           ASVELAGALP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+C0A1C8_CHICK/1-154           ASVELAGALP RPDLDQMA-- ----LEVQEG DGNLLQKSSV LEPQALSTAL
+F7DQS7_ORNAN/1-138           PEMERMAAEL AKVEDIIAQG -----RVSRA LRQVPDLQGR EER-------
+F7DQT3_ORNAN/1-140           MAAELANEDR TQEAG----- -----ILTSG VPDLQGREER SP--------
+F6XD58_MONDO/1-139           MASELAGESF MQDTE----- -----ALAPG MLDLQDREER S---------
+F1MAG1_RAT/1-132             AADRAEDVLL QKA------- --EALAEVLD PQNRESRSP- ----------
+B7SNI4_9RODE/1-113           TTAAGAEEGL LQKAEA---- ----LAEVLD PQNRDSRS-- ----------
+F6XMN7_HORSE/1-131           TTAEQAEEAL KQEA------ --KALAEVLD LEGREQRSP- ----------
+F7I534_CALJA/1-132           TTAEQGEEDL LQEA------ --EALAEVQD LQDREPRSP- ----------
+C6SUN5_HUMAN/1-132           TTAEQAEEDL LQEAQA---- ----LAEVLD LQDREPRS-- ----------
+AGRP_HUMAN/1-132             TTAEQAEEDL LQEAQA---- ----LAEVLD LQDREPRS-- ----------
+F7H591_MACMU/1-132           TTAELAEEDL LQEA------ --QALAEVLD SQDREPRSS- ----------
+AGRP_BOVIN/1-134             ITEEQAEESL LQEAEAKA-- ----LAEVLD PEGRKPRS-- ----------
+D2CNK1_BOVIN/1-134           ITEEQAEESL LQEAEAKA-- ----LAEVLD PEGRKPRS-- ----------
+D2CNK2_BOSIN/1-134           ITEEQAEESL LQEAEAKA-- ----LAEVLD PEGRKPRS-- ----------
+D2KC52_PIG/1-134             TTAERAEEAL LQQAEAKA-- ----LAEVLD PEGRKARS-- ----------
+AGRP_PIG/1-134               TTAERAEEAL LQQAEAKA-- ----LAEVLD PEGRKARS-- ----------
+Q9GLM5_PIG/1-121             TTAERAEEAL LQQAEAKA-- ----LAEVLD PEGRKARS-- ----------
+D2H9E8_AILME/1-131           TTAEQ-SEAL LQEAEA---- ----LAEVLD PEGREPRS-- ----------
+E2RJQ9_CANFA/1-132           ATAEQSEEAL LQEA------ --EALAEVLD PEGREPRSP- ----------
+AGRP_MOUSE/1-131             TTADRAEEVL LQKAEA---- ----LAEVLD PQNRESRS-- ----------
+Q3UU47_MOUSE/1-131           TTADRAEEVL LQKAEA---- ----LAEVLD PQNRESRS-- ----------
+Q6J648_SHEEP/1-105           IMEEQAEEAL LQEAEAKA-- ----LAEVLD PEGRKPRS-- ----------
+Q9QXJ3_RAT/1-78              TAADRAEDVL LQKAEA---- ----LAEVLD PQNRESRS-- ----------
+Q70Q62_CARAU/1-128           EKLLEELGSY DEDLG----- --------KA VQLQRRGTR- ----------
+Q70Q61_CARAU/1-120           EKLLEELGSY DEDLG----- --------KA VQLQRRGTR- ----------
+E9QBS3_DANRE/1-126           EKILEDLEAY D--------- -----EDLGK AVHLQRRGTR SP--------
+A0ZSG6_TAKRU/1-135           AMHEPTPPHA DSVEDSFM-- ----VDDDSY DELQGRAMR- ----------
+F1T0Z6_9GOBI/1-92            DHFLLDTGSY D--------- -----EDPGS SLQLAGRSMR GP--------
+F1T0Y9_9GOBI/1-137           LSMDLPDEPI EDHFLLDTGS YD---EDPGS SLQLAGRSMR GP--------
+B0ZDU0_COTJA/1-125           QKVSRKEAEN K--------- -----KSSKK NAELKTPPKP RPT-------
+A9EDJ0_COTJA/1-139           QKVSRKEAEN K--------- -----KSSKK NAELKTPPKP RPT-------
+B0ZDU3_CHICK/1-130           QKVSRKEAEN K--------- -----KSSKK NAELKAPPKP RPT-------
+B0ZDU4_CHICK/1-130           QKVSRKEAEN K--------- -----KSSKK NAELKAPPKP RPT-------
+B0ZDU2_CHICK/1-130           QKVSRKEAEN K--------- -----KSSKK NAELKAPPKP RPT-------
+C9K601_CHICK/1-139           QKVSRKEAEN K--------- -----KSSKK NAELKAPPKP RPT-------
+A9EDH6_COTJA/1-130           QKVSRKEAEN K--------- -----KSSKK NAELKTPPKP RPT-------
+D6R3D5_CAIMO/1-102           RVSRKEAENK KSSKK----- ---------- KAELKKPPKP RPT-------
+D6R3D6_ANAPL/1-102           RVSRKEAENK KSSKK----- ---------- KAELKKPPKP RPT-------
+F6YH41_MONDO/1-130           KLIQKEIETK KSPEK----- -------KAL VKKSHRPPPP ----------
+A4GVF2_CANLU/1-101           KKISRKEAEK KRSSK----- ------KKAS MKNVARPRPP PP--------
+E7CVH0_LAMPA/1-133           KISRKEAEKK KSSSK----- ------KKAP TKKVAQPRPL LP--------
+E7D208_LAMPA/1-133           KISRKEAEKK KSSSK----- ------KKAP TKKVAQPRPL LP--------
+E7CVG9_LAMPA/1-133           KISRKEAEKK KSSSK----- ------KKAP TKKVAQPRPL LP--------
+F1PPY0_CANFA/1-137           KISRKEAEKK RSSKKNSVSQ ------AVGS PREKSGPRPA SPG-------
+F1PPY1_CANFA/1-131           KISRKEAEKK RSSKR----- -------ASS PKIVAWPRVA NPG-------
+ASIP_CHLAE/1-132             QISRKEAEKK RSSKK----- -------EAS MKKVARPRTP LS--------
+ASIP_VULVU/1-131             KKISRKEAEK KRSSK----- ------KKAS MKNVARPRPP PP--------
+ASIP_CANFA/1-131             KKISRKEAEK KRSSK----- ------KKAS MKNVARPRPP PP--------
+D2H432_AILME/1-137           KKISRKEAEK KRSSKPRL-- ----PRRKPS MKNVARPRPP PP--------
+ASIP_CALJA/1-132             KKISRKEAEK K-RSS----- -----KKEAS KQKVARPRTP LS--------
+ASIP_CALGE/1-132             KKISRKEAEK K-RSS----- -----KKEAS KQKVARPRTP LS--------
+ASIP_CALGO/1-132             KKISRKEAEK K-RSS----- -----KKEAS KQKVARPRTP LS--------
+ASIP_LEOCY/1-132             KKISRKEAEN K-RSS----- -----KKEAS KQKVARPRTP LS--------
+ASIP_LEORO/1-132             KKISRKEAEN K-RSS----- -----KKEAS KQKVARPRTP LS--------
+ASIP_CEBPY/1-132             KKISRKEAEK R-RSS----- -----KKEAS KQKVARPRTP LS--------
+A1YL76_9PRIM/1-132           KKISRKEAEK N-RSS----- -----KKEAS KQKVARSRTP LS--------
+ASIP_PAPAN/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACSY/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_ERYPA/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_CERMI/1-132             KQMSRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACFU/1-132             KEISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACMU/1-132             KEISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACFA/1-132             KEISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACRA/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACAR/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACSI/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACAS/1-132             KQTSRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACCY/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACMR/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACSL/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACNG/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACNE/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACHE/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_MACNR/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_COLPO/1-132             KHISRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_SEMEN/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVAQPRTP LS--------
+ASIP_TRAOB/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVAQPRTP LS--------
+ASIP_TRACR/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVAQPRTP LS--------
+ASIP_TRAAU/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVAQPRTP LS--------
+ASIP_TRAFR/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKKVAQPRTP LS--------
+ASIP_GORGO/1-132             KQIGRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_PANTR/1-132             KQIGRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_PANPA/1-132             KQIGRKEAEK K-RSS----- -----KKEAS MKKVARPRTP LS--------
+ASIP_HUMAN/1-132             KQIGRKAAEK K-RSS----- -----KKEAS MKKVVRPRTP LS--------
+ASIP_PONPY/1-132             KQISRKEAEK K-RSS----- -----KKEAS MKTVARPRTP LS--------
+ASIP_BOVIN/1-133             KKISRNEAEK KKRPS----- -----KRKAP MKNVARTRPP PP--------
+B2KNR1_CAPHI/1-134           KKISRNEAEK KKRAS----- -----KRKAP MKNVARTRPP PP--------
+B4YAJ9_SHEEP/1-133           KKISRNEAEK KKRAS----- -----KRKAP MKNVARTRPP PP--------
+ASIP_PIG/1-131               KKISRKEAEK --RSS----- -----KKKAS MKKVAQPRPP RP--------
+C8C9X0_PIG/1-131             KKISRKEAEK --RSS----- -----KKKAS MKKVAQPRPP RP--------
+ASIP_FELCA/1-135             KKISRKEAEK K-RSS----- -----KKKAS MKNVAQPRRP RPP-------
+ASIP_HORSE/1-133             KKISRKEAEK KKRSS----- -----KKKAS MTKVARPRLL QP--------
+C9DEW5_PERMA/1-132           KKISIQEAEK QKKLEAE--- ----KRKGSS KK------VA RPX-------
+C9DEJ5_PERMA/1-138           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEX9_PERMA/1-138           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEM7_PERMA/1-138           KKISIQEAXK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEE9_PERMA/1-138           KKISIQEAEK QKRLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+C9DEU5_PERMA/1-138           KKISIQEAEK QKKLEAE--- ----KRKGSS KKKASIKKVA RPP-------
+
+                             201                                                250
+J3FBV6_GADMO/1-136           ---------D APRCTEVSKG CLP--NSRCC DPCASCQCRF FNTICFCRKT
+J3JQT3_ORYLA/1-149           ---------I KPGCSLLGQS CSR--LSGCC EACATCHCRF FSAICFCRKA
+M3ZQ55_XIPMA/1-145           ---------V MPRCSLLGQS CVP--LSGCC DPCATCHCRF FNAICFCRRA
+T2C5M5_HAPBU/1-156           ---------V KIKCSQLAQS CLP--QSGCC DSCATCHCRF FNVICFCRKT
+I3J6M6_ORENI/1-156           ---------V KIKCSQLAQS CLP--QSGCC DPCATCHCRF FNVICFCRKT
+J3AM90_GASAC/1-135           ---------L KPTCSQLTRS CLP--QFGCC DTNATCHCRF FNAICFCRRT
+R4ZGR2_DICLA/1-139           ---------T KFNCSELTQS CLP--QSGCC DPCASCHCRF FNAICFCRRT
+H3C0S9_TETNG/1-137           ---------S LSGCSQLTQG CSP--QFGCC DPQALCHCRF FNAICFCRRF
+J3JQT6_TETNG/1-130           ---------S LSGCSQLTQG CSP--QFGCC DPQALCHCRF FNAICFCRRF
+H2RZV9_TAKRU/1-136           ---------A EASCSQLTQS CVP--QFGCC HPQALCHCRF FNAICFCRRF
+J3AMA0_LEPOC/1-130           ---------Q SRRCSRVMES CIFH--SLCC DPCASCHCRF FNAICYCRRL
+J3FBV3_GASAC/1-115           ---------P ARRCGRLMGS CSTH--VRCC DPCASCRCRL FNTICHCWRM
+J3AM95_GADMO/1-43            ---------P VRRCSRLMEN CSAY--LPCC DPCASCRCRL FNTICHCWRM
+J3A6D1_ORYLA/1-114           ---------P ARRCGRLMES CSSH--TPCC DPCASCRCRL FNTICHCWRM
+M3ZQP5_XIPMA/1-115           ---------P ARRCGRLMEN CSSH--LPCC DPCASCRCRL FNTICHCWRM
+A0A0S7J224_9TELE/1-115       ---------P ARRCGRLMEN CSSH--LPCC DPCASCRCRL FNTICHCWRM
+A0A096MFN8_POEFO/1-115       ---------P ARRCGRLMEN CSSH--LPCC DPCASCRCRL FNTICHCWRM
+J3JQY1_ORENI/1-116           ---------P ARRCGRLMES CSPH--MLCC DPCASCRCRL FNTICHCWRM
+L0NNX1_DICLA/1-116           ---------P ARRCGRLMES CSSH--MPCC DPCASCRCRL FNTICHCWRM
+H3CQW3_TETNG/1-114           ---------P IRRCSRLKDS CSPY--MPCC DPCASCHCRL FNTICNCWKM
+W5LIS3_ASTMX/1-106           ---------P VRRCAGLMES CSGH--ILCC DSCASCHCRL FNTICHCWRL
+J3JQX9_DANRE/1-136           ---------P ARRCAGLTES CSS--LTPCC DPCASCHCRL FNTICHCWRL
+G7ZL02_CYPCA/1-136           ---------P ARRCAGLMES CSS--LTPCC DPCASCHCRL FNTICHCWRL
+J3AM86_CALMI/1-141           ---------A QGQCVKLWGM CLPP-SPPCC HPCAFCHCRF FNTVCYCRKL
+W5KRC1_ASTMX/1-129           ---------P PPNCTPLWGS CKDP-NSVCC EPCAFCSCRL LRTICYCRMG
+S4VKC7_CYPCA/1-125           ---------P PPNCVPLLSS CKTP-NAVCC DQCAFCHCRL FKTVCYCRMG
+I7HPR5_GASAC/1-126           ---------P PADCVPLLGS CKSP-SNVCC DFCAFCQCRL FRTVCFCRMG
+K7ZUC0_SOLSE/1-132           ---------A PANCTPLWGS CKSP-SNVCC DICAFCQCRL FRTVCFCRMG
+K7ZUE2_PSEMX/1-123           ---------P PANCIPLWGS CKSP-GNVCC DFCAFCQCRV FRTVCYCRMG
+M4ACH1_XIPMA/1-162           ---------P PPNCIPLWGS CKAP-GNVCC DFCAFCQCRL FKTVCLCRMG
+S0F0E2_DICLA/1-127           ---------P PANCISLGES CKSP-GNVCC DFCGYCQCRL FRAVCYCRMG
+T2C5A4_HAPBU/1-126           ---------P PANCISLWGS CKSQ-GTVCC DYCAFCQCRL FRTVCYCRMG
+I3J9M4_ORENI/1-128           ---------P PANCISLWGS CKSP-GTVCC DYCAFCQCRL FRTVCYCRMG
+H3C4B2_TETNG/1-127           ---------P PANCLPLGGS CKAP-GTVCC DFCAFCQCRL FRTVCYCRMG
+W5MJZ4_LEPOC/1-131           ---------P PANCVPVWGG CRLP-GAACC DPCAFCHCRL FKTVCYCRVG
+J3JQU0_GADMO/1-49            ---------P PADCVPLWGS CHPT-GSTCC DGCSVCRCRL FKTVCYCRMG
+A0A142LWX1_9PASS/1-139       ---------P AANCVPTFKT CKPH-LNSCC HYCALCKCRI FQTICQCLML
+A0A142LX14_9PASS/1-139       ---------P AANCVPTFKT CKPH-LNSCC HYCALCKCRI FQTICQCLML
+U3K7P9_FICAL/1-139           ---------P AANCVPTFKT CKPH-LNSCC HYCALCKCRI FQTICQCLML
+H0YZQ6_TAEGU/1-139           ---------P AANCVPTFKT CKPH-LNSCC HYCALCKCRI FQTICQCLML
+R7VQV1_COLLI/1-125           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FRTVCQCLTL
+R0K1V9_ANAPL/1-139           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLTL
+S4S2Z6_ANAPL/1-130           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLTL
+G1MTH0_MELGA/1-141           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLLL
+X2JHS0_LEPSR/1-61            ---------P PAPCVATRDS CKPP-APACC DPCASCQCRF FRSSCSCRVL
+L0L3Z8_9CARN/1-135           ---------P PAPCVATRDS CKPP-APACC DPCASCQCRF FRSSCSCRVL
+L0L5Y8_PANPR/1-135           ---------P PAPCVATRNS CKPP-APACC DPCASCQCRF FRSSCSCRVL
+X2JJ72_PRIBE/1-61            ---------P PAPCVATRGS CKPP-APACC DPCASCQCRF FRSSCSCRVL
+X2JJM8_PRIBE/1-61            ---------P PAPCVATRGS CKPP-APACC DPCASCQCRF FRSSCSCRVL
+A0A1S7IYF7_LEPBR/1-133       ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+A0A1S7IY98_LEPTI/1-133       ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+A0A1S7IY96_LEPTI/1-133       ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+A0A1S7IYB1_LEPTI/1-133       ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+A0A1S7IYD4_9LAGO/1-133       ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+A0A1S7IYG6_LEPMN/1-133       ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+A0A1S7IYG4_LEPMN/1-133       ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+A0A1S7IY93_LEPTI/1-133       ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+G1T0P8_RABIT/1-132           ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+I3M2D9_SPETR/1-133           ---------P PTPCVATRDS CKSP-SPPCC DPCASCVCRF FGSVCSCRVL
+G5BPT8_HETGA/1-134           ---------L PEPCVATRDS CKPP-APACC KPCASCQCRF FRSFCSCRVL
+H0V4R9_CAVPO/1-130           ---------P PAPCVATRDS CKPP-APACC NPCASCQCRF FGSVCSCRVL
+H0VZP4_CAVPO/1-132           ---------P PAPCVATRDS CKPP-APACC NPCASCQCRF FGSVCSCRVL
+G7N512_MACMU/1-132           ---------L SAPCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+H2P1P7_PONAB/1-132           ---------L SAPCVATRNS CKPP-APACC DPCASCQCRF FRSACSCRVL
+G3SDS8_GORGO/1-132           ---------L SAPCVATRNS CKPP-APACC DPCASCQCRF FRSACSCRVI
+H2QK77_PANTR/1-132           ---------L SAPCVATRNS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_CALPY/1-132             ---------L SVPCVSTRGS CKPP-APACC HPCASCQCRF FRSACSCRVL
+G1NUR0_MYOLU/1-132           ---------P PDPCVATRDS CKQP-APPCC DPCASCMCRF FRSTCSCRVL
+L5LT97_MYODS/1-169           ---------P PDPCVATRDS CKQP-APPCC DPCASCMCRF FRSTCSCRVL
+G8XWT5_VICPA/1-133           ---------L PAPCVATCDS CKPP-APACC DPCAFCQCRF FRSVCSCRVL
+G8XWT3_VICPA/1-133           ---------L PAPCVATCDS CKPP-APACC DPCAFCQCRF FRSVCSCRVL
+E7CVH0_VICPA/1-133           ---------L PAPCVATCDS CKPP-APACC DPCAFCQCRF FRSVCSCRVL
+E7CVG9_VICPA/1-133           ---------L PAPCVATRDS CKPP-APACC DPCAFCQCRF FRSVCSCRVL
+A0A1C8EIC3_LAMGU/1-133       ---------L PAPCVATRDS CKPP-APACC DPCAFCQCRF FRSVCSCRVL
+E7D208_VICPA/1-133           ---------L PAPCVATRDS CKPP-APACC DPCAFCQCHF FRSVCSCRVL
+G8XWT4_VICPA/1-133           ---------L PAPCVATRDS CKPP-APACC DPCAFCQCHF FRSVCSCRVL
+L9L4A7_TUPCH/1-147           ---------P PVPCVATRDS CKPP-APACC DPCAFCQCRF FRSSCTCRVF
+I3W8V4_PIG/1-131             ---------R PAPCVANRDS CKPP-ALACC DPCAFCQCRF FRSACSCRVL
+G3SVT4_LOXAF/1-134           ---------P PAGCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+A0A190X659_NEOVI/1-143       ---------P PIPCVATRAS CKSP-APACC DPCASCQCRF FRSTCSCRVL
+M3Z295_MUSPF/1-132           ---------P PTPCVATRAS CKSP-APACC DPCASCQCHF FRSACSCRVL
+G1LR79_AILME/1-133           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+Q5IRA5_CANLF/1-58            ---------P PTPCVATRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+F1PPY1_CANLF/1-131           ---------P PTPCVATRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+A0A0S2VHX5_CAPHI/1-133       ---------P PTPCVATRDS CKPP-APACC DPCAFCQCRF FRSACSCRGL
+L8HPD2_9CETA/1-129           ---------P PTPCVATRDS CKPP-ASACC DPCAFCQCRF FRSACSCRAL
+A0A068B4B9_BOSMU/1-133       ---------P PTPCVATRDS CKPP-ASACC DPCAFCQCRF FRSACSCRVL
+V9LHC8_CALMI/1-147           ---------S PRRCIRHLES CFDY-SMPCC DPCATCYCRF FKAICYCRKI
+F9W304_CALMI/1-40            ---------- ---CIRHLES CFDY-SMPCC DPCATCYCRF FKAICYCRKI
+W5MNE0_LEPOC/1-163           ---------S PRRCVRHQES CLGH-QLPCC DPCDTCYCRF FNAICYCRRV
+J3A6E5_GADMO/1-128           ---------S PRRCVPHQQS CLGH-QLPCC DPCDTCYCRF FNAICYCRRV
+A0A087X9I8_POEFO/1-141       ---------S PRRCIPHQQF CLGY-SLPCC DPCDTCYCRF YNAICYCRPV
+M4A652_XIPMA/1-140           ---------S PRRCIPHQQF CLGY-SLPCC DPCDTCYCRF YNAICYCRPV
+I3J5C4_ORENI/1-142           ---------S PRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRRV
+G3Q0E7_GASAC/1-68            ---------S PRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRRV
+J3JQY0_GASAC/1-132           ---------S PRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRRV
+A0A165VNW2_SPAAU/1-142       ---------S PRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRRV
+L0NPW1_DICLA/1-142           ---------S PRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRRV
+H2L407_ORYLA/1-66            ---------S SRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRQI
+J3JQU3_ORYLA/1-117           ---------S SRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRQI
+H3CXY9_TETNG/1-130           ---------S LRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRRV
+H2SAE1_TAKRU/1-135           ---------S LRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRQV
+W5KEG6_ASTMX/1-83            ---------S PGRCIPHQQS CLGH-QLPCC DACDTCYCRF FKAFCYCRSM
+W5U8D2_ICTPU/1-140           ---------S PGRCIPHQQS CLGH-QLPCC DSCDTCYCRF FKAFCYCRSM
+S4TMX9_SCHPR/1-126           ---------S PSRCIPHQQS CLGH-HLPCC NPCDTCYCRF FKAFCYCRSM
+G7ZL01_CYPCA/1-128           ---------S PSRCIPHQQS CLGH-HLPCC NPCDTCYCRF FKAFCYCRSM
+J3A6E8_XENTR/1-147           ---------S PRRCVQLLES CVGH--LPCC SPCATCYCRF FNAFCYCRKT
+U3JXU1_FICAL/1-156           QAEGREER-S PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+H0Z675_TAEGU/1-144           ---------S PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+H0Z672_TAEGU/1-69            ---------S PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+R0JIY8_ANAPL/1-156           QAPGREER-S PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+G1MSF6_MELGA/1-163           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+G3WKU1_SARHA/1-156           ---------S PRRCVRLLES CLGH-QVPCC DPCATCYCRF FNSFCYCRKL
+L5LI85_MYODS/1-142           ---------S QRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+S7NAJ4_MYOBR/1-131           ---------S LRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+G1P469_MYOLU/1-131           ---------S LRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+S9Y9Q3_9CETA/1-134           ---------S PRRCVRLHES CLGH-QVSCC DPCATCYCRF FNAFCYCRKL
+W5NYE4_SHEEP/1-134           ---------S PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+L8IH41_9CETA/1-134           ---------S PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+G3TG92_LOXAF/1-133           ---------S ARRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+L9K5S4_TUPCH/1-135           ---------S PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+G5C663_HETGA/1-129           ---------T PRRCVRVHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+G1T240_RABIT/1-132           ---------S PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+I3MRK0_SPETR/1-132           ---------S PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+H0VHZ8_CAVPO/1-132           ---------T PRRCVRLQES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+H0XI71_OTOGA/1-132           ---------S PRRCVRLNES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+A0A1U7TPF3_TARSY/1-132       ---------S PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+G1QXQ3_NOMLE/1-132           ---------S SRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+H2NR81_PONAB/1-132           ---------S SRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+A0A096NE32_PAPAN/1-132       ---------S SRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+G8F4K7_MACFA/1-132           ---------S SRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+G3RB26_GORGO/1-132           ---------S SRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+H2QBB7_PANTR/1-132           ---------S SRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+M3W0C2_FELCA/1-132           ---------S PRRCVRLQES CLGH-QVSCC DPCATCYCRF FNAFCYCRKL
+L5KSW7_PTEAL/1-132           ---------S PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+M3Y4Q5_MUSPF/1-132           ---------S PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+A0A1U7QLA0_MESAU/1-141       ---------S PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+B7SNI4_ACORU/1-113           ---------S PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+A0A1A6FWM3_NEOLE/1-132       ---------S PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+A0A0A6YX09_MOUSE/1-118       ---------S PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYC---
+C9DER5_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEH3_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRXVCSCRVL
+C9DEG3_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEU1_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DET7_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DET5_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPXASCQCRF FRSVCSCRVL
+C9DEH7_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEG7_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEL3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+A7YMS6_PERPL/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEX7_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C7EZX1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+A7YMS3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEE3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEK5_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DER1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEI9_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+A7YMS8_PERPL/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEN5_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEK3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEL1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEG1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEK9_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEF9_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEP3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEM9_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEJ3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DET3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DER3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEI5_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEF3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEM3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEW3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEV3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEH1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEH5_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DES1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEN3_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEE1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEF1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEP1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DES5_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEQ1_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEF7_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DER9_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DER7_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEX5_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEL5_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEL9_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEE5_PERMA/1-139           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+F1LQS7_RAT/1-130             ---------P PSPCVATRDS CKPP-APACC NPCASCQCRF FGSACTCRVL
+D3Z9S3_RAT/1-124             ---------P PSPCVATRDS CKPP-APACC NPCASCQCRF FGSACTCRVL
+ASIP_RAT/1-131               ---------P PSPCVATRDS CKPP-APACC NPCASCQCRF FGSACTCRVL
+ASIP_MOUSE/1-131             ---------P PSPCVATRDS CKPP-APACC DPCASCQCRF FGSACTCRVL
+B0B577_RABIT/1-133           ---------L PAPCVATRDS CKPP-APVCC DPCASCQCRF FRSVCTCRVL
+Q5CC35_CARAU/1-125           ---------P PPNCVPLWGS CKTP-SAACC DQCAFCHCRL FKTVCYCRMG
+Q5CC34_CARAU/1-125           ---------P PPNCVPLWGS CKTP-SAACC DQCAFCHCRL FKTVCYCRMG
+B3DGI7_DANRE/1-125           ---------P PPNCVPLWAS CKSP-NAVCC DQCAFCHCRL LKTVCYCRMG
+A0ZSG4_TAKRU/1-128           ---------P PANCLPLGGS CKSP-GTECC DFCAFCQCRL FRTVCYCRMG
+D6CIN2_ONCMY/1-122           ---------- PANCVPLWGS CKTP-NNVCC EYCAFCHCRL FKTVCYCRMG
+A0ZSG5_TAKRU/1-137           ---------A EASCSQLTQS CVP--QFGCC HPQALCHCRF FNAICFCRRF
+A0ZSG7_TAKRU/1-115           ---------P IRRCSRLMES CSP--YTPCC DPCASCHCRL FNTICNCWKM
+Q4SP72_TETNG/1-112           ---------P IRRCSRLKDS CSP--YMPCC DPCASCHCRL FNTICNCWKM
+B9X0J4_SALSA/1-117           ---------P ARRCGRLMDS CAP--HTPCC DPCASCRCRL FNTICHCWRL
+Q4SEW0_TETNG/1-50            ---------S LRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRRV
+D2N151_CYPCA/1-59            ---------F PQPCIPHQQS CLGH-HLPCC NPCDTCYCRF FKAFCYCRSM
+Q90WY7_COTJA/1-71            QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+Q5CC33_CARAU/1-51            ---------P PPNCVPLWGS CKTP-SAACC DQCAFCHCRL FKTVCYCRMG
+Q4JNX9_CAPHI/1-58            ---------- -TPCVATRDS CKPP-APACC DPCAFCQCRF FRSACSCRVL
+Q68GX9_CANLU/1-58            ---------- -TPCVATRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+Q68GY0_CANLA/1-58            ---------- -TPCVATRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+Q5IRA5_CANFA/1-58            ---------- -TPCVATRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+A5JUA7_ROLRO/1-119           QVAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUA3_9GALL/1-140           QAVGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUB7_9GALL/1-140           QAVGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC0_LAGLG/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUA4_TRATE/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUA5_TRASA/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC1_LOPIM/1-140           QAAVREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC7_CATWA/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUA6_SYRRE/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUB3_PHACC/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUD1_CROCS/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC8_CROMA/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC2_LOPED/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUB9_LOPNY/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC3_LOPDI/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUA8_PERPE/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUB6_MELGA/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC5_FRAPO/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUD4_ALECH/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUD7_ALERU/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC6_9GALL/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUD6_ARGAR/1-140           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUB0_PAVMU/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUB4_PAVCR/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUD5_AFRCO/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUB1_9GALL/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUA9_POLMA/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUB2_POLNP/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC4_GALSO/1-142           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+C0A1C6_COTJA/1-153           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUC9_COTJA/1-141           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+A5JUD0_COTCO/1-141           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+C0A1D0_CHICK/1-233           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+C0A1C9_CHICK/1-165           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+Q9W7R0_CHICK/1-165           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+Q9PWG2_CHICK/1-154           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+C0A1C8_CHICK/1-154           QAAGREERSS PRRCVRLLES CLGH-QIPCC DPCATCYCRF FNAFCYCRKI
+F7DQS7_ORNAN/1-138           ---------S PRRCVRLLES CLGH-QLPCC DPCATCYCRF FNAFCYCRKI
+F7DQT3_ORNAN/1-140           ---------- -RRCVRLLES CLGH-QLPCC DPCATCYCRF FNAFCYCRKI
+F6XD58_MONDO/1-139           ---------- PRRCVRLLES CLGH-QVPCC DPCATCYCRF FNAFCYCRKI
+F1MAG1_RAT/1-132             ---------- -RRCVRLHES CLGQ-QVPCC DLCATCYCRF FNTFCYCRKL
+B7SNI4_9RODE/1-113           ---------- PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+F6XMN7_HORSE/1-131           ---------- -RRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+F7I534_CALJA/1-132           ---------- -RRCLKLQES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+C6SUN5_HUMAN/1-132           ---------- SRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+AGRP_HUMAN/1-132             ---------- SRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+F7H591_MACMU/1-132           ---------- -RRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+AGRP_BOVIN/1-134             ---------- PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+D2CNK1_BOVIN/1-134           ---------- PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+D2CNK2_BOSIN/1-134           ---------- PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+D2KC52_PIG/1-134             ---------- PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+AGRP_PIG/1-134               ---------- PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+Q9GLM5_PIG/1-121             ---------- PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+D2H9E8_AILME/1-131           ---------- PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+E2RJQ9_CANFA/1-132           ---------- -RRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+AGRP_MOUSE/1-131             ---------- PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+Q3UU47_MOUSE/1-131           ---------- PRRCVRLHES CLGQ-QVPCC DPCATCYCRF FNAFCYCRKL
+Q6J648_SHEEP/1-105           ---------- PRRCVRLHES CLGH-QVPCC DPCATCYCRF FNAFCYCRKL
+Q9QXJ3_RAT/1-78              ---------- PRRCVRLHES CLGQ-QVPCC DLCATCYCRF F-KTCYCR--
+Q70Q62_CARAU/1-128           ---------S PSRCIPHQQS CLGH-HLPCC NPCDTCYCRF FKAFCYCRSM
+Q70Q61_CARAU/1-120           ---------S PSRCIPHQQS CLGH-HLPCC NPCDTCYCRF FKAFCYCRSM
+E9QBS3_DANRE/1-126           ---------- -SRCIPHQQS CLGH-HLPCC NPCDTCYCRF FKAFCYC---
+A0ZSG6_TAKRU/1-135           ---------S LRRCIPHQQS CLGY-PLPCC DPCDTCYCRF FNAICYCRQV
+F1T0Z6_9GOBI/1-92            ---------- -RRCILHQQS CLAVPKLPCC DPCDQCYCRF FNAFCYC---
+F1T0Y9_9GOBI/1-137           ---------- -RRCILHQQS CLAVPKLPCC DPCDQCYCRF FNAFCYC---
+B0ZDU0_COTJA/1-125           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLL-
+A9EDJ0_COTJA/1-139           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLPK
+B0ZDU3_CHICK/1-130           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLLL
+B0ZDU4_CHICK/1-130           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLLL
+B0ZDU2_CHICK/1-130           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLLL
+C9K601_CHICK/1-139           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLLL
+A9EDH6_COTJA/1-130           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLLL
+D6R3D5_CAIMO/1-102           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLL-
+D6R3D6_ANAPL/1-102           ---------P AADCVPNFKT CKPH-LNSCC NYCALCKCRI FQTICQCLL-
+F6YH41_MONDO/1-130           ---------- -ANCVATWGN CQPL-ASPCC NPCAICHCRF FRSVCSCRLF
+A4GVF2_CANLU/1-101           ---------- -TPCVATRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+E7CVH0_LAMPA/1-133           ---------- -APCVATCDS CKPP-APACC DPCAFCQCRF FRSVCSCRVL
+E7D208_LAMPA/1-133           ---------- -APCVATRDS CKPP-APACC DPCAFCQCHF FRSVCSCRVL
+E7CVG9_LAMPA/1-133           ---------- -APCVATRDS CKPP-APACC DPCAFCQCRF FRSVCSCRVL
+F1PPY0_CANFA/1-137           ---------- -VPCX-TRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+F1PPY1_CANFA/1-131           ---------- -VPCX-TRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+ASIP_CHLAE/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_VULVU/1-131             ---------- -NPCVATRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+ASIP_CANFA/1-131             ---------- -TPCVATRNS CKSP-APACC DPCASCQCRF FRSACTCRVL
+D2H432_AILME/1-137           ---------- -TPCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_CALJA/1-132             ---------- -VPCVSTRGS CKPP-APACC HPCASCQCRF FRSACSCRVL
+ASIP_CALGE/1-132             ---------- -VPCVSTRGS CKPP-APACC HPCASCQCRF FRSACSCRVL
+ASIP_CALGO/1-132             ---------- -VPCVSTRGS CKPP-APACC HPCASCQCRF FRSACSCRVL
+ASIP_LEOCY/1-132             ---------- -VPCVSTRGS CKPP-APACC HPCASCQCRF FRSACSCRVI
+ASIP_LEORO/1-132             ---------- -VPCVSTRGS CKPP-APACC HPCASCQCRF FRSACSCRVI
+ASIP_CEBPY/1-132             ---------- -VPCVSTRGS CKPP-APACC HPCASCQCRF FRSACSCRVL
+A1YL76_9PRIM/1-132           ---------- -APCVATRGS CKPP-APACC HPCASCQCRF FRSACSCRVL
+ASIP_PAPAN/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACSY/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_ERYPA/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_CERMI/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACFU/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACMU/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACFA/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACRA/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACAR/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACSI/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACAS/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACCY/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACMR/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACSL/1-132             ---------- -APCVTTRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACNG/1-132             ---------- -APCVATRDS CKSP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACNE/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_MACHE/1-132             ---------- -APCVATRDS CKPP-APACC DPCAFCQCRF FRSACSCRVL
+ASIP_MACNR/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_COLPO/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_SEMEN/1-132             ---------- -APCVATRYS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_TRAOB/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_TRACR/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_TRAAU/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_TRAFR/1-132             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_GORGO/1-132             ---------- -APCVATRNS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_PANTR/1-132             ---------- -APCVATRNS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_PANPA/1-132             ---------- -APCVATRNS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_HUMAN/1-132             ---------- -APCVATRNS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_PONPY/1-132             ---------- -APCVATRNS CKPP-APACC DPCASCQCRF FRSACSCRVL
+ASIP_BOVIN/1-133             ---------- -TPCVATRDS CKPP-APACC DPCAFCQCRF FRSACSCRVL
+B2KNR1_CAPHI/1-134           ---------- -TPCVATRDS CKPP-APACC DPCAFCQCRF FRSACSCRGL
+B4YAJ9_SHEEP/1-133           ---------- -TPCVATRDS CKPP-APACC DPCAFCQCRF FRSACSCRVL
+ASIP_PIG/1-131               ---------- -APCVANRDS CKPP-ALACC DPCAFCQCRF FRSACSCRVL
+C8C9X0_PIG/1-131             ---------- -APCVANRDS CKPP-ALACC DPCAFCQCRF FRSACSCRVL
+ASIP_FELCA/1-135             ---------P PAPCVATRDS CKPP-APACC DPCASCQCRF FRSSCSCRVL
+ASIP_HORSE/1-133             ---------- -APCVATRDS CKPP-APACC DPCASCQCRF FRSACSCRVL
+C9DEW5_PERMA/1-132           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEJ5_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEX9_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEM7_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEE9_PERMA/1-138           ---------P PTPCVATRDS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+C9DEU5_PERMA/1-138           ---------P PTPCVATRBS CKPP-APACC DPCASCQCRF FRSVCSCRVL
+
+                             251                          280
+J3FBV6_GADMO/1-136           ----NSMCGK KA-------- ----------
+J3JQT3_ORYLA/1-149           ----NVQCER KKLNTSKARQ RRKQIHSENQ
+M3ZQ55_XIPMA/1-145           ERA-RSRCGS KKTAKRRKAR KKSKTQP---
+T2C5M5_HAPBU/1-156           KSQSEKNRQK ETPHHITSET KSPTHATGH-
+I3J6M6_ORENI/1-156           KSQSEKNRQK ETPHHIKSET KSPTHATGH-
+J3AM90_GASAC/1-135           TA-------- ---------- ----------
+R4ZGR2_DICLA/1-139           NSFYEKKT-- ---------- ----------
+H3C0S9_TETNG/1-137           ----SQGH-- ---------- ----------
+J3JQT6_TETNG/1-130           ----SQGH-- ---------- ----------
+H2RZV9_TAKRU/1-136           ----NQGH-- ---------- ----------
+J3AMA0_LEPOC/1-130           ----NRHCQK KT-------- ----------
+J3FBV3_GASAC/1-115           ----NPLCLQ KT-------- ----------
+J3AM95_GADMO/1-43            ----SEQC-- ---------- ----------
+J3A6D1_ORYLA/1-114           ----NPLCLK RT-------- ----------
+M3ZQP5_XIPMA/1-115           ----NPLCLK RT-------- ----------
+A0A0S7J224_9TELE/1-115       ----NPLCLK RT-------- ----------
+A0A096MFN8_POEFO/1-115       ----NPLCLK RT-------- ----------
+J3JQY1_ORENI/1-116           ----NPLCLK RT-------- ----------
+L0NNX1_DICLA/1-116           ----NPLCLK RT-------- ----------
+H3CQW3_TETNG/1-114           ----SSLCFR KT-------- ----------
+W5LIS3_ASTMX/1-106           -----GNCTK KT-------- ----------
+J3JQX9_DANRE/1-136           ----GHLCPK KT-------- ----------
+G7ZL02_CYPCA/1-136           ----GHLCPK KT-------- ----------
+J3AM86_CALMI/1-141           ----NPKCLD RT-------- ----------
+W5KRC1_ASTMX/1-129           ----YPRC-- ---------- ----------
+S4VKC7_CYPCA/1-125           ----YPKC-- ---------- ----------
+I7HPR5_GASAC/1-126           ----NPRC-- ---------- ----------
+K7ZUC0_SOLSE/1-132           ----NPHC-- ---------- ----------
+K7ZUE2_PSEMX/1-123           ----NPRC-- ---------- ----------
+M4ACH1_XIPMA/1-162           ----NPRC-- ---------- ----------
+S0F0E2_DICLA/1-127           ----NPRC-- ---------- ----------
+T2C5A4_HAPBU/1-126           ----NPRC-- ---------- ----------
+I3J9M4_ORENI/1-128           ----NPRC-- ---------- ----------
+H3C4B2_TETNG/1-127           ----NPHC-- ---------- ----------
+W5MJZ4_LEPOC/1-131           ----NPQC-- ---------- ----------
+J3JQU0_GADMO/1-49            ----NPRC-- ---------- ----------
+A0A142LWX1_9PASS/1-139       ----NPKC-- ---------- ----------
+A0A142LX14_9PASS/1-139       ----NPKC-- ---------- ----------
+U3K7P9_FICAL/1-139           ----NPRC-- ---------- ----------
+H0YZQ6_TAEGU/1-139           ----NPKC-- ---------- ----------
+R7VQV1_COLLI/1-125           ----NPKC-- ---------- ----------
+R0K1V9_ANAPL/1-139           ----NPKC-- ---------- ----------
+S4S2Z6_ANAPL/1-130           ----NPKC-- ---------- ----------
+G1MTH0_MELGA/1-141           ----NPKC-- ---------- ----------
+X2JHS0_LEPSR/1-61            ----NPTC-- ---------- ----------
+L0L3Z8_9CARN/1-135           ----NPTC-- ---------- ----------
+L0L5Y8_PANPR/1-135           ----NPTC-- ---------- ----------
+X2JJ72_PRIBE/1-61            ----NPTC-- ---------- ----------
+X2JJM8_PRIBE/1-61            ----NPTC-- ---------- ----------
+A0A1S7IYF7_LEPBR/1-133       ----NPNC-- ---------- ----------
+A0A1S7IY98_LEPTI/1-133       ----NPNC-- ---------- ----------
+A0A1S7IY96_LEPTI/1-133       ----NPNC-- ---------- ----------
+A0A1S7IYB1_LEPTI/1-133       ----NPNC-- ---------- ----------
+A0A1S7IYD4_9LAGO/1-133       ----NPNC-- ---------- ----------
+A0A1S7IYG6_LEPMN/1-133       ----NPNC-- ---------- ----------
+A0A1S7IYG4_LEPMN/1-133       ----NPNC-- ---------- ----------
+A0A1S7IY93_LEPTI/1-133       ----NPNC-- ---------- ----------
+G1T0P8_RABIT/1-132           ----NPNC-- ---------- ----------
+I3M2D9_SPETR/1-133           ----NRNC-- ---------- ----------
+G5BPT8_HETGA/1-134           ----NPNC-- ---------- ----------
+H0V4R9_CAVPO/1-130           ----NLHC-- ---------- ----------
+H0VZP4_CAVPO/1-132           ----NLHC-- ---------- ----------
+G7N512_MACMU/1-132           ----SLNC-- ---------- ----------
+H2P1P7_PONAB/1-132           ----SLNC-- ---------- ----------
+G3SDS8_GORGO/1-132           ----SLNC-- ---------- ----------
+H2QK77_PANTR/1-132           SLNW------ ---------- ----------
+ASIP_CALPY/1-132             ----NVNC-- ---------- ----------
+G1NUR0_MYOLU/1-132           ----DPNC-- ---------- ----------
+L5LT97_MYODS/1-169           ----NPNC-- ---------- ----------
+G8XWT5_VICPA/1-133           ----SPTC-- ---------- ----------
+G8XWT3_VICPA/1-133           ----SPTC-- ---------- ----------
+E7CVH0_VICPA/1-133           ----SPTC-- ---------- ----------
+E7CVG9_VICPA/1-133           ----SPTC-- ---------- ----------
+A0A1C8EIC3_LAMGU/1-133       ----SPTC-- ---------- ----------
+E7D208_VICPA/1-133           ----SPTC-- ---------- ----------
+G8XWT4_VICPA/1-133           ----SPTC-- ---------- ----------
+L9L4A7_TUPCH/1-147           ----NPGC-- ---------- ----------
+I3W8V4_PIG/1-131             ----NPTC-- ---------- ----------
+G3SVT4_LOXAF/1-134           ----SPNC-- ---------- ----------
+A0A190X659_NEOVI/1-143       ----RPVC-- ---------- ----------
+M3Z295_MUSPF/1-132           ----NPVC-- ---------- ----------
+G1LR79_AILME/1-133           ----RPVC-- ---------- ----------
+Q5IRA5_CANLF/1-58            ----SPRC-- ---------- ----------
+F1PPY1_CANLF/1-131           ----SPRC-- ---------- ----------
+A0A0S2VHX5_CAPHI/1-133       ----NPTC-- ---------- ----------
+L8HPD2_9CETA/1-129           ---------- ---------- ----------
+A0A068B4B9_BOSMU/1-133       ----NPTC-- ---------- ----------
+V9LHC8_CALMI/1-147           ----GNICHR GKN------- ----------
+F9W304_CALMI/1-40            ----GNIC-- ---------- ----------
+W5MNE0_LEPOC/1-163           ----SKACPH GRHQ------ ----------
+J3A6E5_GADMO/1-128           ----GQSCSH RHT------- ----------
+A0A087X9I8_POEFO/1-141       ----GHTCPQ RPT------- ----------
+M4A652_XIPMA/1-140           ----GHTCPQ RPT------- ----------
+I3J5C4_ORENI/1-142           ----GHVCPP RRT------- ----------
+G3Q0E7_GASAC/1-68            ----GHACPP RRT------- ----------
+J3JQY0_GASAC/1-132           ----GHACPP RRT------- ----------
+A0A165VNW2_SPAAU/1-142       ----GHTCPP RHT------- ----------
+L0NPW1_DICLA/1-142           ----GHTCPP RHT------- ----------
+H2L407_ORYLA/1-66            ----GHTCAP R--------- ----------
+J3JQU3_ORYLA/1-117           ----GHTCAP RRT------- ----------
+H3CXY9_TETNG/1-130           ----GHNCSA RRT------- ----------
+H2SAE1_TAKRU/1-135           ----GHNCSP RRT------- ----------
+W5KEG6_ASTMX/1-83            ----DHTCKH GRA------- ----------
+W5U8D2_ICTPU/1-140           ----DHTCKH RRA------- ----------
+S4TMX9_SCHPR/1-126           ----DNTCKH EYA------- ----------
+G7ZL01_CYPCA/1-128           ----DHTCKH EYA------- ----------
+J3A6E8_XENTR/1-147           ----STNCHH GKN------- ----------
+U3JXU1_FICAL/1-156           STTFP--CGK N--------- ----------
+H0Z675_TAEGU/1-144           STTFP--CGK N--------- ----------
+H0Z672_TAEGU/1-69            STTFP--CGK N--------- ----------
+R0JIY8_ANAPL/1-156           ST--NFPCGK N--------- ----------
+G1MSF6_MELGA/1-163           STTFP--CGK N--------- ----------
+G3WKU1_SARHA/1-156           GASYP--CSR N--------- ----------
+L5LI85_MYODS/1-142           GTAMNP-CSR T--------- ----------
+S7NAJ4_MYOBR/1-131           GTAMNP-CSR T--------- ----------
+G1P469_MYOLU/1-131           GTAMNP-CSR T--------- ----------
+S9Y9Q3_9CETA/1-134           GTTTNP-CSR T--------- ----------
+W5NYE4_SHEEP/1-134           GTTTNP-CSR T--------- ----------
+L8IH41_9CETA/1-134           GTTTNP-CSR T--------- ----------
+G3TG92_LOXAF/1-133           GTATHP-CSR T--------- ----------
+L9K5S4_TUPCH/1-135           GTAANP-CSR T--------- ----------
+G5C663_HETGA/1-129           GTATNP-CSR T--------- ----------
+G1T240_RABIT/1-132           GSTANP-CSR T--------- ----------
+I3MRK0_SPETR/1-132           GTATNP-CSR T--------- ----------
+H0VHZ8_CAVPO/1-132           GTATNP-CSR T--------- ----------
+H0XI71_OTOGA/1-132           GTAMNP-CSR T--------- ----------
+A0A1U7TPF3_TARSY/1-132       GTAMNP-CSR T--------- ----------
+G1QXQ3_NOMLE/1-132           GTAMNP-CSR T--------- ----------
+H2NR81_PONAB/1-132           GTAMNP-CSR T--------- ----------
+A0A096NE32_PAPAN/1-132       GTAMNP-CSR T--------- ----------
+G8F4K7_MACFA/1-132           GTAMNP-CSR T--------- ----------
+G3RB26_GORGO/1-132           GTAMNP-CSR T--------- ----------
+H2QBB7_PANTR/1-132           GTAMNP-CSR T--------- ----------
+M3W0C2_FELCA/1-132           GTA-TIPCSR T--------- ----------
+L5KSW7_PTEAL/1-132           GTAMNP-CSR T--------- ----------
+M3Y4Q5_MUSPF/1-132           GTAMNP-CSR T--------- ----------
+A0A1U7QLA0_MESAU/1-141       GPA-TNLCSR T--------- ----------
+B7SNI4_ACORU/1-113           ----GT---- ---------- ----------
+A0A1A6FWM3_NEOLE/1-132       GTT-TNLCSR T--------- ----------
+A0A0A6YX09_MOUSE/1-118       ---------- ---------- ----------
+C9DER5_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DEH3_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DEG3_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DEU1_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DET7_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DET5_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DEH7_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEG7_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEL3_PERMA/1-139           ----NPNC-- ---------- ----------
+A7YMS6_PERPL/1-139           ----NPNC-- ---------- ----------
+C9DEX7_PERMA/1-139           ----NPNC-- ---------- ----------
+C7EZX1_PERMA/1-139           ----NPNC-- ---------- ----------
+A7YMS3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEE3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEK5_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DER1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEI9_PERMA/1-139           ----NPNC-- ---------- ----------
+A7YMS8_PERPL/1-139           ----NPNC-- ---------- ----------
+C9DEN5_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEK3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEL1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEG1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEK9_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEF9_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEP3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEM9_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEJ3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DET3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DER3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEI5_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEF3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEM3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEW3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEV3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEH1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEH5_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DES1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEN3_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEE1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEF1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEP1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DES5_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEQ1_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEF7_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DER9_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DER7_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEX5_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEL5_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEL9_PERMA/1-139           ----NPNC-- ---------- ----------
+C9DEE5_PERMA/1-139           ----NPNC-- ---------- ----------
+F1LQS7_RAT/1-130             ----NPNC-- ---------- ----------
+D3Z9S3_RAT/1-124             ----NPNC-- ---------- ----------
+ASIP_RAT/1-131               ----NPNC-- ---------- ----------
+ASIP_MOUSE/1-131             ----NPNC-- ---------- ----------
+B0B577_RABIT/1-133           ----NPNC-- ---------- ----------
+Q5CC35_CARAU/1-125           ----YPKC-- ---------- ----------
+Q5CC34_CARAU/1-125           ----YPKC-- ---------- ----------
+B3DGI7_DANRE/1-125           ----YPKC-- ---------- ----------
+A0ZSG4_TAKRU/1-128           ----NPSC-- ---------- ----------
+D6CIN2_ONCMY/1-122           ----NPRC-- ---------- ----------
+A0ZSG5_TAKRU/1-137           ----NQGH-- ---------- ----------
+A0ZSG7_TAKRU/1-115           ----SSLCL- RKT------- ----------
+Q4SP72_TETNG/1-112           ----SSLCF- RKT------- ----------
+B9X0J4_SALSA/1-117           ----GPHCP- KKT------- ----------
+Q4SEW0_TETNG/1-50            ----G----- ---------- ----------
+D2N151_CYPCA/1-59            ----DHT--- -CKHDVCIEP NSTLK-----
+Q90WY7_COTJA/1-71            ----STTFP- CGKN------ ----------
+Q5CC33_CARAU/1-51            ----YPKC-- ---------- ----------
+Q4JNX9_CAPHI/1-58            ----NPTC-- ---------- ----------
+Q68GX9_CANLU/1-58            ----SPRC-- ---------- ----------
+Q68GY0_CANLA/1-58            ----SPRC-- ---------- ----------
+Q5IRA5_CANFA/1-58            ----SPRC-- ---------- ----------
+A5JUA7_ROLRO/1-119           ---------- ---------- ----------
+A5JUA3_9GALL/1-140           ---------- ---------- ----------
+A5JUB7_9GALL/1-140           ---------- ---------- ----------
+A5JUC0_LAGLG/1-140           ---------- ---------- ----------
+A5JUA4_TRATE/1-140           ---------- ---------- ----------
+A5JUA5_TRASA/1-140           ---------- ---------- ----------
+A5JUC1_LOPIM/1-140           ---------- ---------- ----------
+A5JUC7_CATWA/1-140           ---------- ---------- ----------
+A5JUA6_SYRRE/1-140           ---------- ---------- ----------
+A5JUB3_PHACC/1-140           ---------- ---------- ----------
+A5JUD1_CROCS/1-140           ---------- ---------- ----------
+A5JUC8_CROMA/1-140           ---------- ---------- ----------
+A5JUC2_LOPED/1-140           ---------- ---------- ----------
+A5JUB9_LOPNY/1-140           ---------- ---------- ----------
+A5JUC3_LOPDI/1-140           ---------- ---------- ----------
+A5JUA8_PERPE/1-140           ---------- ---------- ----------
+A5JUB6_MELGA/1-140           ---------- ---------- ----------
+A5JUC5_FRAPO/1-142           ---------- ---------- ----------
+A5JUD4_ALECH/1-142           ---------- ---------- ----------
+A5JUD7_ALERU/1-142           ---------- ---------- ----------
+A5JUC6_9GALL/1-142           ---------- ---------- ----------
+A5JUD6_ARGAR/1-140           ---------- ---------- ----------
+A5JUB0_PAVMU/1-142           ---------- ---------- ----------
+A5JUB4_PAVCR/1-142           ---------- ---------- ----------
+A5JUD5_AFRCO/1-142           ---------- ---------- ----------
+A5JUB1_9GALL/1-142           ---------- ---------- ----------
+A5JUA9_POLMA/1-142           ---------- ---------- ----------
+A5JUB2_POLNP/1-142           ---------- ---------- ----------
+A5JUC4_GALSO/1-142           ---------- ---------- ----------
+C0A1C6_COTJA/1-153           ----STTFP- CGKN------ ----------
+A5JUC9_COTJA/1-141           ---------- ---------- ----------
+A5JUD0_COTCO/1-141           ---------- ---------- ----------
+C0A1D0_CHICK/1-233           ----STTFP- CGKN------ ----------
+C0A1C9_CHICK/1-165           ----STTFP- CGKN------ ----------
+Q9W7R0_CHICK/1-165           ----STTFP- CGKN------ ----------
+Q9PWG2_CHICK/1-154           ----STTFP- CGKN------ ----------
+C0A1C8_CHICK/1-154           ----STTFP- CGKN------ ----------
+F7DQS7_ORNAN/1-138           SATYP--CSR N--------- ----------
+F7DQT3_ORNAN/1-140           SATYP--CSR N--------- ----------
+F6XD58_MONDO/1-139           STNYP--CSR N--------- ----------
+F1MAG1_RAT/1-132             GTGTTNLCSR P--------- ----------
+B7SNI4_9RODE/1-113           ----GT---- ---------- ----------
+F6XMN7_HORSE/1-131           GTAMN-PCSR T--------- ----------
+F7I534_CALJA/1-132           ATATN-SCSH A--------- ----------
+C6SUN5_HUMAN/1-132           ----GTAMN- PCSRT----- ----------
+AGRP_HUMAN/1-132             ----GTAMN- PCSRT----- ----------
+F7H591_MACMU/1-132           ----GTAMN- PCSRT----- ----------
+AGRP_BOVIN/1-134             ----GTTTN- PCSRT----- ----------
+D2CNK1_BOVIN/1-134           ----GTTTN- PCSRT----- ----------
+D2CNK2_BOSIN/1-134           ----GTTTN- PCSRT----- ----------
+D2KC52_PIG/1-134             ----GTATN- PCSRT----- ----------
+AGRP_PIG/1-134               ----GTATN- PCSRT----- ----------
+Q9GLM5_PIG/1-121             ----GTATN- PCSRT----- ----------
+D2H9E8_AILME/1-131           ----GTAMN- PCSRT----- ----------
+E2RJQ9_CANFA/1-132           ----GTATN- PCSRT----- ----------
+AGRP_MOUSE/1-131             ----GTATN- LCSRT----- ----------
+Q3UU47_MOUSE/1-131           ----GTATN- LCSRT----- ----------
+Q6J648_SHEEP/1-105           ----GTTT-- ---------- ----------
+Q9QXJ3_RAT/1-78              ---------- ---------- ----------
+Q70Q62_CARAU/1-128           ----DHT--- -CKHEYA--- ----------
+Q70Q61_CARAU/1-120           ----D----- ---------- ----------
+E9QBS3_DANRE/1-126           -RSMDNTCKN EYA------- ----------
+A0ZSG6_TAKRU/1-135           ----GHN--- -CSPRRT--- ----------
+F1T0Z6_9GOBI/1-92            -RRVGHACSP RGQ------- ----------
+F1T0Y9_9GOBI/1-137           -RRVGHACSP RGQ------- ----------
+B0ZDU0_COTJA/1-125           ---------- ---------- ----------
+A9EDJ0_COTJA/1-139           ----VLNLM- RNMLRLLS-- ----------
+B0ZDU3_CHICK/1-130           ----NPKC-- ---------- ----------
+B0ZDU4_CHICK/1-130           ----NPKC-- ---------- ----------
+B0ZDU2_CHICK/1-130           ----NPKC-- ---------- ----------
+C9K601_CHICK/1-139           ----NPKC-- ---------- ----------
+A9EDH6_COTJA/1-130           ----NPKC-- ---------- ----------
+D6R3D5_CAIMO/1-102           ---------- ---------- ----------
+D6R3D6_ANAPL/1-102           ---------- ---------- ----------
+F6YH41_MONDO/1-130           ----RPRC-- ---------- ----------
+A4GVF2_CANLU/1-101           ----SPRC-- ---------- ----------
+E7CVH0_LAMPA/1-133           ----SPTC-- ---------- ----------
+E7D208_LAMPA/1-133           ----SPTC-- ---------- ----------
+E7CVG9_LAMPA/1-133           ----SPTC-- ---------- ----------
+F1PPY0_CANFA/1-137           ----SPRC-- ---------- ----------
+F1PPY1_CANFA/1-131           ----SPRC-- ---------- ----------
+ASIP_CHLAE/1-132             ----SLNC-- ---------- ----------
+ASIP_VULVU/1-131             ----SPSC-- ---------- ----------
+ASIP_CANFA/1-131             ----SPRC-- ---------- ----------
+D2H432_AILME/1-137           ----RPVC-- ---------- ----------
+ASIP_CALJA/1-132             ----NVNC-- ---------- ----------
+ASIP_CALGE/1-132             ----NVNC-- ---------- ----------
+ASIP_CALGO/1-132             ----NVNC-- ---------- ----------
+ASIP_LEOCY/1-132             ----NVNC-- ---------- ----------
+ASIP_LEORO/1-132             ----NVNC-- ---------- ----------
+ASIP_CEBPY/1-132             ----NVNC-- ---------- ----------
+A1YL76_9PRIM/1-132           ----NVNC-- ---------- ----------
+ASIP_PAPAN/1-132             ----SLNC-- ---------- ----------
+ASIP_MACSY/1-132             ----SLNC-- ---------- ----------
+ASIP_ERYPA/1-132             ----SLNC-- ---------- ----------
+ASIP_CERMI/1-132             ----SLNC-- ---------- ----------
+ASIP_MACFU/1-132             ----SLNC-- ---------- ----------
+ASIP_MACMU/1-132             ----SLNC-- ---------- ----------
+ASIP_MACFA/1-132             ----SLNC-- ---------- ----------
+ASIP_MACRA/1-132             ----SLNC-- ---------- ----------
+ASIP_MACAR/1-132             ----SLNC-- ---------- ----------
+ASIP_MACSI/1-132             ----SLNC-- ---------- ----------
+ASIP_MACAS/1-132             ----SLNC-- ---------- ----------
+ASIP_MACCY/1-132             ----SLNC-- ---------- ----------
+ASIP_MACMR/1-132             ----SLNC-- ---------- ----------
+ASIP_MACSL/1-132             ----SLNC-- ---------- ----------
+ASIP_MACNG/1-132             ----SLNC-- ---------- ----------
+ASIP_MACNE/1-132             ----SLNC-- ---------- ----------
+ASIP_MACHE/1-132             ----SLNC-- ---------- ----------
+ASIP_MACNR/1-132             ----SLNC-- ---------- ----------
+ASIP_COLPO/1-132             ----SLNC-- ---------- ----------
+ASIP_SEMEN/1-132             ----RLNC-- ---------- ----------
+ASIP_TRAOB/1-132             ----SLNC-- ---------- ----------
+ASIP_TRACR/1-132             ----SLNC-- ---------- ----------
+ASIP_TRAAU/1-132             ----SLNC-- ---------- ----------
+ASIP_TRAFR/1-132             ----SLNC-- ---------- ----------
+ASIP_GORGO/1-132             ----SLNC-- ---------- ----------
+ASIP_PANTR/1-132             ----SLNC-- ---------- ----------
+ASIP_PANPA/1-132             ----SLNC-- ---------- ----------
+ASIP_HUMAN/1-132             ----SLNC-- ---------- ----------
+ASIP_PONPY/1-132             ----SLNC-- ---------- ----------
+ASIP_BOVIN/1-133             ----NPTC-- ---------- ----------
+B2KNR1_CAPHI/1-134           ----NPTLL- ---------- ----------
+B4YAJ9_SHEEP/1-133           ----NPTC-- ---------- ----------
+ASIP_PIG/1-131               ----NPTC-- ---------- ----------
+C8C9X0_PIG/1-131             ----NPTC-- ---------- ----------
+ASIP_FELCA/1-135             ----NPTC-- ---------- ----------
+ASIP_HORSE/1-133             ----TRTC-- ---------- ----------
+C9DEW5_PERMA/1-132           ----NPNC-- ---------- ----------
+C9DEJ5_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DEX9_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DEM7_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DEE9_PERMA/1-138           ----NPNC-- ---------- ----------
+C9DEU5_PERMA/1-138           ----NPNX-- ---------- ----------
+

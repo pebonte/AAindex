@@ -1,0 +1,107 @@
+PileUp
+
+MSF: 228  Type: P  Check: 0  ..
+
+Name: B9ZYY9_ACYPI/1-220           Len:   228  Check: 3394  Weight:  1.00
+Name: J9JWH3_ACYPI/1-220           Len:   228  Check: 3754  Weight:  1.00
+Name: B9ZYY8_ACYPI/1-220           Len:   228  Check: 3779  Weight:  1.00
+Name: J4KLB7_BEAB2/1-61            Len:   228  Check: 3880  Weight:  1.00
+Name: Q2PQC7_BEMTA/1-62            Len:   228  Check: 4607  Weight:  1.00
+Name: Q2PQC8_BEMTA/1-59            Len:   228  Check: 3810  Weight:  1.00
+Name: CVP3_PIMHY/1-63              Len:   228  Check: 5231  Weight:  1.00
+Name: CVP7_PIMHY/1-109             Len:   228  Check: 2056  Weight:  1.00
+Name: CVP5_PIMHY/1-115             Len:   228  Check: 2242  Weight:  1.00
+Name: Q3LTD6_9DIPT/1-64            Len:   228  Check: 4165  Weight:  1.00
+Name: ALO1_ACRLO/1-34              Len:   228  Check:  163  Weight:  1.00
+Name: ALO2_ACRLO/1-34              Len:   228  Check: 9666  Weight:  1.00
+Name: ALO3_ACRLO/1-36              Len:   228  Check: 1590  Weight:  1.00
+Name: Q2PQC9_BEMTA/1-65            Len:   228  Check: 4875  Weight:  1.00
+Name: Q2PQD0_BEMTA/1-65            Len:   228  Check: 6330  Weight:  1.00
+
+//
+
+                             1                                                   50
+B9ZYY9_ACYPI/1-220           MKETTVVWAK LFLILIILAK PLGLKAVNEC KRLGNNSCRS ---HGECCS-
+J9JWH3_ACYPI/1-220           MKETTVVWAK LFLILIILAK PLGLKAVNEC KRLGNNSCRS ---HGECCS-
+B9ZYY8_ACYPI/1-220           MKETTVVWAK LFLILIILAK PLGLKAVNEC KRLGNNSCRS ---HGECCS-
+J4KLB7_BEAB2/1-61            --MKLFSTIV AIAMGAAAVS AAAEPLEKRC INNG-SGCKA DGSWGVCCS-
+Q2PQC7_BEMTA/1-62            ---MHKLFVI FVLAIITISM VF-LQADGVC ISNW-TKCKP DGSIGNCCS-
+Q2PQC8_BEMTA/1-59            ----MMQKIF VFFFLALVAL SMVAVNVSAC LTKG-ASCKG DGSMGNCCS-
+CVP3_PIMHY/1-63              -MRKPITLIL VVALALVLLA TSEVSAYRAC GFPG-RRCSP ---TEECCEG
+CVP7_PIMHY/1-109             MSKVFVIILV ALMVAISIAS AHRPPPNPRC LPGH-SKCKY EPKKNSCCLG
+CVP5_PIMHY/1-115             ----MSKVMI IMLVGMIFAI ISTVSGGAGC SSMG-ASCQI G--SATCCG-
+Q3LTD6_9DIPT/1-64            --MRMSIKCF AVIFVAFAFF LGQISRAEAC IPDG-GRCHE SDPGPGCCS-
+ALO1_ACRLO/1-34              ---------- ---------- ---------C IKNG-NGCQP DGSQGNCCS-
+ALO2_ACRLO/1-34              ---------- ---------- ---------C IANR-NGCQP DGSQGNCCS-
+ALO3_ACRLO/1-36              ---------- ---------- ---------C IKNG-NGCQP NGSQGNCCS-
+Q2PQC9_BEMTA/1-65            ---MHKLFAF FVFALVAAFM IAGAQSN--C LSDG-AACQS DGSIGNCCS-
+Q2PQD0_BEMTA/1-65            ---MHKYLAW FIFAVATLWM IAGSMAQGNC LPDG-APCQA DGSMGNCCT-
+
+                             51                                                 100
+B9ZYY9_ACYPI/1-220           GFCFIEP--- -GWALGVCKR LGTPKKSDDS NNGKNIEKNN GVHERIDDVF
+J9JWH3_ACYPI/1-220           GFCFIEP--- -GWALGVCKR LGTPKKSDGS NNGKNIEKNN GVHERIDDVF
+B9ZYY8_ACYPI/1-220           GFCFIEP--- -GWALGVCKR LGTPKKSDGS NNGKNIEKNN GVHERIDDVF
+J4KLB7_BEAB2/1-61            GFCLQYQ--- -GASSGVCK- ---------- ---------- ----------
+Q2PQC7_BEMTA/1-62            GYCFQEK-PD WEY--GICKN -----R---- ---------- ----------
+Q2PQC8_BEMTA/1-59            GFCWQAN--- -PSSPGSCT- ---------- ---------- ----------
+CVP3_PIMHY/1-63              LVCQPRK--- --NGPSMCYR -----PDP-- ---------- ----------
+CVP7_PIMHY/1-109             FQCTER---- -----NQCEL -----VYPGH HGKPCGKDNL LGCILPPPTF
+CVP5_PIMHY/1-115             -VCNVHT--- -----LRCEA -----RIGPP INTQPTRRTQ PTRRTRGPKV
+Q3LTD6_9DIPT/1-64            GFCYRER--- -NWKDGDCRK -----RP--- ---------- ----------
+ALO1_ACRLO/1-34              RYCHKE--PG WVA--GYCR- ---------- ---------- ----------
+ALO2_ACRLO/1-34              GYCHKE--PG WVA--GYCR- ---------- ---------- ----------
+ALO3_ACRLO/1-36              GYCHKQ--PG WVA--GYCRR -----K---- ---------- ----------
+Q2PQC9_BEMTA/1-65            GFCLQYVEPG LHATPGTCTY -----KS--- ---------- ----------
+Q2PQD0_BEMTA/1-65            TFCLQHEQPG GT--PGHCTT -----RS--- ---------- ----------
+
+                             101                                                150
+B9ZYY9_ACYPI/1-220           ERGVCSYYKG PSITANGDVF DENEMTAAHR TLPFNTMVKV EGMGTSVVVK
+J9JWH3_ACYPI/1-220           ERGVCSYYKG PSITANGDVF DENEMTAAHR TLPFNTMVKV ESMGTSVVVK
+B9ZYY8_ACYPI/1-220           ERGVCSYYKG PSITANGDVF DENEMTAAHR TLPFNTMVKV ETMGTSVVVK
+J4KLB7_BEAB2/1-61            ---------- ---------- ---------- ---------- ----------
+Q2PQC7_BEMTA/1-62            ---------- ---------- ---------- ---------- ----------
+Q2PQC8_BEMTA/1-59            ---------- ---------- ---------- ---------- ----------
+CVP3_PIMHY/1-63              ---------- ---------- ---------- ---------- ----------
+CVP7_PIMHY/1-109             KPRPCGKYNL KGCKPIRPRP HPHH------ ---------- ----------
+CVP5_PIMHY/1-115             TRSSRPTNRT RRPKPTNRSR RPKPTHRRKP TNRPRSH--- ----------
+Q3LTD6_9DIPT/1-64            ---------- ---------- ---------- ---------- ----------
+ALO1_ACRLO/1-34              ---------- ---------- ---------- ---------- ----------
+ALO2_ACRLO/1-34              ---------- ---------- ---------- ---------- ----------
+ALO3_ACRLO/1-36              ---------- ---------- ---------- ---------- ----------
+Q2PQC9_BEMTA/1-65            ---------- ---------- ---------- ---------- ----------
+Q2PQD0_BEMTA/1-65            ---------- ---------- ---------- ---------- ----------
+
+                             151                                                200
+B9ZYY9_ACYPI/1-220           INDRKTAADG KVMLLSRAAA ESLNIDENTG PVQCQLKFVL DGSGCTPDYG
+J9JWH3_ACYPI/1-220           INDRKTAADG KVMLLSRAAA ESLNIDENTG PVQCQLKFVL DGSGCTPDYG
+B9ZYY8_ACYPI/1-220           INDRKTAADG KVMLLSRAAA ESLNIDENTG PVQCQLKFVL DGSGCTPDYG
+J4KLB7_BEAB2/1-61            ---------- ---------- ---------- ---------- ----------
+Q2PQC7_BEMTA/1-62            ---------- ---------- ---------- ---------- ----------
+Q2PQC8_BEMTA/1-59            ---------- ---------- ---------- ---------- ----------
+CVP3_PIMHY/1-63              ---------- ---------- ---------- ---------- ----------
+CVP7_PIMHY/1-109             ---------- ---------- ---------- ---------- ----------
+CVP5_PIMHY/1-115             ---------- ---------- ---------- ---------- ----------
+Q3LTD6_9DIPT/1-64            ---------- ---------- ---------- ---------- ----------
+ALO1_ACRLO/1-34              ---------- ---------- ---------- ---------- ----------
+ALO2_ACRLO/1-34              ---------- ---------- ---------- ---------- ----------
+ALO3_ACRLO/1-36              ---------- ---------- ---------- ---------- ----------
+Q2PQC9_BEMTA/1-65            ---------- ---------- ---------- ---------- ----------
+Q2PQD0_BEMTA/1-65            ---------- ---------- ---------- ---------- ----------
+
+                             201                        228
+B9ZYY9_ACYPI/1-220           DTCVLHHECC SQNCFREMFS DKGFCLPK
+J9JWH3_ACYPI/1-220           DTCVLHHECC SQNCFREMFS DKGFCLPK
+B9ZYY8_ACYPI/1-220           DTCVLHHECC SQNCFREMFS DKGFCLPK
+J4KLB7_BEAB2/1-61            ---------- ---------- --------
+Q2PQC7_BEMTA/1-62            ---------- ---------- --------
+Q2PQC8_BEMTA/1-59            ---------- ---------- --------
+CVP3_PIMHY/1-63              ---------- ---------- --------
+CVP7_PIMHY/1-109             ---------- ---------- --------
+CVP5_PIMHY/1-115             ---------- ---------- --------
+Q3LTD6_9DIPT/1-64            ---------- ---------- --------
+ALO1_ACRLO/1-34              ---------- ---------- --------
+ALO2_ACRLO/1-34              ---------- ---------- --------
+ALO3_ACRLO/1-36              ---------- ---------- --------
+Q2PQC9_BEMTA/1-65            ---------- ---------- --------
+Q2PQD0_BEMTA/1-65            ---------- ---------- --------
+

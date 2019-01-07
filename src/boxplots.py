@@ -43,7 +43,6 @@ list_aaindex_ids = ['BHAR880101', 'CASG920101', 'CHAM830107',
                     'RADA880108', 'TAKK010101', 'TAKK010101',
                     'VINM940101', 'WARP780101', 'WOLR790101',
                     'ZIMJ680101']
-list_aaindex_ids = ['CHOP780207']
 aaindex_data = retrieve_values_aaindex(list_aaindex_ids)
 web_aaindex_data_dict, aaindex_names_data = aaindex_data
 df_data = make_dataframe_from_aaindex_data(web_aaindex_data_dict,

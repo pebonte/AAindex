@@ -8,7 +8,7 @@ git clone https://github.com/pebonte/AAindex.git
 ```
 ### Requirements
 
-#### 1. A Linus/MAC OSX distribution.
+#### 1. A Linux/MAC OSX distribution.
 
 #### 2. Install the few required Python packages / modules :
 ```

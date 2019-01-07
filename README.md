@@ -8,9 +8,9 @@ git clone https://github.com/pebonte/AAindex.git
 ```
 ### Requirements
 
-1. A Linus/MAC OSX distribution.
+#### 1. A Linus/MAC OSX distribution.
 
-2. Install the few required Python packages / modules :
+#### 2. Install the few required Python packages / modules :
 ```
 pip install seaborn
 pip install scikit_posthocs
@@ -20,11 +20,11 @@ pip install matplotlib
 pip install numpy
 pip install scipy
 ```
-3. A Google chrome webdriver depending on OS:
-In the root of the git, a MAC OSX chromedriver is given. You need to download an Linux chromedriver and put it in the root in order to run the program. You can download it [here](https://chromedriver.storage.googleapis.com/index.html?path=2.45/)
+#### 3. A Google chrome webdriver depending on OS.
+In the root of the git, a MAC OSX chromedriver is given. You need to download a Linux chromedriver and put it in the root of the git in order to run the program. You can download it [here](https://chromedriver.storage.googleapis.com/index.html?path=2.45/)
 
 
-## Run the program
+### Run the program
 
 (Not necessary, data are already retrieved)
 ```

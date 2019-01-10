@@ -199,7 +199,7 @@ def make_dataframe_from_aaindex_data(web_aaindex_dict, aaindex_names, alignment_
     idx_family = 1
     for family in list(sorted(list(alignment_data.keys()))):
         if not family.startswith('number_of_seq'):
-            print('{:-^60s}'.format(family))
+            print('\nProcessing : {} family'.format(family))
             index_dict = {}
             for id_loop in range(1, 6):
                 for sequence_name in alignment_data[family]:
@@ -243,6 +243,7 @@ def make_dataframe_from_aaindex_data(web_aaindex_dict, aaindex_names, alignment_
                         sequence_name_value_list.append(sequence_name)
                         value_value_list.append(float(format(median_loop, '.2f')))
             # Delete dictionnary to free memory space
+            print('Done')
             del index_dict
     # Add 'Sequence_size' at the beginning of the list of aaindex
     list_aaindex.insert(0, 'Sequence_size')
@@ -254,6 +255,12 @@ def make_dataframe_from_aaindex_data(web_aaindex_dict, aaindex_names, alignment_
             'Value' : value_value_list}
     # Pandas dataframe from dictionary
     dataframe = pd.DataFrame(data)
+    data_directory_name = '../results/AAindex_results'
+    if not os.path.exists(data_directory_name):
+        os.mkdir(data_directory_name)
+    # Saving dataframe
+    dataframe.to_csv(data_directory_name + '/all_families_Loop_data.csv', sep='\t', encoding='utf-8', index=False)
+
     return data, dataframe, coding_family_name, list_aaindex
 
 def make_aaindex_boxplots_by_family(family_name, list_aaindex, dataframe, coding_family_name, alignment_data, aaindex_names):
@@ -271,9 +278,38 @@ def make_aaindex_boxplots_by_family(family_name, list_aaindex, dataframe, coding
     # Figure Parameters
     HEIGHT = 2100 * 1.5
     WIDTH = 1270 * 1.5
+    # Creation of directories to put data
+    data_directory_name = '../results/AAindex_results'
+    if not os.path.exists(data_directory_name):
+        os.mkdir(data_directory_name)
+    family_directory_name = data_directory_name +'/{}'.format(family_name)
+    if not os.path.exists(family_directory_name):
+        os.mkdir(family_directory_name)
+    plot_directory_name = family_directory_name + '/plots'
+    if not os.path.exists(plot_directory_name):
+        os.mkdir(plot_directory_name)
+    if not os.path.exists(plot_directory_name + '/ALL'):
+        os.mkdir(plot_directory_name + '/ALL')
+    if not os.path.exists(plot_directory_name + '/By_AAindex'):
+        os.mkdir(plot_directory_name + '/By_AAindex')
+    #Create dataframe for family from global dataframe
     family_df = dataframe.loc[dataframe['Family'] == coding_family_name[family_name]]
+    # Saving family dataframe
+    family_df.to_csv(family_directory_name + '/{}_Loop_data.csv'.format(family_name), sep='\t', encoding='utf-8', index=False)
+    ## Making matrix AAindex x Loop with median values
+    median_data_df = family_df.groupby(['AAindex', 'Loop'])[['Value']].median()
+    median_data_df.to_csv(family_directory_name + '/{}_Loop_median_data.csv'.format(family_name), sep='\t', encoding='utf-8')
+    median_data_df2 = pd.read_csv(family_directory_name + '/{}_Loop_median_data.csv'.format(family_name),  sep='\t', encoding='utf-8')
+    median_pivot_df = median_data_df2.pivot(index='AAindex', columns='Loop', values='Value')
+    os.remove(family_directory_name + '/{}_Loop_median_data.csv'.format(family_name))
+    median_pivot_df.to_csv(family_directory_name + '/{}_Loop_median_data.csv'.format(family_name), sep='\t', encoding='utf-8')
+    median_pivot_df = pd.read_csv(family_directory_name + '/{}_Loop_median_data.csv'.format(family_name), sep='\t', encoding='utf-8')
+    median_pivot_df.rename(columns={'1': 'Loop 1', '2': 'Loop 2','3': 'Loop 3','4': 'Loop 4','5': 'Loop 5'}, inplace=True)
+    os.remove(family_directory_name + '/{}_Loop_median_data.csv'.format(family_name))
+    median_pivot_df.to_csv(family_directory_name + '/{}_Loop_median_data.csv'.format(family_name), sep='\t', encoding='utf-8', index=False)
+    # Retrieving number of sequences in family from dictionnary
     n_seq_family = alignment_data['number_of_seq'][family_name]
-    print('{} sequences in {} family'.format(n_seq_family, family_name))
+    print('\nCreating plots for {} family : contains {} sequence(s)'.format(family_name, n_seq_family))
     # If more than 20 plots, will create multiple figures
     plots_left_to_do = len(list_aaindex) + 1
     idx_fig = 1
@@ -374,12 +410,30 @@ def make_aaindex_boxplots_by_family(family_name, list_aaindex, dataframe, coding
             ax2.set_xticklabels(['Loop1', 'Loop2', 'Loop3', 'Loop4', 'Loop5'], fontsize=7)
             # Adding plot to figure
             fig.add_subplot(ax2)
+            # single plot making
+            fig_alone = plt.figure(figsize=(12, 7))
+            gs_alone = gridspec.GridSpec(1, 1)
+            ax3 = plt.subplot(gs_alone[0, 0])
+            # Making boxplot
+            ax3.boxplot(boxplot_aaindex, showmeans=True)
+            # Setting plot title
+            ax3.set_title(aaindex + '\n' + name, fontsize=13)
+            # Setting x tick labels
+            ax3.set_xticklabels(['Loop1', 'Loop2', 'Loop3', 'Loop4', 'Loop5'], fontsize=7)
+            fig_alone.add_axes(ax3)
+            DPI = (fig_alone.get_dpi()) * 3
+            fig_alone.set_size_inches(float(HEIGHT)/float(DPI),float(WIDTH)/float(DPI))
+            # Saving single plots
+            fig_alone.savefig(plot_directory_name + '/By_AAindex/{}_AAindex_Data_for_{}'.format(aaindex, family_name))
+            plt.close(fig_alone)
             id_list += 1
         # Setting up figures parameters
         plt.subplots_adjust(hspace=0.75)
-        DPI = (fig.get_dpi()) * 2
+        DPI = (fig.get_dpi()) * 1.5
         fig.set_size_inches(float(HEIGHT)/float(DPI),float(WIDTH)/float(DPI))
         # Saving figure
-        fig.savefig('../results/AAindex_boxplots/AAindex_Data_for_{}_part{}'.format(family_name, idx_fig))
+        fig.savefig(plot_directory_name + '/ALL/AAindex_Data_for_{}_part{}'.format(family_name, idx_fig))
         plt.close(fig)
         idx_fig += 1
+    print('Done')
+

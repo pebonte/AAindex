@@ -1,0 +1,48 @@
+PileUp
+
+MSF: 140  Type: P  Check: 0  ..
+
+Name: 1f2sI                        Len:   140  Check: 2557  Weight:  1.00
+Name: 1h9hI                        Len:   140  Check: 6154  Weight:  1.00
+Name: 1h9iI                        Len:   140  Check: 6550  Weight:  1.00
+Name: 1mctI                        Len:   140  Check: 2665  Weight:  1.00
+Name: 1mcvI                        Len:   140  Check: 3624  Weight:  1.00
+Name: 1ppeI                        Len:   140  Check: 3668  Weight:  1.00
+Name: 2btcI                        Len:   140  Check: 3261  Weight:  1.00
+Name: 2staI                        Len:   140  Check: 3668  Weight:  1.00
+Name: 2stbI                        Len:   140  Check: 3261  Weight:  1.00
+
+//
+
+                             1                                                   50
+1f2sI                        ---------- -------RIC PRI------- ------WMEC KRD-------
+1h9hI                        ---------- --------GC PRI------- ------LIRC KQD-------
+1h9iI                        ---------- --------GC PRI------- ------LIRC KQD-------
+1mctI                        ---------- -------RIC PRI------- ------WMEC TRD-------
+1mcvI                        ---------- --------PC TLE------- ------YMRC KQD-------
+1ppeI                        ---------- -------RVC PRI------- ------LMEC KKD-------
+2btcI                        ---------- -------RVC PKI------- ------LMEC KKD-------
+2staI                        ---------- -------RVC PRI------- ------LMEC KKD-------
+2stbI                        ---------- -------RVC PKI------- ------LMEC KKD-------
+
+                             51                                                 100
+1f2sI                        -------SDC MAE------- -------CIC VM-------- -------GHC
+1h9hI                        -------SDC LAG------- -------CVC GP-------- ------NGFC
+1h9iI                        -------SDC LAG------- -------CVC TN-------- ------NKFC
+1mctI                        -------SDC MAK------- -------CIC VA-------- -------GHC
+1mcvI                        -------SDC LAG------- -------CVC GP-------- ------NGFC
+1ppeI                        -------SDC LAE------- -------CVC LE-------- ------HGYC
+2btcI                        -------SDC LAE------- -------CIC LE-------- ------HGYC
+2staI                        -------SDC LAE------- -------CVC LE-------- ------HGYC
+2stbI                        -------SDC LAE------- -------CIC LE-------- ------HGYC
+
+                             101                                     140
+1f2sI                        G--------- ---------- ---------- ----------
+1h9hI                        GSP------- ---------- ---------- ----------
+1h9iI                        GSP------- ---------- ---------- ----------
+1mctI                        G--------- ---------- ---------- ----------
+1mcvI                        G--------- ---------- ---------- ----------
+1ppeI                        G--------- ---------- ---------- ----------
+2btcI                        G--------- ---------- ---------- ----------
+2staI                        G--------- ---------- ---------- ----------
+2stbI                        G--------- ---------- ---------- ----------

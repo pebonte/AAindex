@@ -78,6 +78,7 @@ def retrieve_values_aaindex(aaindex_ids):
     br.quit()
     end = time.time()
     print('Running time = {} s'.format(end - start))
+    print(aaindex_dico)
     return aaindex_dico, aaindex_name
 
 def retrieve_loop_data(path, ext):
@@ -382,6 +383,10 @@ def make_aaindex_boxplots_by_family(family_name, list_aaindex, dataframe, coding
                 id_row += 1
                 id_col = 0
                 ax2 = plt.subplot(gs[id_row, id_col])
+            # single plot making
+            fig_alone = plt.figure(figsize=(12, 7))
+            gs_alone = gridspec.GridSpec(1, 1)
+            ax3 = plt.subplot(gs_alone[0, 0])
             # all aaindex except 'Sequence_size'
             if aaindex in aaindex_names:
                 name = aaindex_names[aaindex]
@@ -399,9 +404,11 @@ def make_aaindex_boxplots_by_family(family_name, list_aaindex, dataframe, coding
                 min_aaindex_value, max_aaindex_value = get_min_and_max(df_aaindex_all_family)
                 # Setting max and min values as y axis limits
                 ax2.set_ylim([min_aaindex_value, max_aaindex_value])
+                ax3.set_ylim([min_aaindex_value, max_aaindex_value])
             else:
                 name = ''
                 ax2.set_ylim([0, 40])
+                ax3.set_ylim([0, 40])
             # Setting plot title
             ax2.set_title(aaindex + '\n' + name, fontsize=13)
             # Making boxplot
@@ -410,10 +417,6 @@ def make_aaindex_boxplots_by_family(family_name, list_aaindex, dataframe, coding
             ax2.set_xticklabels(['Loop1', 'Loop2', 'Loop3', 'Loop4', 'Loop5'], fontsize=7)
             # Adding plot to figure
             fig.add_subplot(ax2)
-            # single plot making
-            fig_alone = plt.figure(figsize=(12, 7))
-            gs_alone = gridspec.GridSpec(1, 1)
-            ax3 = plt.subplot(gs_alone[0, 0])
             # Making boxplot
             ax3.boxplot(boxplot_aaindex, showmeans=True)
             # Setting plot title
